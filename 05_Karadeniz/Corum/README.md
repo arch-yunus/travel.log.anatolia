@@ -1,21 +1,21 @@
-# 📍 Corum - Keşif ve Tefekkür Notları
+# 📍 Corum - Evrensel Keşif ve Felsefe Notları
 
-## 📜 Şehir Hikmeti (Manifesto)
-> "Geçmişin yıkıntıları üzerindeki bugünün direncini keşfet."
-> "Toprağın bereketlendiği, kadim krallıkların fısıltılarının rüzgara karıştığı il."
+## 📜 Şehrin Kadim Hikmeti
+> "Toprağın altındaki binlerce yıllık tabletler, zamanın (Kronos) her şeyi nasıl eşitlediğini gösterir."
+> "Tarihin en eski barış antlaşmalarının doğduğu, Hitit güneşinin kadim izlerini taşıyan il."
 
-### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)
-Hititlerin kadim diyarı, Anadolu'nun sessiz bekçisi. Çorum, gösterişten uzak, bağrında binlerce yıllık bir uygarlığı saklayan mütevazı bir ev sahibidir. Hattuşaş'ın yıkıntıları arasında yürürken insan, bir zamanlar dünyayı yöneten krallıkların şimdi rüzgarda savrulan topraktan ibaret olduğunu görür ve gücün geçiciliğini anlar.
+### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
+Hititlerin kadim diyarı, dünyanın ilk yazılı barış antlaşmasının ev sahibi. Hattuşaş'ın yıkıntıları arasında yürürken insan, çok tanrılı pagan inanışlarından, bugünün tektanrılı felsefelerine uzanan o uzun yolculuğu tefekkür eder. Güçlü krallıklar bile zamanın rüzgarında savrulmuştur.
 
-### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)
-Bu şehir bize her saltanatın bir gün biteceğini, elde kalan tek şeyin kültür ve insanlık mirası olduğunu hatırlatır. Çorum'un toprakları, tarihin tekerrürden ibaret olduğunun doğal bir müzesidir.
+### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
+Bu şehir bize saltanatın geçici olduğunu, elde kalan tek şeyin kültür, barış ve insanlık mirası olduğunu fısıldar. Geçmişin Hitit tanrılarına yapılan ritüeller, bugün insanın kendi iç barışını (Nirvana/Mutmain) bulma çabasına evrilmiştir.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi, Antik ve Kutsal Duraklar
+Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
 - [ ] **Hattuşaş Antik Kenti**
 - [ ] **Alacahöyük**
 - [ ] **Çorum Müzesi**
-- [ ] **İncesu Kanyonu**
+- [ ] **Şapinuva**
 
 ---
-*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
+*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅

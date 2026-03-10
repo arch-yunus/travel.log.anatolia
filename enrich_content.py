@@ -84,20 +84,20 @@ def enrich_readme(file_path, city_name, region_name):
     clean_city = city_name.strip()
     
     # Base template for all
-    content = f"# 📍 {city_name} - Keşif Notları\n\n"
+    content = f"# 📍 {city_name} - Kadim Evrensel Keşif Notları\n\n"
     
     if clean_city in VISITED_DETAILS:
         details = VISITED_DETAILS[clean_city]
-        content += f"## 📜 Şehir Hikmeti (Manifesto)\n> \"{details['hikmet']}\"\n\n"
-        content += f"### 🌍 Şehrin Ruhu ve Hakikati\n{details['description']}\n\n"
-        content += "### ✨ Zâhiri ve Bâtıni Duraklar (Önerilen)\n"
+        content += f"## 📜 Şehrin Kadim Hikmeti (Logos)\n> \"{details['hikmet']}\"\n\n"
+        content += f"### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu\n{details['description']}\n\n"
+        content += "### ✨ Tarihi, Antik ve Kutsal Duraklar\n"
         for loc in details['landmarks']:
             content += f"- [ ] **{loc}**\n"
-        content += "\n---\n*Bu il bizzat derviş/gezgin tarafından sırrına erilecek şekilde adımlanmış ve tefekkür edilmiştir.* ✅\n"
+        content += "\n---\n*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅\n"
     else:
-        content += "## 📜 Şehir Felsefesi (Hikmet)\n> \"Dünyanın her köşesi O'nun (c.c) bir ayeti ve yeni bir tefekkürün başlangıcıdır.\"\n\n"
-        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun zengin kültüründe henüz sırrına erilmeyi ve deneyimlenmeyi bekleyen bir durak.\n\n"
-        content += "### 🕊️ Beklenen (Gelecek) Keşif\nBu il henüz seyahatnameye manevi olarak dahil edilmemiştir. Gelecekteki tekamül rotalarımızdan biri olması niyetimizdir.\n"
+        content += "## 📜 Şehir Felsefesi (Kadim Hikmet)\n> \"Evrenin her köşesi (Logos/Tao), okunmayı bekleyen yeni bir antik metin gibidir.\"\n\n"
+        content += f"### 🌍 {city_name} Hakkında\nAnadolu'nun çok kültürlü mozaiğinde (Pagan, Yunan, Roma, Hristiyan, İslam, Şaman) henüz sırrına erilmeyi bekleyen bir durak.\n\n"
+        content += "### 🕊️ Beklenen (Gelecek) Keşif\nBu il henüz seyahatnameye manevi ve felsefi olarak dahil edilmemiştir. Gelecekteki evrensel keşif rotalarımızdan biri olması niyetimizdir.\n"
 
     content += "\n## 📂 Alt İçerikler\nBu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.\n"
     

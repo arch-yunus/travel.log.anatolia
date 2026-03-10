@@ -1,13 +1,13 @@
-# 📍 Elazig - Keşif Notları
+# 📍 Elazig - Kadim Evrensel Keşif Notları
 
-## 📜 Şehir Felsefesi (Hikmet)
-> "Dünyanın her köşesi O'nun (c.c) bir ayeti ve yeni bir tefekkürün başlangıcıdır."
+## 📜 Şehir Felsefesi (Kadim Hikmet)
+> "Evrenin her köşesi (Logos/Tao), okunmayı bekleyen yeni bir antik metin gibidir."
 
 ### 🌍 Elazig Hakkında
-Anadolu'nun zengin kültüründe henüz sırrına erilmeyi ve deneyimlenmeyi bekleyen bir durak.
+Anadolu'nun çok kültürlü mozaiğinde (Pagan, Yunan, Roma, Hristiyan, İslam, Şaman) henüz sırrına erilmeyi bekleyen bir durak.
 
 ### 🕊️ Beklenen (Gelecek) Keşif
-Bu il henüz seyahatnameye manevi olarak dahil edilmemiştir. Gelecekteki tekamül rotalarımızdan biri olması niyetimizdir.
+Bu il henüz seyahatnameye manevi ve felsefi olarak dahil edilmemiştir. Gelecekteki evrensel keşif rotalarımızdan biri olması niyetimizdir.
 
 ## 📂 Alt İçerikler
 Bu klasörde şehre ait özel mekanlar, fotoğraflar ve kişisel notlar yer alır.

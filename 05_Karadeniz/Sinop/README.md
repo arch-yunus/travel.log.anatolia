@@ -1,21 +1,22 @@
-# 📍 Sinop - Keşif ve Tefekkür Notları
+# 📍 Sinop - Evrensel Keşif ve Felsefe Notları
 
-## 📜 Şehir Hikmeti (Manifesto)
-> "Gölge etme, doğanın ve sükunetin tadını çıkar."
-> "Mutluluğun sırrı çok şeye sahip olmakta değil, doğayla uyum içinde yaşamaktır."
+## 📜 Şehrin Kadim Hikmeti
+> "Gölge etme, başka ihsan istemem. En büyük zenginlik, kendine yetebilmektir."
+> "Sinoplu Diyojen'in fıçısında bulduğu hakikatin, dalgaların hüznüyle buluştuğu sükunet şehri."
 
-### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)
-Mutluluğun ve sükunetin şehri. Karadeniz'in en kuzey ucu. Dalgaların dövdüğü kaleleri ve tarih boyunca hüznü barındıran cezaeviyle zıtlıkların uyumunu sergileyen Sinop, inzivaya çekilmek isteyen ruhlar için bir barınaktır. Denizin kokusu ve ormanın fısıltısı, dünya telaşını ardında bırakanlara teselli verir.
+### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
+Antik çağın ünlü kinik filozofu Diyojen'in memleketi. Dünya malına ve hırslara sırt çevirip doğayla uyumu arayan bu felsefe, Sinop'un coğrafyasına sirayet etmiştir. Tarihi cezaevi, insanın fiziksel ve zihinsel esaretini sorgulatır.
 
-### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)
-Diyojen'in dünya malından vazgeçişini anımsatan bu şehir, sade yaşam felsefesine ne kadar yakındır. Tarihi hapishanede yaşananları tefekkür ederken, özgürlüğün insan için en değerli hazine olduğu idrak edilir.
+### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
+Tasavvuftaki 'terk' makamı ile Diyojen'in kinik felsefesi buralarda birbirine karışır. Cezaevinin soğuk duvarlarına bakıp, insanın kendi zihnine inşa ettiği görünmez hapishaneleri (Platon'un Mağarası) tefekkür etmek gerekir.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi, Antik ve Kutsal Duraklar
+Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
 - [ ] **Tarihi Sinop Cezaevi**
 - [ ] **Sinop Kalesi**
 - [ ] **Hamsilos Tabiat Parkı**
 - [ ] **Erfelek Şelaleleri**
+- [ ] **Diyojen Heykeli**
 
 ---
-*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
+*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅

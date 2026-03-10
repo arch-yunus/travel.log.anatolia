@@ -1,22 +1,22 @@
-# 📍 Antalya - Keşif ve Tefekkür Notları
+# 📍 Antalya - Evrensel Keşif ve Felsefe Notları
 
-## 📜 Şehir Hikmeti (Manifesto)
-> "Güneşin her gün yeniden doğuşu, tarihin hiç bitmeyecek döngüsünü anlatır."
-> "Dağların heybetiyle denizin bitimsiz kumsallarının buluştuğu antik medeniyetler beşiği."
+## 📜 Şehrin Kadim Hikmeti
+> "Zaman her taşı aşındırır, ama düşünce mermere kazınır ve yaşar."
+> "Lidyalılardan Romalılara, Selçuklulardan günümüze felsefeyi denizin mavisiyle harmanlayan diyar."
 
-### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)
-Akdeniz'in vitrini, sayısız uygarlığın limanı. Olympos'un yanan ateşi, Kaleiçi'nin dar sokaklarını süsleyen begonviller, Antalya'yı sadece bir tatil cenneti değil, aynı zamanda devasa bir açık hava müzesi yapar. Romalıların, Selçukluların adımladığı mozaiklerde yürümek, tarih içindeki yolculuğu iliklerinize kadar hissettirir.
+### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
+Akdeniz'in vitrini ve antik dünyanın en değerli liman ve yerleşim ağlarından (Likya) biri. Olympos'un hiç sönmeyen ateşi (Chimaera), insanın içindeki kutsal arayışın pagan bir yansıması gibidir. Romalı amfitiyatrolar, sanatın ve trajedinin beşiği olarak bize duygularımızı hatırlatır.
 
-### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)
-Hadrian Kapısı'ndan geçerken asırların ne kadar çabuk geçtiği ve devasa imparatorluklardan geriye sadece sütunların ve sanatsal yapıların kaldığı idrak edilir. Akdeniz'in mavisi, insana sonsuz bir huzur verir.
+### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
+Hadrian Kapısı'ndan geçerken, imparatorluk çökse de sanatın ve taşın hafızasının (Kolektif Bilinçdışı) kaldığını fark edersiniz. Akdeniz'in sonsuz mavisi, insana ruhani bir dinginlik (Ataraksiya) verir.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi, Antik ve Kutsal Duraklar
+Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
 - [ ] **Kaleiçi**
 - [ ] **Hadrian Kapısı**
 - [ ] **Antalya Müzesi**
 - [ ] **Olympos Antik Kenti**
-- [ ] **Kaputaş Plajı**
+- [ ] **Phaselis**
 
 ---
-*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
+*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅

@@ -1,21 +1,21 @@
-# 📍 Amasya - Keşif ve Tefekkür Notları
+# 📍 Amasya - Evrensel Keşif ve Felsefe Notları
 
-## 📜 Şehir Hikmeti (Manifesto)
-> "Dağları delmek zordur ama zamanı anlamak daha zordur."
-> "Kayaların nehrin akışını sessizce izlediği, efsanelerin taşa kazındığı vadi."
+## 📜 Şehrin Kadim Hikmeti
+> "Maddenin (Kayanın) direnci, insanın yaratıcı iradesi karşısında her zaman boyun eğer."
+> "Pontus krallarının izleri, Ferhat'ın dağı delen arzusu ve suyun sessiz zikriyle örülü vadi."
 
-### 🌍 Şehrin Ruhu ve Hakikati (Kültürel Doku)
-Şehzadeler şehri, epik hikayelerin diyarı. Yeşilırmak'ın aynasında tarihini izleyen kent. Amasya vadinin içine gizlenmiş, sırlarını sadece ona gönül verenlere açan mütavazı bir şehirdir. Akşamları kayalara oyulmuş mezarlara vuran ışıklarla aydınlanan şehir, insanın doğa karşısındaki çabasının muazzam bir tezatını sunar.
+### 🌍 Şehrin Antik Ruhu ve Çok Kültürlü Dokusu
+Elmanın, Ferhat ile Şirin'in, Strabon'un (Antik Coğrafyacı) memleketi. Yeşilırmak'ın aynasında farklı inançları izleyen kent. Amasya vadinin içine gizlenmiş, sırlarını hem antik kaya mezarlarıyla hem de Osmanlı mimarisiyle anlatan devasa bir felsefi tablodur.
 
-### 🕊️ Bâtıni Notlar (Derviş/Gezgin Perspektifi)
-Amasya'da Ferhat'ın Şirin'e duyduğu aşkın aslında insanın bir gaye uğruna neleri feda edebileceğinin öyküsü olduğunu tefekkür etmek gerekir. Yalıboyu evlerindeki ahşap işçiliği, Amasya insanının sanata olan tutkusunu yansıtır.
+### 🕊️ Felsefi ve Bâtıni Notlar (Arkeolojik & Ruhani Perspektif)
+Amasya'da Ferhat'ın Şirin'e duyduğu aşk, insanın bir gaye uğruna maddesel dünyayı nasıl aşabileceğinin öyküsüdür. Pontus krallarının mezarları, gücün geçiciliğine (Memento Mori) dikkat çeker.
 
-### ✨ Zâhiri ve Bâtıni Duraklar
-Seyyahın ve keşif tutkunlarının adımlaması, ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
+### ✨ Tarihi, Antik ve Kutsal Duraklar
+Arayıcının adımlaması ve ibret alması tavsiye edilen mukaddes ve tarihi mekanlar:
 - [ ] **Kral Kaya Mezarları**
 - [ ] **Amasya Kalesi**
 - [ ] **II. Bayezid Külliyesi**
 - [ ] **Yalıboyu Evleri**
 
 ---
-*Bu il bizzat seyyah tarafından sırrına erilecek şekilde deneyimlenmiş ve tarihi dokusu kayıt altına alınmıştır.* ✅
+*Bu il bizzat evrensel bir arayıcı tarafından ziyaret edilmiş, tarihsel ve felsefi katmanları idrak edilmiştir.* ✅
