@@ -17,7 +17,7 @@
             <meta name="viewport" content="width=device-width,
                 initial-scale=1.0, maximum-scale=1.0, user-scalable=no" />
             <style>
-                #map_2e7c25ed77934875ccd629efa737544e {
+                #map_c5f44d186dd20b50c2abe2f6b194e7ed {
                     position: relative;
                     width: 100.0%;
                     height: 100.0%;
@@ -60,14 +60,14 @@
              <h3 align="center" style="font-size:20px; color:white;"><b>Türkiye Keşif Haritası - Travel.log</b></h3>
              
     
-            <div class="folium-map" id="map_2e7c25ed77934875ccd629efa737544e" ></div>
+            <div class="folium-map" id="map_c5f44d186dd20b50c2abe2f6b194e7ed" ></div>
         
 </body>
 <script>
     
     
-            var map_2e7c25ed77934875ccd629efa737544e = L.map(
-                "map_2e7c25ed77934875ccd629efa737544e",
+            var map_c5f44d186dd20b50c2abe2f6b194e7ed = L.map(
+                "map_c5f44d186dd20b50c2abe2f6b194e7ed",
                 {
                     center: [38.9637, 35.2433],
                     crs: L.CRS.EPSG3857,
@@ -84,7 +84,7 @@
 
         
     
-            var tile_layer_b42f2fd30d1b08eb378d004170a2d024 = L.tileLayer(
+            var tile_layer_38b98fab78ede8f89da238ca7223ba31 = L.tileLayer(
                 "https://{s}.basemaps.cartocdn.com/dark_all/{z}/{x}/{y}{r}.png",
                 {
   "minZoom": 0,
@@ -101,61 +101,23 @@
             );
         
     
-            tile_layer_b42f2fd30d1b08eb378d004170a2d024.addTo(map_2e7c25ed77934875ccd629efa737544e);
+            tile_layer_38b98fab78ede8f89da238ca7223ba31.addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            var marker_cluster_569e4d6b49975733744fc08f611cf684 = L.markerClusterGroup(
+            var marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6 = L.markerClusterGroup(
                 {
 }
             );
         
     
-            var marker_d141a20f00838b37a00ea307cf365d63 = L.marker(
-                [40.7654, 29.9408],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_841ecc7a9a770a9b4dc3ae19c64846bc = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_2aa1c27b28d38512b388f0306d1c8216 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_abac1dcf444db65190caee726a44d7cc = $(`<div id="html_abac1dcf444db65190caee726a44d7cc" style="width: 100.0%; height: 100.0%;"><b>Kocaeli</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_2aa1c27b28d38512b388f0306d1c8216.setContent(html_abac1dcf444db65190caee726a44d7cc);
-            
-        
-
-        marker_d141a20f00838b37a00ea307cf365d63.bindPopup(popup_2aa1c27b28d38512b388f0306d1c8216)
-        ;
-
-        
-    
-    
-                marker_d141a20f00838b37a00ea307cf365d63.setIcon(icon_841ecc7a9a770a9b4dc3ae19c64846bc);
-            
-    
-            var marker_4a9f61e227380a6a621ede2d36ca4823 = L.marker(
+            var marker_2916a7e4ca966ab70c510064034be2db = L.marker(
                 [40.65, 35.8333],
                 {
 }
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
         
     
-            var icon_46311ff840575fd9fbb5413742ab2d12 = L.AwesomeMarkers.icon(
+            var icon_91ffc07323a530dbf3edeb4803d4a0ba = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -166,224 +128,34 @@
             );
         
     
-        var popup_81a1d487423fb01326a032f314038286 = L.popup({
+        var popup_b66cd9a12edc6d64f168eff26722ff3c = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_d2c77c615fa59e1447c736e954c8bebc = $(`<div id="html_d2c77c615fa59e1447c736e954c8bebc" style="width: 100.0%; height: 100.0%;"><b>Amasya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_81a1d487423fb01326a032f314038286.setContent(html_d2c77c615fa59e1447c736e954c8bebc);
+                var html_d4cd92c3513c80afd198c062f5b4cbe1 = $(`<div id="html_d4cd92c3513c80afd198c062f5b4cbe1" style="width: 100.0%; height: 100.0%;"><b>Amasya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_b66cd9a12edc6d64f168eff26722ff3c.setContent(html_d4cd92c3513c80afd198c062f5b4cbe1);
             
         
 
-        marker_4a9f61e227380a6a621ede2d36ca4823.bindPopup(popup_81a1d487423fb01326a032f314038286)
+        marker_2916a7e4ca966ab70c510064034be2db.bindPopup(popup_b66cd9a12edc6d64f168eff26722ff3c)
         ;
 
         
     
     
-                marker_4a9f61e227380a6a621ede2d36ca4823.setIcon(icon_46311ff840575fd9fbb5413742ab2d12);
+                marker_2916a7e4ca966ab70c510064034be2db.setIcon(icon_91ffc07323a530dbf3edeb4803d4a0ba);
             
     
-            var marker_631daf0a51f3a0744f2277d483b52c74 = L.marker(
-                [40.9839, 37.8764],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_15ff88691050153de710e50ee88d59cb = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_7e54b0fbec557ca0b9106ade34b6b134 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_181050507b40b7beecd1c7466d0a1c73 = $(`<div id="html_181050507b40b7beecd1c7466d0a1c73" style="width: 100.0%; height: 100.0%;"><b>Ordu</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_7e54b0fbec557ca0b9106ade34b6b134.setContent(html_181050507b40b7beecd1c7466d0a1c73);
-            
-        
-
-        marker_631daf0a51f3a0744f2277d483b52c74.bindPopup(popup_7e54b0fbec557ca0b9106ade34b6b134)
-        ;
-
-        
-    
-    
-                marker_631daf0a51f3a0744f2277d483b52c74.setIcon(icon_15ff88691050153de710e50ee88d59cb);
-            
-    
-            var marker_ee09e8e50ec86e167812d8184a7a9fcf = L.marker(
-                [40.5506, 34.9556],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_d35922ab003e0ce15dcd47d1a753ca95 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_b74988ae69945db4cd40163719c6fe73 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_201d7985f4a2b2f4b7198f2c2a566225 = $(`<div id="html_201d7985f4a2b2f4b7198f2c2a566225" style="width: 100.0%; height: 100.0%;"><b>Çorum</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_b74988ae69945db4cd40163719c6fe73.setContent(html_201d7985f4a2b2f4b7198f2c2a566225);
-            
-        
-
-        marker_ee09e8e50ec86e167812d8184a7a9fcf.bindPopup(popup_b74988ae69945db4cd40163719c6fe73)
-        ;
-
-        
-    
-    
-                marker_ee09e8e50ec86e167812d8184a7a9fcf.setIcon(icon_d35922ab003e0ce15dcd47d1a753ca95);
-            
-    
-            var marker_a803684cff748beffd53ba168ff99a90 = L.marker(
-                [37.7765, 29.0864],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_bee9e80208bdfa71f38f37a46d2e703c = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_96df1547f1c7cfc9403d0e769e973cfe = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_05d55e8674b4086dbece4547e28acbd4 = $(`<div id="html_05d55e8674b4086dbece4547e28acbd4" style="width: 100.0%; height: 100.0%;"><b>Denizli</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_96df1547f1c7cfc9403d0e769e973cfe.setContent(html_05d55e8674b4086dbece4547e28acbd4);
-            
-        
-
-        marker_a803684cff748beffd53ba168ff99a90.bindPopup(popup_96df1547f1c7cfc9403d0e769e973cfe)
-        ;
-
-        
-    
-    
-                marker_a803684cff748beffd53ba168ff99a90.setIcon(icon_bee9e80208bdfa71f38f37a46d2e703c);
-            
-    
-            var marker_065908029782894429dcda79de788553 = L.marker(
-                [40.1828, 29.0667],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_1e718e244fa4ba1e4ae57ffd724c3b0e = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_49de6e3f0152da9086b4285f40edc99e = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_917563d5863fcbe42b8211543f497204 = $(`<div id="html_917563d5863fcbe42b8211543f497204" style="width: 100.0%; height: 100.0%;"><b>Bursa</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_49de6e3f0152da9086b4285f40edc99e.setContent(html_917563d5863fcbe42b8211543f497204);
-            
-        
-
-        marker_065908029782894429dcda79de788553.bindPopup(popup_49de6e3f0152da9086b4285f40edc99e)
-        ;
-
-        
-    
-    
-                marker_065908029782894429dcda79de788553.setIcon(icon_1e718e244fa4ba1e4ae57ffd724c3b0e);
-            
-    
-            var marker_c206f6f3060fb1ea24dcaf0b6e189c07 = L.marker(
-                [39.9208, 32.8541],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_cc3d5976fbe33505419d590cbe2b192f = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_7e976c2171cebf4094e7e6d205aa65aa = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_4c3b88dba1127618f37a599cc358e64e = $(`<div id="html_4c3b88dba1127618f37a599cc358e64e" style="width: 100.0%; height: 100.0%;"><b>Ankara</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_7e976c2171cebf4094e7e6d205aa65aa.setContent(html_4c3b88dba1127618f37a599cc358e64e);
-            
-        
-
-        marker_c206f6f3060fb1ea24dcaf0b6e189c07.bindPopup(popup_7e976c2171cebf4094e7e6d205aa65aa)
-        ;
-
-        
-    
-    
-                marker_c206f6f3060fb1ea24dcaf0b6e189c07.setIcon(icon_cc3d5976fbe33505419d590cbe2b192f);
-            
-    
-            var marker_735e3e11ac5804c6d6523e6d8dc91779 = L.marker(
+            var marker_ba42120de14376a4fe513395f204d16c = L.marker(
                 [41.0082, 28.9784],
                 {
 }
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
         
     
-            var icon_ee43a2a22b1ff95ad22f8f7c35bb3bcf = L.AwesomeMarkers.icon(
+            var icon_3995b6613d3b87d43fb4cbb0a6e7d44b = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -394,148 +166,34 @@
             );
         
     
-        var popup_a495470dcf60980ed5fdcf27a87ec587 = L.popup({
+        var popup_f08e81eee5bedf8a359e9c40f532a3bf = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_7fbc264d39ca283568c14262351aecd3 = $(`<div id="html_7fbc264d39ca283568c14262351aecd3" style="width: 100.0%; height: 100.0%;"><b>İstanbul</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_a495470dcf60980ed5fdcf27a87ec587.setContent(html_7fbc264d39ca283568c14262351aecd3);
+                var html_697599548480088ac0364bc1c8b095d8 = $(`<div id="html_697599548480088ac0364bc1c8b095d8" style="width: 100.0%; height: 100.0%;"><b>İstanbul</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_f08e81eee5bedf8a359e9c40f532a3bf.setContent(html_697599548480088ac0364bc1c8b095d8);
             
         
 
-        marker_735e3e11ac5804c6d6523e6d8dc91779.bindPopup(popup_a495470dcf60980ed5fdcf27a87ec587)
+        marker_ba42120de14376a4fe513395f204d16c.bindPopup(popup_f08e81eee5bedf8a359e9c40f532a3bf)
         ;
 
         
     
     
-                marker_735e3e11ac5804c6d6523e6d8dc91779.setIcon(icon_ee43a2a22b1ff95ad22f8f7c35bb3bcf);
+                marker_ba42120de14376a4fe513395f204d16c.setIcon(icon_3995b6613d3b87d43fb4cbb0a6e7d44b);
             
     
-            var marker_c25dfb8658c8c9cce6ebb0be4b9d93c2 = L.marker(
-                [42.0231, 35.1531],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_94b91b0029f0d4fb62ae2171ce007a35 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_28b0aa484973f27638d24de31d1f4f90 = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_38419b21186f4aa6f12d3e32449bab90 = $(`<div id="html_38419b21186f4aa6f12d3e32449bab90" style="width: 100.0%; height: 100.0%;"><b>Sinop</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_28b0aa484973f27638d24de31d1f4f90.setContent(html_38419b21186f4aa6f12d3e32449bab90);
-            
-        
-
-        marker_c25dfb8658c8c9cce6ebb0be4b9d93c2.bindPopup(popup_28b0aa484973f27638d24de31d1f4f90)
-        ;
-
-        
-    
-    
-                marker_c25dfb8658c8c9cce6ebb0be4b9d93c2.setIcon(icon_94b91b0029f0d4fb62ae2171ce007a35);
-            
-    
-            var marker_502a8ce3e3adaebad0c2430eee27c9ae = L.marker(
-                [41.2867, 36.33],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_62789e6ee5901b8eb04fe71bebf39854 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_48de3adfd8c243d5af7953017a15b33e = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_c22dafe878ae797f346b5fecd88f71ef = $(`<div id="html_c22dafe878ae797f346b5fecd88f71ef" style="width: 100.0%; height: 100.0%;"><b>Samsun</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_48de3adfd8c243d5af7953017a15b33e.setContent(html_c22dafe878ae797f346b5fecd88f71ef);
-            
-        
-
-        marker_502a8ce3e3adaebad0c2430eee27c9ae.bindPopup(popup_48de3adfd8c243d5af7953017a15b33e)
-        ;
-
-        
-    
-    
-                marker_502a8ce3e3adaebad0c2430eee27c9ae.setIcon(icon_62789e6ee5901b8eb04fe71bebf39854);
-            
-    
-            var marker_71a76db7984ba9b959c22e9185eddae2 = L.marker(
-                [40.9128, 38.3895],
-                {
-}
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
-        
-    
-            var icon_1d3da97c40fcbd457aa2ef11355dec09 = L.AwesomeMarkers.icon(
-                {
-  "markerColor": "green",
-  "iconColor": "white",
-  "icon": "info-sign",
-  "prefix": "glyphicon",
-  "extraClasses": "fa-rotate-0",
-}
-            );
-        
-    
-        var popup_2f475ff907c992fc13134dbc2905c6ab = L.popup({
-  "maxWidth": "100%",
-});
-
-        
-            
-                var html_31f8db702c9a472ac81ff47658520737 = $(`<div id="html_31f8db702c9a472ac81ff47658520737" style="width: 100.0%; height: 100.0%;"><b>Giresun</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_2f475ff907c992fc13134dbc2905c6ab.setContent(html_31f8db702c9a472ac81ff47658520737);
-            
-        
-
-        marker_71a76db7984ba9b959c22e9185eddae2.bindPopup(popup_2f475ff907c992fc13134dbc2905c6ab)
-        ;
-
-        
-    
-    
-                marker_71a76db7984ba9b959c22e9185eddae2.setIcon(icon_1d3da97c40fcbd457aa2ef11355dec09);
-            
-    
-            var marker_0258f13bc266bba75a95339e6b8f750f = L.marker(
+            var marker_cb2b6d1136e4d9dcaae4ba71a16786ce = L.marker(
                 [37.8667, 32.4833],
                 {
 }
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
         
     
-            var icon_68e7aa91b7f44af9d7bc7d848184e0f6 = L.AwesomeMarkers.icon(
+            var icon_f1ede16c99fcaaf70976b1807da2ad72 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -546,34 +204,72 @@
             );
         
     
-        var popup_8af9af4b900dc79919ac00d3ea1fd528 = L.popup({
+        var popup_a207cb2fc364940ce396218da1dcbd3e = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_5c411003e3f787c978b1b968e0e7720a = $(`<div id="html_5c411003e3f787c978b1b968e0e7720a" style="width: 100.0%; height: 100.0%;"><b>Konya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_8af9af4b900dc79919ac00d3ea1fd528.setContent(html_5c411003e3f787c978b1b968e0e7720a);
+                var html_99211c2fba736f3c40fe0dd39c125d5f = $(`<div id="html_99211c2fba736f3c40fe0dd39c125d5f" style="width: 100.0%; height: 100.0%;"><b>Konya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_a207cb2fc364940ce396218da1dcbd3e.setContent(html_99211c2fba736f3c40fe0dd39c125d5f);
             
         
 
-        marker_0258f13bc266bba75a95339e6b8f750f.bindPopup(popup_8af9af4b900dc79919ac00d3ea1fd528)
+        marker_cb2b6d1136e4d9dcaae4ba71a16786ce.bindPopup(popup_a207cb2fc364940ce396218da1dcbd3e)
         ;
 
         
     
     
-                marker_0258f13bc266bba75a95339e6b8f750f.setIcon(icon_68e7aa91b7f44af9d7bc7d848184e0f6);
+                marker_cb2b6d1136e4d9dcaae4ba71a16786ce.setIcon(icon_f1ede16c99fcaaf70976b1807da2ad72);
             
     
-            var marker_ea262aab9491108e39948a43fbd3b2fd = L.marker(
+            var marker_a2ed2cf2e2c290c6ac7eaf9431f40896 = L.marker(
+                [37.7765, 29.0864],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_851428e8c9560c57970aa8148c0aaa14 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_54071424c7c6b60671009038e3a958ac = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_184e47c46612c645565206fcaedbd9a2 = $(`<div id="html_184e47c46612c645565206fcaedbd9a2" style="width: 100.0%; height: 100.0%;"><b>Denizli</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_54071424c7c6b60671009038e3a958ac.setContent(html_184e47c46612c645565206fcaedbd9a2);
+            
+        
+
+        marker_a2ed2cf2e2c290c6ac7eaf9431f40896.bindPopup(popup_54071424c7c6b60671009038e3a958ac)
+        ;
+
+        
+    
+    
+                marker_a2ed2cf2e2c290c6ac7eaf9431f40896.setIcon(icon_851428e8c9560c57970aa8148c0aaa14);
+            
+    
+            var marker_8794b6600014090480e208596902446f = L.marker(
                 [36.8841, 30.7056],
                 {
 }
-            ).addTo(marker_cluster_569e4d6b49975733744fc08f611cf684);
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
         
     
-            var icon_ca7631d7e57bd415d2a2d424a09d3c87 = L.AwesomeMarkers.icon(
+            var icon_c3ef74b28945abf171155816583d29d1 = L.AwesomeMarkers.icon(
                 {
   "markerColor": "green",
   "iconColor": "white",
@@ -584,36 +280,340 @@
             );
         
     
-        var popup_6de927fbd191a0612966545552c5fc5f = L.popup({
+        var popup_a59eda4a542914d53ad87e3a415e5732 = L.popup({
   "maxWidth": "100%",
 });
 
         
             
-                var html_bd1c7efbb93d4115b124d42be90b84d4 = $(`<div id="html_bd1c7efbb93d4115b124d42be90b84d4" style="width: 100.0%; height: 100.0%;"><b>Antalya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
-                popup_6de927fbd191a0612966545552c5fc5f.setContent(html_bd1c7efbb93d4115b124d42be90b84d4);
+                var html_c2422f249cec9251651b980c2fb74575 = $(`<div id="html_c2422f249cec9251651b980c2fb74575" style="width: 100.0%; height: 100.0%;"><b>Antalya</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_a59eda4a542914d53ad87e3a415e5732.setContent(html_c2422f249cec9251651b980c2fb74575);
             
         
 
-        marker_ea262aab9491108e39948a43fbd3b2fd.bindPopup(popup_6de927fbd191a0612966545552c5fc5f)
+        marker_8794b6600014090480e208596902446f.bindPopup(popup_a59eda4a542914d53ad87e3a415e5732)
         ;
 
         
     
     
-                marker_ea262aab9491108e39948a43fbd3b2fd.setIcon(icon_ca7631d7e57bd415d2a2d424a09d3c87);
+                marker_8794b6600014090480e208596902446f.setIcon(icon_c3ef74b28945abf171155816583d29d1);
             
     
-            marker_cluster_569e4d6b49975733744fc08f611cf684.addTo(map_2e7c25ed77934875ccd629efa737544e);
+            var marker_dbedbd8d1fb8df05afd9435e00966344 = L.marker(
+                [40.7654, 29.9408],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
         
     
-            var circle_marker_08b41c1e4e946e559ad4f29983b52a0b = L.circleMarker(
+            var icon_3ff113eb653f5d55607939d5300ae0ce = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_029f125cde4c5114c91ac712ecfc03fb = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_24fe4555586465ab4f0e4bf21c57553d = $(`<div id="html_24fe4555586465ab4f0e4bf21c57553d" style="width: 100.0%; height: 100.0%;"><b>Kocaeli</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_029f125cde4c5114c91ac712ecfc03fb.setContent(html_24fe4555586465ab4f0e4bf21c57553d);
+            
+        
+
+        marker_dbedbd8d1fb8df05afd9435e00966344.bindPopup(popup_029f125cde4c5114c91ac712ecfc03fb)
+        ;
+
+        
+    
+    
+                marker_dbedbd8d1fb8df05afd9435e00966344.setIcon(icon_3ff113eb653f5d55607939d5300ae0ce);
+            
+    
+            var marker_f36c032944704a6e73330499e339c4d3 = L.marker(
+                [40.9128, 38.3895],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_ffff63e71cba1a9da64187271140042c = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_09ee8bcecdf2df37377d6e07306b955d = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_53d07bc1bab6f318ea08e0ad8c213f65 = $(`<div id="html_53d07bc1bab6f318ea08e0ad8c213f65" style="width: 100.0%; height: 100.0%;"><b>Giresun</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_09ee8bcecdf2df37377d6e07306b955d.setContent(html_53d07bc1bab6f318ea08e0ad8c213f65);
+            
+        
+
+        marker_f36c032944704a6e73330499e339c4d3.bindPopup(popup_09ee8bcecdf2df37377d6e07306b955d)
+        ;
+
+        
+    
+    
+                marker_f36c032944704a6e73330499e339c4d3.setIcon(icon_ffff63e71cba1a9da64187271140042c);
+            
+    
+            var marker_97550bc758eca9f18b5ae13277b08158 = L.marker(
+                [42.0231, 35.1531],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_d10bdef456bc129e843040b9262b3d3d = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_09cfbaedc9725e47c7f41f990dc43e0c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_913af15596e08641dba967c331dcb95b = $(`<div id="html_913af15596e08641dba967c331dcb95b" style="width: 100.0%; height: 100.0%;"><b>Sinop</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_09cfbaedc9725e47c7f41f990dc43e0c.setContent(html_913af15596e08641dba967c331dcb95b);
+            
+        
+
+        marker_97550bc758eca9f18b5ae13277b08158.bindPopup(popup_09cfbaedc9725e47c7f41f990dc43e0c)
+        ;
+
+        
+    
+    
+                marker_97550bc758eca9f18b5ae13277b08158.setIcon(icon_d10bdef456bc129e843040b9262b3d3d);
+            
+    
+            var marker_bc7e7b60b8494db5cba4e53676191045 = L.marker(
+                [40.9839, 37.8764],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_3e620d287a184b23c32176a5f6fd319f = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_3a522ccea29b20b0579e2a11e9fb4d7c = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_9a0ff5ffaf62b464dcc80c258e7a9e37 = $(`<div id="html_9a0ff5ffaf62b464dcc80c258e7a9e37" style="width: 100.0%; height: 100.0%;"><b>Ordu</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_3a522ccea29b20b0579e2a11e9fb4d7c.setContent(html_9a0ff5ffaf62b464dcc80c258e7a9e37);
+            
+        
+
+        marker_bc7e7b60b8494db5cba4e53676191045.bindPopup(popup_3a522ccea29b20b0579e2a11e9fb4d7c)
+        ;
+
+        
+    
+    
+                marker_bc7e7b60b8494db5cba4e53676191045.setIcon(icon_3e620d287a184b23c32176a5f6fd319f);
+            
+    
+            var marker_95092f9f0752d22aeeadb2c00471435e = L.marker(
+                [41.2867, 36.33],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_9694d61caf3d7282208d0bff8d5d2f66 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_37d7b4e465df27b36a8d2c02e8b301b7 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_e79488dc5f83e5e81a0a0c2cefbc3543 = $(`<div id="html_e79488dc5f83e5e81a0a0c2cefbc3543" style="width: 100.0%; height: 100.0%;"><b>Samsun</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_37d7b4e465df27b36a8d2c02e8b301b7.setContent(html_e79488dc5f83e5e81a0a0c2cefbc3543);
+            
+        
+
+        marker_95092f9f0752d22aeeadb2c00471435e.bindPopup(popup_37d7b4e465df27b36a8d2c02e8b301b7)
+        ;
+
+        
+    
+    
+                marker_95092f9f0752d22aeeadb2c00471435e.setIcon(icon_9694d61caf3d7282208d0bff8d5d2f66);
+            
+    
+            var marker_e7c6c06059741d3e408ebb9c8c38948f = L.marker(
+                [39.9208, 32.8541],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_ecb05eec83fe7f98b5499e9fd5becc0b = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_2ddfd494e9af6137b157bad979a8e001 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_d37caef0eb35e69e885b53e778215f29 = $(`<div id="html_d37caef0eb35e69e885b53e778215f29" style="width: 100.0%; height: 100.0%;"><b>Ankara</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_2ddfd494e9af6137b157bad979a8e001.setContent(html_d37caef0eb35e69e885b53e778215f29);
+            
+        
+
+        marker_e7c6c06059741d3e408ebb9c8c38948f.bindPopup(popup_2ddfd494e9af6137b157bad979a8e001)
+        ;
+
+        
+    
+    
+                marker_e7c6c06059741d3e408ebb9c8c38948f.setIcon(icon_ecb05eec83fe7f98b5499e9fd5becc0b);
+            
+    
+            var marker_e00fabc40b21e9c7527cb5a1b8223821 = L.marker(
+                [40.1828, 29.0667],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_5392258f7eeef0a43c8c5dd00f760195 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_81c04645f2606f6b70f0468ef1497ec2 = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_2e2969b7ab29399d0c111937d785f9b5 = $(`<div id="html_2e2969b7ab29399d0c111937d785f9b5" style="width: 100.0%; height: 100.0%;"><b>Bursa</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_81c04645f2606f6b70f0468ef1497ec2.setContent(html_2e2969b7ab29399d0c111937d785f9b5);
+            
+        
+
+        marker_e00fabc40b21e9c7527cb5a1b8223821.bindPopup(popup_81c04645f2606f6b70f0468ef1497ec2)
+        ;
+
+        
+    
+    
+                marker_e00fabc40b21e9c7527cb5a1b8223821.setIcon(icon_5392258f7eeef0a43c8c5dd00f760195);
+            
+    
+            var marker_f21de6db4bbf23fcf4b410dd6d119b63 = L.marker(
+                [40.5506, 34.9556],
+                {
+}
+            ).addTo(marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6);
+        
+    
+            var icon_9be874feb20bad5fd26256b9e3794b57 = L.AwesomeMarkers.icon(
+                {
+  "markerColor": "green",
+  "iconColor": "white",
+  "icon": "info-sign",
+  "prefix": "glyphicon",
+  "extraClasses": "fa-rotate-0",
+}
+            );
+        
+    
+        var popup_8a94eaa857ffdd928fc7dce2650ad64f = L.popup({
+  "maxWidth": "100%",
+});
+
+        
+            
+                var html_a4c0b9aa319b56964b6f97629075e1c8 = $(`<div id="html_a4c0b9aa319b56964b6f97629075e1c8" style="width: 100.0%; height: 100.0%;"><b>Çorum</b><br>1 Adet Rota Ziyaret Edildi.</div>`)[0];
+                popup_8a94eaa857ffdd928fc7dce2650ad64f.setContent(html_a4c0b9aa319b56964b6f97629075e1c8);
+            
+        
+
+        marker_f21de6db4bbf23fcf4b410dd6d119b63.bindPopup(popup_8a94eaa857ffdd928fc7dce2650ad64f)
+        ;
+
+        
+    
+    
+                marker_f21de6db4bbf23fcf4b410dd6d119b63.setIcon(icon_9be874feb20bad5fd26256b9e3794b57);
+            
+    
+            marker_cluster_c78362b6f09541aebf6d0f4b53b02ce6.addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
+        
+    
+            var circle_marker_98d3273b66d61fd6389dcdcc00b8a4fa = L.circleMarker(
                 [37.0, 35.3213],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_08b41c1e4e946e559ad4f29983b52a0b.bindTooltip(
+            circle_marker_98d3273b66d61fd6389dcdcc00b8a4fa.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Adana
                  </div>`,
@@ -623,13 +623,13 @@
             );
         
     
-            var circle_marker_f56cb7965b2541b6897c14e826f74b94 = L.circleMarker(
+            var circle_marker_caf5524954f63588a8fe6a08eaecae85 = L.circleMarker(
                 [37.7648, 38.2786],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_f56cb7965b2541b6897c14e826f74b94.bindTooltip(
+            circle_marker_caf5524954f63588a8fe6a08eaecae85.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Adıyaman
                  </div>`,
@@ -639,13 +639,13 @@
             );
         
     
-            var circle_marker_902a34aa2abcb7958ddd8c80da4d6554 = L.circleMarker(
+            var circle_marker_fcbe8987146cd4dc6dee539d5f4419ef = L.circleMarker(
                 [38.7507, 30.5567],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_902a34aa2abcb7958ddd8c80da4d6554.bindTooltip(
+            circle_marker_fcbe8987146cd4dc6dee539d5f4419ef.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Afyonkarahisar
                  </div>`,
@@ -655,13 +655,13 @@
             );
         
     
-            var circle_marker_e30cb906bd90f61ad56dd40eb9ecc18b = L.circleMarker(
+            var circle_marker_541667b7787f426bd0205c2b81c7b278 = L.circleMarker(
                 [39.7191, 43.0503],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_e30cb906bd90f61ad56dd40eb9ecc18b.bindTooltip(
+            circle_marker_541667b7787f426bd0205c2b81c7b278.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Ağrı
                  </div>`,
@@ -671,13 +671,13 @@
             );
         
     
-            var circle_marker_6c439f821f47aa178d92386647a4a609 = L.circleMarker(
+            var circle_marker_a9d3b683f38ee929846f4877c56dcdc6 = L.circleMarker(
                 [38.3687, 34.037],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6c439f821f47aa178d92386647a4a609.bindTooltip(
+            circle_marker_a9d3b683f38ee929846f4877c56dcdc6.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Aksaray
                  </div>`,
@@ -687,13 +687,13 @@
             );
         
     
-            var circle_marker_6c3823fcd34f6b5c4c6fca354029e555 = L.circleMarker(
+            var circle_marker_ba893a1858320cc72c636f375c97ecb7 = L.circleMarker(
                 [41.1105, 42.7022],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6c3823fcd34f6b5c4c6fca354029e555.bindTooltip(
+            circle_marker_ba893a1858320cc72c636f375c97ecb7.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Ardahan
                  </div>`,
@@ -703,13 +703,13 @@
             );
         
     
-            var circle_marker_7d23d2d6ac280424f4443866fd5c6b24 = L.circleMarker(
+            var circle_marker_b1b1da2a11ff4626303c3b0d6d9e3383 = L.circleMarker(
                 [41.1828, 41.8183],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_7d23d2d6ac280424f4443866fd5c6b24.bindTooltip(
+            circle_marker_b1b1da2a11ff4626303c3b0d6d9e3383.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Artvin
                  </div>`,
@@ -719,13 +719,13 @@
             );
         
     
-            var circle_marker_6bb53b6a6abce74ecb1f16b0ee67ecfb = L.circleMarker(
+            var circle_marker_a26e4b204c85a311397236a45151855c = L.circleMarker(
                 [37.8444, 27.8458],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6bb53b6a6abce74ecb1f16b0ee67ecfb.bindTooltip(
+            circle_marker_a26e4b204c85a311397236a45151855c.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Aydın
                  </div>`,
@@ -735,13 +735,13 @@
             );
         
     
-            var circle_marker_e7b923ca731a36b6c80286436eb99182 = L.circleMarker(
+            var circle_marker_e60527cf3debbcd9ad361a0fd616cdab = L.circleMarker(
                 [39.6484, 27.8826],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_e7b923ca731a36b6c80286436eb99182.bindTooltip(
+            circle_marker_e60527cf3debbcd9ad361a0fd616cdab.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Balıkesir
                  </div>`,
@@ -751,13 +751,13 @@
             );
         
     
-            var circle_marker_9f541c55f1e6e3a01d9c760beeb69ee1 = L.circleMarker(
+            var circle_marker_2afe5c934044cdae05aaf185096dbf5b = L.circleMarker(
                 [41.6344, 32.3375],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9f541c55f1e6e3a01d9c760beeb69ee1.bindTooltip(
+            circle_marker_2afe5c934044cdae05aaf185096dbf5b.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bartın
                  </div>`,
@@ -767,13 +767,13 @@
             );
         
     
-            var circle_marker_68ba79e1e2802490eba8b5f0cfa4712a = L.circleMarker(
+            var circle_marker_d29d8ec2c004d1067804a29093adc15d = L.circleMarker(
                 [37.8812, 41.1351],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_68ba79e1e2802490eba8b5f0cfa4712a.bindTooltip(
+            circle_marker_d29d8ec2c004d1067804a29093adc15d.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Batman
                  </div>`,
@@ -783,13 +783,13 @@
             );
         
     
-            var circle_marker_4437a74eccd3c59e297169ab0496a979 = L.circleMarker(
+            var circle_marker_c850aa8dd9372d94e7ab589b2f7e6a44 = L.circleMarker(
                 [40.2552, 40.2249],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_4437a74eccd3c59e297169ab0496a979.bindTooltip(
+            circle_marker_c850aa8dd9372d94e7ab589b2f7e6a44.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bayburt
                  </div>`,
@@ -799,13 +799,13 @@
             );
         
     
-            var circle_marker_3c23aefaf5fa7ae252a54c062b2df9ed = L.circleMarker(
+            var circle_marker_e7ecaa32bfad01e6cdf0d361ac2944d8 = L.circleMarker(
                 [40.1451, 29.9798],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_3c23aefaf5fa7ae252a54c062b2df9ed.bindTooltip(
+            circle_marker_e7ecaa32bfad01e6cdf0d361ac2944d8.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bilecik
                  </div>`,
@@ -815,13 +815,13 @@
             );
         
     
-            var circle_marker_9066c57166e715bab5accd4b2edb8b67 = L.circleMarker(
+            var circle_marker_a5804e3a46f51a36345e3f938e92777e = L.circleMarker(
                 [38.8847, 40.4939],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9066c57166e715bab5accd4b2edb8b67.bindTooltip(
+            circle_marker_a5804e3a46f51a36345e3f938e92777e.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bingöl
                  </div>`,
@@ -831,13 +831,13 @@
             );
         
     
-            var circle_marker_ac08fd803be8d82e201e771afc29e432 = L.circleMarker(
+            var circle_marker_796ee073081c577fbcaa9e733d79adf2 = L.circleMarker(
                 [38.4011, 42.1078],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_ac08fd803be8d82e201e771afc29e432.bindTooltip(
+            circle_marker_796ee073081c577fbcaa9e733d79adf2.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bitlis
                  </div>`,
@@ -847,13 +847,13 @@
             );
         
     
-            var circle_marker_64066ec3b3792c78d1d5578f36371696 = L.circleMarker(
+            var circle_marker_be799e3a24be7e6666f66d62407d80bf = L.circleMarker(
                 [40.7392, 31.6111],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_64066ec3b3792c78d1d5578f36371696.bindTooltip(
+            circle_marker_be799e3a24be7e6666f66d62407d80bf.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Bolu
                  </div>`,
@@ -863,13 +863,13 @@
             );
         
     
-            var circle_marker_6821f35b3149c386e29f0b4345b7982b = L.circleMarker(
+            var circle_marker_2b0ca0f252cd7029cac7a0b59f700011 = L.circleMarker(
                 [37.7204, 30.2908],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6821f35b3149c386e29f0b4345b7982b.bindTooltip(
+            circle_marker_2b0ca0f252cd7029cac7a0b59f700011.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Burdur
                  </div>`,
@@ -879,13 +879,13 @@
             );
         
     
-            var circle_marker_26bc00e3d0e0cd00c60e3b1ead12a044 = L.circleMarker(
+            var circle_marker_e45d4cb3443ff71082baa75a5ab64d24 = L.circleMarker(
                 [40.1553, 26.4142],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_26bc00e3d0e0cd00c60e3b1ead12a044.bindTooltip(
+            circle_marker_e45d4cb3443ff71082baa75a5ab64d24.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Çanakkale
                  </div>`,
@@ -895,13 +895,13 @@
             );
         
     
-            var circle_marker_9e6f150e59d2089b2a24ce462ffcae25 = L.circleMarker(
+            var circle_marker_c87b830ffeb4cbb66c787c1476464859 = L.circleMarker(
                 [40.6013, 33.6134],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9e6f150e59d2089b2a24ce462ffcae25.bindTooltip(
+            circle_marker_c87b830ffeb4cbb66c787c1476464859.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Çankırı
                  </div>`,
@@ -911,13 +911,13 @@
             );
         
     
-            var circle_marker_eb4984d1bef398bfd12dffb86e35cac0 = L.circleMarker(
+            var circle_marker_b113f836085076bbf0ca325c38c86754 = L.circleMarker(
                 [37.9144, 40.2306],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_eb4984d1bef398bfd12dffb86e35cac0.bindTooltip(
+            circle_marker_b113f836085076bbf0ca325c38c86754.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Diyarbakır
                  </div>`,
@@ -927,13 +927,13 @@
             );
         
     
-            var circle_marker_00be6e2786fc6168eb47ac9d020a7959 = L.circleMarker(
+            var circle_marker_17043440452cc659c17ca8a332b446c2 = L.circleMarker(
                 [40.8438, 31.1565],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_00be6e2786fc6168eb47ac9d020a7959.bindTooltip(
+            circle_marker_17043440452cc659c17ca8a332b446c2.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Düzce
                  </div>`,
@@ -943,13 +943,13 @@
             );
         
     
-            var circle_marker_88582f78a86ac1547f24f84fd17c80b6 = L.circleMarker(
+            var circle_marker_35feec945feafa0652a9bf7e830d7bdb = L.circleMarker(
                 [41.6771, 26.5557],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_88582f78a86ac1547f24f84fd17c80b6.bindTooltip(
+            circle_marker_35feec945feafa0652a9bf7e830d7bdb.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Edirne
                  </div>`,
@@ -959,13 +959,13 @@
             );
         
     
-            var circle_marker_c8dacaeb20f6f665cf53255552ba7170 = L.circleMarker(
+            var circle_marker_dcc9b4d5125938b017d0de993bad58ef = L.circleMarker(
                 [38.681, 39.2264],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_c8dacaeb20f6f665cf53255552ba7170.bindTooltip(
+            circle_marker_dcc9b4d5125938b017d0de993bad58ef.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Elazığ
                  </div>`,
@@ -975,13 +975,13 @@
             );
         
     
-            var circle_marker_45332d969fdedfa1334aa2bb1b2e7769 = L.circleMarker(
+            var circle_marker_5551d0c941e739a7edab827ace5e21f4 = L.circleMarker(
                 [39.75, 39.5],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_45332d969fdedfa1334aa2bb1b2e7769.bindTooltip(
+            circle_marker_5551d0c941e739a7edab827ace5e21f4.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Erzincan
                  </div>`,
@@ -991,13 +991,13 @@
             );
         
     
-            var circle_marker_7544861e108a93da8ca4ecf2fcd9989b = L.circleMarker(
+            var circle_marker_d91137ef39e02ab5010904ee481a69ed = L.circleMarker(
                 [39.9043, 41.2679],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_7544861e108a93da8ca4ecf2fcd9989b.bindTooltip(
+            circle_marker_d91137ef39e02ab5010904ee481a69ed.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Erzurum
                  </div>`,
@@ -1007,13 +1007,13 @@
             );
         
     
-            var circle_marker_2fff14dfc55a2c64998bf45b67de47cc = L.circleMarker(
+            var circle_marker_c11fbe43f885ef4c5e357ef8d8c7bf44 = L.circleMarker(
                 [39.7767, 30.5206],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_2fff14dfc55a2c64998bf45b67de47cc.bindTooltip(
+            circle_marker_c11fbe43f885ef4c5e357ef8d8c7bf44.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Eskişehir
                  </div>`,
@@ -1023,13 +1023,13 @@
             );
         
     
-            var circle_marker_7c4a589229eea5c779236363c9850e60 = L.circleMarker(
+            var circle_marker_1c63f27299267776f4f7d9061e4f494e = L.circleMarker(
                 [37.0662, 37.3833],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_7c4a589229eea5c779236363c9850e60.bindTooltip(
+            circle_marker_1c63f27299267776f4f7d9061e4f494e.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Gaziantep
                  </div>`,
@@ -1039,13 +1039,13 @@
             );
         
     
-            var circle_marker_b00c59e5d8012c6cefe87bc60f781968 = L.circleMarker(
+            var circle_marker_bc9390ad25613ae6b1b2144b064ae86d = L.circleMarker(
                 [40.4597, 39.4745],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_b00c59e5d8012c6cefe87bc60f781968.bindTooltip(
+            circle_marker_bc9390ad25613ae6b1b2144b064ae86d.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Gümüşhane
                  </div>`,
@@ -1055,13 +1055,13 @@
             );
         
     
-            var circle_marker_7e95f16debdec5eb6a1ae82554349625 = L.circleMarker(
+            var circle_marker_d283d02082d70e96ca9066183c287372 = L.circleMarker(
                 [37.5833, 43.7333],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_7e95f16debdec5eb6a1ae82554349625.bindTooltip(
+            circle_marker_d283d02082d70e96ca9066183c287372.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Hakkari
                  </div>`,
@@ -1071,13 +1071,13 @@
             );
         
     
-            var circle_marker_aa5dfb3aea738bd0631bf76ce9a3bbfc = L.circleMarker(
+            var circle_marker_d6c70d3a6e4c2d0b0c798d5181412bbc = L.circleMarker(
                 [36.2, 36.1667],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_aa5dfb3aea738bd0631bf76ce9a3bbfc.bindTooltip(
+            circle_marker_d6c70d3a6e4c2d0b0c798d5181412bbc.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Hatay
                  </div>`,
@@ -1087,13 +1087,13 @@
             );
         
     
-            var circle_marker_3a30498e286d395133711c6b1ac305db = L.circleMarker(
+            var circle_marker_5ac7282b90438028af8d019407be92b9 = L.circleMarker(
                 [39.9237, 44.045],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_3a30498e286d395133711c6b1ac305db.bindTooltip(
+            circle_marker_5ac7282b90438028af8d019407be92b9.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Iğdır
                  </div>`,
@@ -1103,13 +1103,13 @@
             );
         
     
-            var circle_marker_4ad66411d0f8afc01cb844916d7c1e72 = L.circleMarker(
+            var circle_marker_b5f7ea3b3cc6fb9fb44dbcda3060857c = L.circleMarker(
                 [37.7648, 30.5566],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_4ad66411d0f8afc01cb844916d7c1e72.bindTooltip(
+            circle_marker_b5f7ea3b3cc6fb9fb44dbcda3060857c.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Isparta
                  </div>`,
@@ -1119,13 +1119,13 @@
             );
         
     
-            var circle_marker_f0558a15a3169d4b8cce9a794378e79c = L.circleMarker(
+            var circle_marker_d1b38e86a0d5a4419dadd46616c3fbfa = L.circleMarker(
                 [38.4192, 27.1287],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_f0558a15a3169d4b8cce9a794378e79c.bindTooltip(
+            circle_marker_d1b38e86a0d5a4419dadd46616c3fbfa.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: İzmir
                  </div>`,
@@ -1135,13 +1135,13 @@
             );
         
     
-            var circle_marker_303c6c2088724f1a3ac0d93a6ed4bffe = L.circleMarker(
+            var circle_marker_75b468999555672a725b8f12998f70ba = L.circleMarker(
                 [37.5847, 36.9339],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_303c6c2088724f1a3ac0d93a6ed4bffe.bindTooltip(
+            circle_marker_75b468999555672a725b8f12998f70ba.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kahramanmaraş
                  </div>`,
@@ -1151,13 +1151,13 @@
             );
         
     
-            var circle_marker_12e73aeeb4af1f61cf1f9445e69be219 = L.circleMarker(
+            var circle_marker_87f9d7993e878a6799a7a52e2da35a38 = L.circleMarker(
                 [41.2061, 32.6226],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_12e73aeeb4af1f61cf1f9445e69be219.bindTooltip(
+            circle_marker_87f9d7993e878a6799a7a52e2da35a38.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Karabük
                  </div>`,
@@ -1167,13 +1167,13 @@
             );
         
     
-            var circle_marker_6fa3d7e7e726fe38faedb7dcc9b3cd3d = L.circleMarker(
+            var circle_marker_edc0a46b8447fbbd77336e1abd57674b = L.circleMarker(
                 [37.1811, 33.2222],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6fa3d7e7e726fe38faedb7dcc9b3cd3d.bindTooltip(
+            circle_marker_edc0a46b8447fbbd77336e1abd57674b.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Karaman
                  </div>`,
@@ -1183,13 +1183,13 @@
             );
         
     
-            var circle_marker_9d89c54235a7619016fff984960fd80d = L.circleMarker(
+            var circle_marker_78f7343722c9acb3806fcff524328ade = L.circleMarker(
                 [40.6013, 43.0975],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9d89c54235a7619016fff984960fd80d.bindTooltip(
+            circle_marker_78f7343722c9acb3806fcff524328ade.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kars
                  </div>`,
@@ -1199,13 +1199,13 @@
             );
         
     
-            var circle_marker_feff792d924f404c19eef00ad2663f4a = L.circleMarker(
+            var circle_marker_24e4aa6af62b4ee2088c6437d956fd5a = L.circleMarker(
                 [41.3766, 33.7765],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_feff792d924f404c19eef00ad2663f4a.bindTooltip(
+            circle_marker_24e4aa6af62b4ee2088c6437d956fd5a.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kastamonu
                  </div>`,
@@ -1215,13 +1215,13 @@
             );
         
     
-            var circle_marker_058a170d7e89d9d9b24b97412d0ef6a2 = L.circleMarker(
+            var circle_marker_be969cd16b18c85ccd206d8b8309cc8e = L.circleMarker(
                 [38.7312, 35.4787],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_058a170d7e89d9d9b24b97412d0ef6a2.bindTooltip(
+            circle_marker_be969cd16b18c85ccd206d8b8309cc8e.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kayseri
                  </div>`,
@@ -1231,13 +1231,13 @@
             );
         
     
-            var circle_marker_a7f76403f8368236c3edeffdcc113729 = L.circleMarker(
+            var circle_marker_0673cb62b8012134358ae0ea8137fc81 = L.circleMarker(
                 [36.7161, 37.115],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_a7f76403f8368236c3edeffdcc113729.bindTooltip(
+            circle_marker_0673cb62b8012134358ae0ea8137fc81.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kilis
                  </div>`,
@@ -1247,13 +1247,13 @@
             );
         
     
-            var circle_marker_dcac398465c80aa1c3cdd9ad0b0567bf = L.circleMarker(
+            var circle_marker_3dec9624619e223a6b44326ced4807ac = L.circleMarker(
                 [39.8468, 33.5153],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_dcac398465c80aa1c3cdd9ad0b0567bf.bindTooltip(
+            circle_marker_3dec9624619e223a6b44326ced4807ac.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kırıkkale
                  </div>`,
@@ -1263,13 +1263,13 @@
             );
         
     
-            var circle_marker_410d0b9047328434bd5a69fae4b6163d = L.circleMarker(
+            var circle_marker_bb0d9c50dc83e442694c910c12a8b60b = L.circleMarker(
                 [41.7333, 27.2167],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_410d0b9047328434bd5a69fae4b6163d.bindTooltip(
+            circle_marker_bb0d9c50dc83e442694c910c12a8b60b.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kırklareli
                  </div>`,
@@ -1279,13 +1279,13 @@
             );
         
     
-            var circle_marker_cccbbb2ce7410a97d8e8560d2533e6ec = L.circleMarker(
+            var circle_marker_5d6df8a1ff8c087a6a712942b9e0b818 = L.circleMarker(
                 [39.1425, 34.1709],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_cccbbb2ce7410a97d8e8560d2533e6ec.bindTooltip(
+            circle_marker_5d6df8a1ff8c087a6a712942b9e0b818.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kırşehir
                  </div>`,
@@ -1295,13 +1295,13 @@
             );
         
     
-            var circle_marker_393425535d0a0138b108facc19ff19d3 = L.circleMarker(
+            var circle_marker_42b44a958d08353f11e407f74a97f239 = L.circleMarker(
                 [39.4167, 29.9833],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_393425535d0a0138b108facc19ff19d3.bindTooltip(
+            circle_marker_42b44a958d08353f11e407f74a97f239.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Kütahya
                  </div>`,
@@ -1311,13 +1311,13 @@
             );
         
     
-            var circle_marker_0d22a8b78246ad02557290cf05bffb62 = L.circleMarker(
+            var circle_marker_f27c4f5b1d5125b49c38979e4b9bc531 = L.circleMarker(
                 [38.3552, 38.3095],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_0d22a8b78246ad02557290cf05bffb62.bindTooltip(
+            circle_marker_f27c4f5b1d5125b49c38979e4b9bc531.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Malatya
                  </div>`,
@@ -1327,13 +1327,13 @@
             );
         
     
-            var circle_marker_ed1a79571579cc8bd9c32ac9bb3a392c = L.circleMarker(
+            var circle_marker_40bbc71f99e0c0dab483f04fe5208588 = L.circleMarker(
                 [38.6191, 27.4289],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_ed1a79571579cc8bd9c32ac9bb3a392c.bindTooltip(
+            circle_marker_40bbc71f99e0c0dab483f04fe5208588.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Manisa
                  </div>`,
@@ -1343,13 +1343,13 @@
             );
         
     
-            var circle_marker_d6689721d1b57a4c496e369a66214d5d = L.circleMarker(
+            var circle_marker_2d3167a85e04ddd12f1e3c8b7b563411 = L.circleMarker(
                 [37.3122, 40.7339],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_d6689721d1b57a4c496e369a66214d5d.bindTooltip(
+            circle_marker_2d3167a85e04ddd12f1e3c8b7b563411.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Mardin
                  </div>`,
@@ -1359,13 +1359,13 @@
             );
         
     
-            var circle_marker_19a061f4fc1c1a30f822a2f088003785 = L.circleMarker(
+            var circle_marker_9ef5695d3eff5cf3a84931c2236d0a44 = L.circleMarker(
                 [36.8, 34.6333],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_19a061f4fc1c1a30f822a2f088003785.bindTooltip(
+            circle_marker_9ef5695d3eff5cf3a84931c2236d0a44.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Mersin
                  </div>`,
@@ -1375,13 +1375,13 @@
             );
         
     
-            var circle_marker_aa24d66afee8ee070892d7d18915a493 = L.circleMarker(
+            var circle_marker_4bdf802ec9c60e1776bb39ac2e0d4635 = L.circleMarker(
                 [37.2153, 28.3636],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_aa24d66afee8ee070892d7d18915a493.bindTooltip(
+            circle_marker_4bdf802ec9c60e1776bb39ac2e0d4635.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Muğla
                  </div>`,
@@ -1391,13 +1391,13 @@
             );
         
     
-            var circle_marker_33270ca1f02bea354ca2908ca51cae4c = L.circleMarker(
+            var circle_marker_fb5d66062f608c12e1d75c86e2a3cd05 = L.circleMarker(
                 [38.7304, 41.491],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_33270ca1f02bea354ca2908ca51cae4c.bindTooltip(
+            circle_marker_fb5d66062f608c12e1d75c86e2a3cd05.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Muş
                  </div>`,
@@ -1407,13 +1407,13 @@
             );
         
     
-            var circle_marker_412bbdbf1a62e0f6ea0df0aca2f48bbb = L.circleMarker(
+            var circle_marker_a5f49c977b481ce4326528b8751f1de7 = L.circleMarker(
                 [38.6244, 34.7144],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_412bbdbf1a62e0f6ea0df0aca2f48bbb.bindTooltip(
+            circle_marker_a5f49c977b481ce4326528b8751f1de7.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Nevşehir
                  </div>`,
@@ -1423,13 +1423,13 @@
             );
         
     
-            var circle_marker_1e918544a7786582cbb50ddb2e1b70ce = L.circleMarker(
+            var circle_marker_ea257728d000e9b2721d764766acbade = L.circleMarker(
                 [37.9667, 34.6833],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_1e918544a7786582cbb50ddb2e1b70ce.bindTooltip(
+            circle_marker_ea257728d000e9b2721d764766acbade.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Niğde
                  </div>`,
@@ -1439,13 +1439,13 @@
             );
         
     
-            var circle_marker_5a0b92398ee6b9d15edad77a8a435514 = L.circleMarker(
+            var circle_marker_c28aa3f072dcbbe4b032d12fd4ee36a7 = L.circleMarker(
                 [37.0742, 36.2472],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_5a0b92398ee6b9d15edad77a8a435514.bindTooltip(
+            circle_marker_c28aa3f072dcbbe4b032d12fd4ee36a7.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Osmaniye
                  </div>`,
@@ -1455,13 +1455,13 @@
             );
         
     
-            var circle_marker_9b633881aad430282168bb5b16d5c1db = L.circleMarker(
+            var circle_marker_fd4547251f179f9ae4c41c0fd6c6ea95 = L.circleMarker(
                 [41.0201, 40.5234],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9b633881aad430282168bb5b16d5c1db.bindTooltip(
+            circle_marker_fd4547251f179f9ae4c41c0fd6c6ea95.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Rize
                  </div>`,
@@ -1471,13 +1471,13 @@
             );
         
     
-            var circle_marker_163e0fe7b2d7f90e2408146a88dc0c8a = L.circleMarker(
+            var circle_marker_da3c6b617309622931d8317bc65bd7cf = L.circleMarker(
                 [40.694, 30.4358],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_163e0fe7b2d7f90e2408146a88dc0c8a.bindTooltip(
+            circle_marker_da3c6b617309622931d8317bc65bd7cf.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Sakarya
                  </div>`,
@@ -1487,13 +1487,13 @@
             );
         
     
-            var circle_marker_4827bad2c1ee77dc2ca9f12802459b93 = L.circleMarker(
+            var circle_marker_0f50155b173b0e49844ca77bc0b63a7d = L.circleMarker(
                 [37.15, 38.8],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_4827bad2c1ee77dc2ca9f12802459b93.bindTooltip(
+            circle_marker_0f50155b173b0e49844ca77bc0b63a7d.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Şanlıurfa
                  </div>`,
@@ -1503,13 +1503,13 @@
             );
         
     
-            var circle_marker_709150db313ed11b494e3741d2df0d52 = L.circleMarker(
+            var circle_marker_eb70fa518c50f559a12827ee15985a50 = L.circleMarker(
                 [37.9333, 41.95],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_709150db313ed11b494e3741d2df0d52.bindTooltip(
+            circle_marker_eb70fa518c50f559a12827ee15985a50.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Siirt
                  </div>`,
@@ -1519,13 +1519,13 @@
             );
         
     
-            var circle_marker_bfa3282cd2ed42c3475b965e231dafe8 = L.circleMarker(
+            var circle_marker_5e5063480dc7a9276e4eec8c1299f8d4 = L.circleMarker(
                 [37.5164, 42.4611],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_bfa3282cd2ed42c3475b965e231dafe8.bindTooltip(
+            circle_marker_5e5063480dc7a9276e4eec8c1299f8d4.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Şırnak
                  </div>`,
@@ -1535,13 +1535,13 @@
             );
         
     
-            var circle_marker_426b8cf41b6b09092157e958a9e58abc = L.circleMarker(
+            var circle_marker_adae230e13b85201c8c9f6f017bea52d = L.circleMarker(
                 [39.7477, 37.0179],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_426b8cf41b6b09092157e958a9e58abc.bindTooltip(
+            circle_marker_adae230e13b85201c8c9f6f017bea52d.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Sivas
                  </div>`,
@@ -1551,13 +1551,13 @@
             );
         
     
-            var circle_marker_7ce80f85d58b85db5550de4ae4e78200 = L.circleMarker(
+            var circle_marker_a3f8de9d13a75dbee5cc83c1276d58c9 = L.circleMarker(
                 [40.9833, 27.5167],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_7ce80f85d58b85db5550de4ae4e78200.bindTooltip(
+            circle_marker_a3f8de9d13a75dbee5cc83c1276d58c9.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Tekirdağ
                  </div>`,
@@ -1567,13 +1567,13 @@
             );
         
     
-            var circle_marker_9424fa822557a578745e526445159251 = L.circleMarker(
+            var circle_marker_c9940611c48c0cc8192f15b46e8f6ff7 = L.circleMarker(
                 [40.3167, 36.55],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9424fa822557a578745e526445159251.bindTooltip(
+            circle_marker_c9940611c48c0cc8192f15b46e8f6ff7.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Tokat
                  </div>`,
@@ -1583,13 +1583,13 @@
             );
         
     
-            var circle_marker_87db1c1b7a0e36e89abfa7d56df2c950 = L.circleMarker(
+            var circle_marker_c44502682e9a0a16b872423998641ab7 = L.circleMarker(
                 [41.0015, 39.7178],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_87db1c1b7a0e36e89abfa7d56df2c950.bindTooltip(
+            circle_marker_c44502682e9a0a16b872423998641ab7.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Trabzon
                  </div>`,
@@ -1599,13 +1599,13 @@
             );
         
     
-            var circle_marker_735bb231419b85aa8933550dc034291f = L.circleMarker(
+            var circle_marker_b02bd1efd97145cd7e41e0471feb5065 = L.circleMarker(
                 [39.1079, 39.5401],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_735bb231419b85aa8933550dc034291f.bindTooltip(
+            circle_marker_b02bd1efd97145cd7e41e0471feb5065.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Tunceli
                  </div>`,
@@ -1615,13 +1615,13 @@
             );
         
     
-            var circle_marker_4d7df365f6a7e4530cd64d685474fc41 = L.circleMarker(
+            var circle_marker_9fa1f2798e2c4c2338599c5deda3b6fa = L.circleMarker(
                 [38.6823, 29.4082],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_4d7df365f6a7e4530cd64d685474fc41.bindTooltip(
+            circle_marker_9fa1f2798e2c4c2338599c5deda3b6fa.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Uşak
                  </div>`,
@@ -1631,13 +1631,13 @@
             );
         
     
-            var circle_marker_6ee95b1e0a1e6f3405efbc9a5ad276d5 = L.circleMarker(
+            var circle_marker_003e84422fdd23b4a5d6393367a434f0 = L.circleMarker(
                 [38.4891, 43.3853],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_6ee95b1e0a1e6f3405efbc9a5ad276d5.bindTooltip(
+            circle_marker_003e84422fdd23b4a5d6393367a434f0.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Van
                  </div>`,
@@ -1647,13 +1647,13 @@
             );
         
     
-            var circle_marker_f3003807b90fd512abc15ce6d16df6dd = L.circleMarker(
+            var circle_marker_ca47247b8145bf081906899e455a8cdf = L.circleMarker(
                 [40.65, 29.2833],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_f3003807b90fd512abc15ce6d16df6dd.bindTooltip(
+            circle_marker_ca47247b8145bf081906899e455a8cdf.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Yalova
                  </div>`,
@@ -1663,13 +1663,13 @@
             );
         
     
-            var circle_marker_33eb770e392c6c0d4a3bb2c47945d943 = L.circleMarker(
+            var circle_marker_00df2412df130a8285fe0864b6bfd53f = L.circleMarker(
                 [39.8181, 34.8147],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_33eb770e392c6c0d4a3bb2c47945d943.bindTooltip(
+            circle_marker_00df2412df130a8285fe0864b6bfd53f.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Yozgat
                  </div>`,
@@ -1679,13 +1679,13 @@
             );
         
     
-            var circle_marker_9e4977dfef165097efdef012ae8a0319 = L.circleMarker(
+            var circle_marker_6d55094a031ba6db06cf54172813906b = L.circleMarker(
                 [41.4564, 31.7987],
                 {"bubblingMouseEvents": true, "color": "#444444", "dashArray": null, "dashOffset": null, "fill": true, "fillColor": "#444444", "fillOpacity": 0.7, "fillRule": "evenodd", "lineCap": "round", "lineJoin": "round", "opacity": 1.0, "radius": 3, "stroke": true, "weight": 3}
-            ).addTo(map_2e7c25ed77934875ccd629efa737544e);
+            ).addTo(map_c5f44d186dd20b50c2abe2f6b194e7ed);
         
     
-            circle_marker_9e4977dfef165097efdef012ae8a0319.bindTooltip(
+            circle_marker_6d55094a031ba6db06cf54172813906b.bindTooltip(
                 `<div>
                      Keşfedilmeyi bekliyor: Zonguldak
                  </div>`,
