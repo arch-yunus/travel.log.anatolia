@@ -132,39 +132,33 @@ Anadolu'nun dört bir yanındaki ayak izlerimiz (Toplam 23 Nokta):
 | 🏜️ G.Doğu Anadolu | Mardin | Ulu Camii | Tarihi Yapı |
 
 
-## ✅ 81 İl Keşif Durumu (Provinces Checklist)
-**Toplam Ziyaret Edilen İl:** 21/81 (%25.9)
+## ✅ 81 İl Keşif Haritası
 
+**🏆 Genel İlerleme:** %18.5 (15 / 81 İl)
+🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
-| İl | İl | İl |
-|---|---|---|
-| - [ ] Adana | - [ ] Adıyaman | - [ ] Afyonkarahisar |
-| - [ ] Aksaray | - [x] Amasya | - [x] Ankara |
-| - [x] Antalya | - [ ] Ardahan | - [ ] Artvin |
-| - [ ] Aydın | - [x] Ağrı | - [ ] Balıkesir |
-| - [ ] Bartın | - [ ] Batman | - [ ] Bayburt |
-| - [ ] Bilecik | - [ ] Bingöl | - [ ] Bitlis |
-| - [ ] Bolu | - [ ] Burdur | - [ ] Bursa |
-| - [ ] Denizli | - [ ] Diyarbakır | - [ ] Düzce |
-| - [ ] Edirne | - [ ] Elazığ | - [ ] Erzincan |
-| - [ ] Erzurum | - [ ] Eskişehir | - [ ] Gaziantep |
-| - [x] Giresun | - [ ] Gümüşhane | - [ ] Hakkari |
-| - [ ] Hatay | - [ ] Isparta | - [ ] Iğdır |
-| - [ ] Kahramanmaraş | - [ ] Karabük | - [ ] Karaman |
-| - [x] Kars | - [ ] Kastamonu | - [ ] Kayseri |
-| - [ ] Kilis | - [x] Kocaeli | - [x] Konya |
-| - [ ] Kütahya | - [ ] Kırklareli | - [ ] Kırıkkale |
-| - [ ] Kırşehir | - [ ] Malatya | - [ ] Manisa |
-| - [x] Mardin | - [x] Mersin | - [ ] Muğla |
-| - [ ] Muş | - [x] Nevşehir | - [ ] Niğde |
-| - [x] Ordu | - [ ] Osmaniye | - [x] Rize |
-| - [ ] Sakarya | - [x] Samsun | - [ ] Siirt |
-| - [x] Sinop | - [ ] Sivas | - [ ] Tekirdağ |
-| - [ ] Tokat | - [x] Trabzon | - [ ] Tunceli |
-| - [ ] Uşak | - [x] Van | - [ ] Yalova |
-| - [ ] Yozgat | - [ ] Zonguldak | - [x] Çanakkale |
-| - [ ] Çankırı | - [x] Çorum | - [x] İstanbul |
-| - [x] İzmir | - [ ] Şanlıurfa | - [ ] Şırnak |
+> *Sadece `Mevcut Kapsam` tablosunda belirtilen rotalar tescillenmiş sayılır.*
+
+**🏰 Marmara Bölgesi (2/11)**
+❌ Balıkesir • ❌ Bilecik • ❌ Bursa • ❌ Edirne • ❌ Kocaeli • ❌ Kırklareli • ❌ Sakarya • ❌ Tekirdağ • ❌ Yalova • ✅ **Çanakkale** • ✅ **İstanbul**
+
+**🌊 Ege Bölgesi (1/8)**
+❌ Afyonkarahisar • ❌ Aydın • ❌ Denizli • ❌ Kütahya • ❌ Manisa • ❌ Muğla • ❌ Uşak • ✅ **İzmir**
+
+**☀️ Akdeniz Bölgesi (2/8)**
+❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
+
+**🌾 İç Anadolu Bölgesi (3/13)**
+❌ Aksaray • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
+
+**🌲 Karadeniz Bölgesi (3/18)**
+✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ❌ Giresun • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ❌ Ordu • ✅ **Rize** • ❌ Samsun • ❌ Sinop • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ❌ Çorum
+
+**🏔️ Doğu Anadolu Bölgesi (3/14)**
+❌ Ardahan • ✅ **Ağrı** • ❌ Bingöl • ❌ Bitlis • ❌ Elazığ • ❌ Erzincan • ❌ Erzurum • ❌ Hakkari • ❌ Iğdır • ✅ **Kars** • ❌ Malatya • ❌ Muş • ❌ Tunceli • ✅ **Van**
+
+**🏜️ G.Doğu Anadolu Bölgesi (1/9)**
+❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ✅ **Mardin** • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak
 
 ## 🧬 Sistem Mimarisi
 *   `01_...07_Regions/`: Ana veri katmanı.
