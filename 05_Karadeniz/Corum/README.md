@@ -1,4 +1,4 @@
-# 📍 Corum - Seyahat ve Tefekkür Notları
+# 📍 Çorum - Seyahat ve Tefekkür Notları
 
 ## 📜 Şehrin Ruhu
 > "Medeniyetler kılıçla veya kanla kurulsa da, yalnızca masaya barışın mührü basıldığında yarına kalır."

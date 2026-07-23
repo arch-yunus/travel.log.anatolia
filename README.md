@@ -1,4 +1,4 @@
-﻿<p align="center">
+<p align="center">
     <img src="assets/banner.png" style="max-width: 100%; height: auto; border-radius: 10px;">
 </p>
 
@@ -6,7 +6,7 @@
     <!-- Dynamic Badges -->
     <img src="https://img.shields.io/badge/System-Quantum_Active-green?style=for-the-badge&logo=rocket&logoColor=white" alt="System">
     <img src="https://img.shields.io/badge/Regions-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Coverage-15%25-orange?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Coverage-38.3%25-orange?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Tech-Python_Rich_%7C_Folium-black?style=for-the-badge&logo=python" alt="Tech">
     <br><br>
     <strong>🦅 "Yeni ufuklara yelken açan gezginlerin izinde..."</strong>
@@ -108,8 +108,8 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %23.4 (19 / 81 İl)
-🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %38.3 (31 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
@@ -122,14 +122,14 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 **☀️ Akdeniz Bölgesi (2/8)**
 ❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ❌ Isparta • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (4/13)**
-✅ **Aksaray** • ✅ **Ankara** • ❌ Eskişehir • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ❌ Sivas • ❌ Yozgat • ❌ Çankırı
+**🌾 İç Anadolu Bölgesi (6/13)**
+✅ **Aksaray** • ✅ **Ankara** • ✅ **Eskişehir** • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ✅ **Sivas** • ❌ Yozgat • ❌ Çankırı
 
-**🌲 Karadeniz Bölgesi (8/18)**
-✅ **Amasya** • ❌ Artvin • ❌ Bartın • ❌ Bayburt • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ❌ Gümüşhane • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ✅ **Rize** • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ✅ **Çorum**
+**🌲 Karadeniz Bölgesi (11/18)**
+✅ **Amasya** • ✅ **Artvin** • ❌ Bartın • ✅ **Bayburt** • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ✅ **Gümüşhane** • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ✅ **Rize** • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ✅ **Çorum**
 
-**🏔️ Doğu Anadolu Bölgesi (0/14)**
-❌ Ardahan • ❌ Ağrı • ❌ Bingöl • ❌ Bitlis • ❌ Elazığ • ❌ Erzincan • ❌ Erzurum • ❌ Hakkari • ❌ Iğdır • ❌ Kars • ❌ Malatya • ❌ Muş • ❌ Tunceli • ❌ Van
+**🏔️ Doğu Anadolu Bölgesi (7/14)**
+✅ **Ardahan** • ❌ Ağrı • ❌ Bingöl • ❌ Bitlis • ✅ **Elazığ** • ✅ **Erzincan** • ✅ **Erzurum** • ❌ Hakkari • ❌ Iğdır • ✅ **Kars** • ✅ **Malatya** • ❌ Muş • ✅ **Tunceli** • ❌ Van
 
 **🏜️ G.Doğu Anadolu Bölgesi (0/9)**
 ❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ❌ Mardin • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak

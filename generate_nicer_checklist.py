@@ -14,23 +14,16 @@ provinces = {
 def normalize_city(c):
     return c.strip().lower().replace(" ", "")
 
-def extract_visited_from_table(readme_path="README.md"):
+def extract_visited_from_readme(readme_path="README.md"):
     visited = set()
     with open(readme_path, 'r', encoding='utf-8') as f:
         content = f.read()
     
-    # Extract the table "Mevcut Kapsam"
-    # Find the table headers
-    match = re.search(r"\|\s*Bölge\s*\|\s*Şehir\s*\|\s*Lokasyon\s*\|\s*Kategori\s*\|.*?\n(.*?)(?=\n\n|\n##)", content, flags=re.DOTALL)
-    if match:
-        table_lines = match.group(1).strip().split('\n')
-        for line in table_lines:
-            if "|---" in line: continue
-            parts = [p.strip() for p in line.split('|')]
-            if len(parts) >= 3:
-                city = parts[2] # 1st is empty, 2nd is Bölge, 3rd is Şehir
-                visited.add(normalize_city(city))
-                
+    # Extract the visited cities using the ✅ **City** pattern
+    matches = re.findall(r"✅ \*\*([^\*]+)\*\*", content)
+    for m in matches:
+        visited.add(normalize_city(m))
+        
     return visited
 
 def generate_visual_checklist(visited_normalized):
@@ -70,7 +63,7 @@ def generate_visual_checklist(visited_normalized):
     lines.append(f"**🏆 Genel İlerleme:** %{pct:.1f} ({v_count} / {total_cities} İl)")
     lines.append(f"{bar}")
     lines.append("")
-    lines.append("> *Sadece `Mevcut Kapsam` tablosunda belirtilen rotalar tescillenmiş sayılır.*")
+    lines.append("> *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*")
     lines.append("")
     
     lines.extend(regions_text)
@@ -78,15 +71,15 @@ def generate_visual_checklist(visited_normalized):
     return "\n".join(lines)
 
 def update_readme():
-    visited = extract_visited_from_table("README.md")
+    visited = extract_visited_from_readme("README.md")
     checklist_md = generate_visual_checklist(visited)
     
     with open("README.md", "r", encoding="utf-8") as f:
         content = f.read()
         
     # Replace existing checklist
-    # from "## ✅ 81 İl" until "## 🧬 Sistem Mimarisi"
-    new_content = re.sub(r"## ✅ 81 İl Keşif Durumu.*?(?=## 🧬 Sistem Mimarisi)", checklist_md + "\n", content, flags=re.DOTALL)
+    # from "## ✅ 81 İl Keşif Haritası" until "## 🧬 Kavramsal ve Teknik Mimari"
+    new_content = re.sub(r"## ✅ 81 İl Keşif Haritası.*?(?=## 🧬 Kavramsal ve Teknik Mimari)", checklist_md + "\n", content, flags=re.DOTALL)
     
     with open("README.md", "w", encoding="utf-8") as f:
         f.write(new_content)
