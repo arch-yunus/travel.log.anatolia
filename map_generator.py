@@ -299,10 +299,62 @@ class MapGenerator:
             fill: #00f2fe !important;
             r: 5px !important;
         }
+        .visited-cities-list {
+            margin-top: 14px;
+            border-top: 1px solid rgba(255, 255, 255, 0.08);
+            padding-top: 10px;
+            max-height: 120px;
+            overflow-y: auto;
+            margin-bottom: 10px;
+        }
+        .visited-cities-list h3 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 11px;
+            font-weight: 600;
+            color: #2ecc71;
+            margin: 0 0 6px 0;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+        .visited-cities-item {
+            font-family: 'Inter', sans-serif;
+            font-size: 11px;
+            color: #cbd5e1;
+            padding: 3px 0;
+            border-bottom: 1px solid rgba(255, 255, 255, 0.03);
+            display: flex;
+            align-items: center;
+        }
+        .visited-cities-item::before {
+            content: '✓';
+            color: #2ecc71;
+            margin-right: 6px;
+            font-weight: bold;
+        }
+        .visited-cities-list::-webkit-scrollbar {
+            width: 4px;
+        }
+        .visited-cities-list::-webkit-scrollbar-track {
+            background: rgba(255, 255, 255, 0.02);
+            border-radius: 2px;
+        }
+        .visited-cities-list::-webkit-scrollbar-thumb {
+            background: rgba(255, 255, 255, 0.12);
+            border-radius: 2px;
+        }
+        .visited-cities-list::-webkit-scrollbar-thumb:hover {
+            background: #2ecc71;
+        }
         """
 
         m.get_root().header.add_child(folium.Element(f"<style>{css_style}</style>"))
         
+        # Build visited cities vertical list
+        sorted_visited = sorted(list(visited_cities))
+        cities_list_html = ""
+        for city in sorted_visited:
+            cities_list_html += f'<div class="visited-cities-item">{city}</div>'
+
         # Add the floating title panel
         progress_bar_fill = f'<div class="progress-bar-fill" style="width: {pct:.1f}%"></div>'
         title_panel_html = f'''
@@ -318,6 +370,12 @@ class MapGenerator:
                     {progress_bar_fill}
                 </div>
             </div>
+            
+            <div class="visited-cities-list">
+                <h3>Ziyaret Edilen İller</h3>
+                {cities_list_html}
+            </div>
+            
             <p class="panel-quote">"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."</p>
         </div>
         '''
