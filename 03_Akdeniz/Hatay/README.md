@@ -1,5 +1,7 @@
 # 📍 Hatay - Seyahat ve Tefekkür Notları
 
+![Hatay Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Medeniyetlerin ve inançların ortak sofrasında buluşan Hatay, barışın ve kardeşliğin ebedi yurdudur."
 > "Tarihin en eski caddelerinde farklı ezan, çan ve hazzan seslerinin birbirine karıştığı hoşgörü bahçesi."

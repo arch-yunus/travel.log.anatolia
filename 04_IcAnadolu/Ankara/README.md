@@ -1,5 +1,7 @@
 # 📍 Ankara - Seyahat ve Tefekkür Notları
 
+![Ankara Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Taşa ve yokluğa karşı dikilen bir Cumhuriyet iradesi, dünyadaki en güçlü çelikten daha aşılmazdır."
 > "Yorgun bir bozkırda imkansızın nasıl başarıldığını haykıran, vakur, kararlı ve devrimci başkent."

@@ -1,5 +1,7 @@
 # 📍 Samsun - Seyahat ve Tefekkür Notları
 
+![Samsun Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "En hırçın fırtınalarda uyanan irade, coşkulu dalgaları uysallaştıran ve rotayı çizen tek pusuladır."
 > "Kurtuluşa atılan o tarifsiz ilk sağlam adımın, denizin tuzuna karışıp bir milleti dirilttiği özgürlük limanı."

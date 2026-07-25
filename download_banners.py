@@ -7,7 +7,7 @@ from urllib.error import URLError
 REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli"],
-    "03_Akdeniz": ["Antalya"],
+    "03_Akdeniz": ["Antalya", "Adana", "Hatay"],
     "04_IcAnadolu": ["Ankara", "Konya"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu"]
 }

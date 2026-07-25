@@ -1,5 +1,7 @@
 # 📍 Konya - Seyahat ve Tefekkür Notları
 
+![Konya Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Susuzluktan kuruyan bozkırı yeşerten yağmur değil, gönülden kopan sevginin ve hoşgörünün pınarıdır."
 > "Rüzgârın en hafif estiği, sarı buğday başakları arasında evrensel sükunetin demlendiği Selçuklu diyarı."

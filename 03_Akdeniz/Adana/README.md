@@ -1,5 +1,7 @@
 # 📍 Adana - Seyahat ve Tefekkür Notları
 
+![Adana Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Seyhan ve Ceyhan'ın bereketiyle yıkanan bu sıcak topraklar, sadece bedeni değil, cömertliğiyle ruhu da doyurur."
 > "Güneşin en dik açıyla vurduğu, pamuk tarlalarının beyazlığında alın terinin ve samimiyetin harmanlandığı sıcak Akdeniz kapısı."
