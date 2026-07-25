@@ -528,6 +528,464 @@ header::after {
     transform: rotate(90deg);
 }
 
+/* Dashboard Button Style in Header */
+.dashboard-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 20px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    color: #fff;
+    font-family: var(--font-heading);
+    font-size: 13px;
+    font-weight: 600;
+    border: 1px solid var(--border-color);
+    cursor: pointer;
+    transition: all var(--transition-speed) ease;
+    margin-right: 8px;
+}
+.dashboard-btn:hover {
+    transform: translateY(-2px);
+    background: rgba(255, 255, 255, 0.1);
+    border-color: var(--secondary);
+    box-shadow: 0 4px 15px rgba(0, 242, 254, 0.2);
+}
+
+/* Sidebar progress bullet */
+.city-landmark-bullet {
+    font-size: 9px;
+    background: rgba(0, 242, 254, 0.12);
+    color: var(--secondary);
+    border: 1px solid rgba(0, 242, 254, 0.2);
+    padding: 2px 6px;
+    border-radius: 20px;
+    font-weight: 600;
+}
+
+/* Dashboard Landing Page */
+.dashboard-view {
+    padding: 32px;
+    display: flex;
+    flex-direction: column;
+    gap: 32px;
+    animation: fadeIn 0.4s ease;
+}
+.dashboard-hero {
+    border-radius: 20px;
+    padding: 40px;
+    background: linear-gradient(135deg, rgba(12, 18, 37, 0.8), rgba(6, 9, 19, 0.9)), url('assets/banner.png') center/cover;
+    border: 1px solid var(--border-color);
+    box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+    position: relative;
+    overflow: hidden;
+}
+.dashboard-hero::before {
+    content: '';
+    position: absolute;
+    top: -50%;
+    left: -50%;
+    width: 200%;
+    height: 200%;
+    background: radial-gradient(circle, rgba(0, 242, 254, 0.08) 0%, transparent 60%);
+    pointer-events: none;
+}
+.dashboard-badge {
+    display: inline-block;
+    padding: 4px 12px;
+    border-radius: 20px;
+    background: linear-gradient(90deg, rgba(46, 204, 113, 0.2), rgba(0, 242, 254, 0.2));
+    border: 1px solid var(--primary);
+    color: var(--text-primary);
+    font-size: 10px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-bottom: 16px;
+}
+.dashboard-hero-text h2 {
+    font-family: var(--font-heading);
+    font-size: 36px;
+    font-weight: 800;
+    letter-spacing: 0.5px;
+    background: linear-gradient(135deg, #fff, #94a3b8);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    margin-bottom: 12px;
+}
+.dashboard-hero-text p {
+    color: var(--text-secondary);
+    font-size: 14px;
+    line-height: 1.6;
+    max-width: 700px;
+}
+
+/* Stats Widgets */
+.stats-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+    gap: 20px;
+}
+.stat-card {
+    border-radius: 16px;
+    padding: 24px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    transition: all var(--transition-speed) ease;
+}
+.stat-card:hover {
+    transform: translateY(-4px);
+    border-color: var(--border-hover);
+    box-shadow: 0 10px 20px rgba(0,0,0,0.3);
+}
+.stat-icon-wrapper {
+    width: 48px;
+    height: 48px;
+    border-radius: 12px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 8px;
+}
+.stat-val {
+    font-family: var(--font-heading);
+    font-size: 28px;
+    font-weight: 800;
+    color: #fff;
+}
+.stat-label {
+    font-size: 12px;
+    color: var(--text-muted);
+    font-weight: 500;
+}
+
+/* Dashboard Split Grid */
+.dashboard-panels {
+    display: grid;
+    grid-template-columns: 1.2fr 1fr;
+    gap: 32px;
+}
+.panel-title-heading {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 20px;
+}
+.regions-grid-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.region-card {
+    border-radius: 16px;
+    padding: 20px;
+    transition: all var(--transition-speed) ease;
+}
+.region-card:hover {
+    background: rgba(255, 255, 255, 0.03);
+    border-color: var(--border-hover);
+}
+.region-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.region-title-text {
+    font-family: var(--font-heading);
+    font-weight: 600;
+    font-size: 14px;
+    color: #fff;
+}
+.region-count-badge {
+    font-size: 11px;
+    background: rgba(255, 255, 255, 0.05);
+    border: 1px solid var(--border-color);
+    padding: 4px 10px;
+    border-radius: 20px;
+    color: var(--text-secondary);
+    font-weight: 600;
+}
+.region-percentage-text {
+    font-size: 11px;
+    color: var(--text-muted);
+    text-align: right;
+}
+
+.methodology-card {
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.methodology-item {
+    font-size: 13px;
+    line-height: 1.6;
+    color: var(--text-secondary);
+}
+.methodology-item strong {
+    color: #fff;
+    display: block;
+    margin-bottom: 4px;
+}
+
+/* Highlights */
+.highlights-container {
+    display: flex;
+    flex-direction: column;
+    gap: 16px;
+}
+.highlight-card {
+    border-radius: 16px;
+    height: 140px;
+    background-size: cover;
+    background-position: center;
+    position: relative;
+    cursor: pointer;
+    overflow: hidden;
+    transition: all var(--transition-speed) ease;
+    border: 1px solid var(--border-color);
+}
+.highlight-card:hover {
+    transform: scale(1.02);
+    border-color: var(--primary);
+    box-shadow: 0 10px 20px rgba(46, 204, 113, 0.15);
+}
+.highlight-info {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    padding: 20px;
+    display: flex;
+    flex-direction: column;
+}
+.highlight-region {
+    font-size: 9px;
+    color: var(--primary);
+    text-transform: uppercase;
+    font-weight: 700;
+    letter-spacing: 0.5px;
+    margin-bottom: 2px;
+}
+.highlight-info h4 {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 700;
+    color: #fff;
+}
+.highlight-desc {
+    font-size: 11px;
+    color: var(--text-secondary);
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    margin-top: 4px;
+    font-style: italic;
+}
+
+/* Tabs UI inside City details */
+.details-tabs {
+    display: flex;
+    border-radius: 16px;
+    padding: 6px;
+    gap: 8px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+}
+.tab-btn {
+    flex: 1;
+    min-width: 120px;
+    padding: 12px 16px;
+    border-radius: 10px;
+    border: none;
+    background: transparent;
+    color: var(--text-secondary);
+    font-family: var(--font-heading);
+    font-size: 13px;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all var(--transition-speed) ease;
+}
+.tab-btn:hover {
+    background: rgba(255, 255, 255, 0.03);
+    color: #fff;
+}
+.tab-btn.active {
+    background: linear-gradient(135deg, rgba(46, 204, 113, 0.15), rgba(0, 242, 254, 0.15));
+    color: #fff;
+    border: 1px solid rgba(0, 242, 254, 0.25);
+    box-shadow: 0 4px 12px rgba(0, 242, 254, 0.1);
+}
+
+/* Maps button */
+.maps-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    padding: 10px 18px;
+    border-radius: 10px;
+    font-size: 12px;
+    color: #fff;
+    text-decoration: none;
+    font-weight: 600;
+    transition: all var(--transition-speed) ease;
+    border: 1px solid rgba(0, 242, 254, 0.3);
+    box-shadow: 0 4px 12px rgba(0, 242, 254, 0.15);
+}
+.maps-btn:hover {
+    transform: translateY(-2px);
+    background: rgba(0, 242, 254, 0.1);
+    box-shadow: 0 6px 18px rgba(0, 242, 254, 0.3);
+    border-color: var(--secondary);
+}
+
+/* Landmarks Checkbox Layout */
+.landmark-progress-container {
+    border-radius: 16px;
+    padding: 20px;
+    border: 1px solid var(--border-color);
+}
+.landmark-progress-header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 13px;
+    color: var(--text-primary);
+}
+.landmarks-grid-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    gap: 16px;
+}
+.landmark-checkbox-card {
+    display: flex;
+    align-items: center;
+    gap: 16px;
+    padding: 18px 24px;
+    border-radius: 16px;
+    cursor: pointer;
+    transition: all var(--transition-speed) ease;
+    border: 1px solid var(--border-color);
+    position: relative;
+    user-select: none;
+}
+.landmark-checkbox-card input[type="checkbox"] {
+    display: none;
+}
+.checkbox-custom {
+    width: 20px;
+    height: 20px;
+    border-radius: 6px;
+    border: 2px solid var(--border-hover);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: transparent;
+    transition: all var(--transition-speed) ease;
+    background: transparent;
+}
+.landmark-checkbox-card input[type="checkbox"]:checked + .checkbox-custom {
+    background: var(--primary);
+    border-color: var(--primary);
+    color: #fff;
+    box-shadow: 0 0 10px var(--primary-glow);
+}
+.landmark-name-label {
+    font-size: 13.5px;
+    color: var(--text-secondary);
+    font-weight: 500;
+    transition: all var(--transition-speed) ease;
+}
+.landmark-checkbox-card.checked {
+    border-color: rgba(46, 204, 113, 0.3);
+    background: rgba(46, 204, 113, 0.03);
+}
+.landmark-checkbox-card.checked .landmark-name-label {
+    color: #fff;
+}
+.landmark-checkbox-card:hover {
+    transform: translateY(-2px);
+    border-color: var(--border-hover);
+}
+
+/* Gastronomi UI */
+.gastro-grid-layout {
+    display: grid;
+    grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+    gap: 20px;
+}
+.gastro-card {
+    border-radius: 16px;
+    padding: 24px;
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+    transition: all var(--transition-speed) ease;
+}
+.gastro-card:hover {
+    border-color: var(--border-hover);
+    transform: translateY(-2px);
+}
+.gastro-icon {
+    font-size: 32px;
+}
+.gastro-body h5 {
+    font-family: var(--font-heading);
+    font-size: 15px;
+    font-weight: 700;
+    color: #fff;
+    margin-bottom: 6px;
+}
+.gastro-body p {
+    font-size: 12.5px;
+    color: var(--text-secondary);
+    line-height: 1.5;
+}
+
+/* Sufi Parchment Style */
+.spiritual-parchment {
+    border-radius: 20px;
+    padding: 32px;
+    border: 1px solid rgba(46, 204, 113, 0.15);
+    background: linear-gradient(135deg, rgba(17, 25, 48, 0.5) 0%, rgba(6, 9, 19, 0.8) 100%);
+    position: relative;
+    overflow: hidden;
+}
+.parchment-border {
+    border-left: 2px solid rgba(46, 204, 113, 0.4);
+    padding-left: 24px;
+}
+.parchment-title {
+    font-family: var(--font-heading);
+    font-size: 18px;
+    font-weight: 700;
+    color: var(--primary);
+    margin-bottom: 16px;
+    letter-spacing: 0.5px;
+}
+.parchment-content {
+    font-family: var(--font-body);
+    font-size: 14.5px;
+    color: var(--text-secondary);
+    line-height: 1.8;
+    font-style: italic;
+}
+
+/* General styles */
+.fade-in {
+    animation: fadeIn 0.4s ease;
+}
+.empty-tab-message {
+    text-align: center;
+    color: var(--text-muted);
+    font-size: 13px;
+    padding: 40px;
+}
+
 /* Responsive */
 @media (max-width: 1024px) {
     .main-layout {
@@ -542,5 +1000,14 @@ header::after {
     }
     .info-columns {
         grid-template-columns: 1fr;
+    }
+    .dashboard-panels {
+        grid-template-columns: 1fr;
+    }
+    .details-tabs {
+        flex-direction: column;
+    }
+    .tab-btn {
+        width: 100%;
     }
 }

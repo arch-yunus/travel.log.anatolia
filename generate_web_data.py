@@ -25,6 +25,15 @@ def main():
         print("Could not import enrich_visited_deep.")
         return
         
+    # Get city coordinates
+    try:
+        from map_generator import MapGenerator
+        mg = MapGenerator()
+        city_coords = mg.city_coords
+    except ImportError:
+        print("Could not import MapGenerator coordinates.")
+        city_coords = {}
+        
     web_cities = {}
     
     # We find visited checking README actual list
@@ -69,6 +78,7 @@ def main():
             "name": folder_name,
             "region": REGIONS_INFO.get(region_dir, "Bilinmeyen Bölge"),
             "banner": banner_path,
+            "coords": city_coords.get(city_name, []),
             "hikmet": details.get("hikmet", "Henüz bir bilge sözü eklenmedi."),
             "quote": details.get("quote", "Seyahat, yeni gözlerle bakmaktır."),
             "description": details.get("description", "Açıklama mevcut değil."),

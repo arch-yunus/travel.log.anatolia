@@ -14,6 +14,7 @@ import json
 from datetime import datetime
 from map_generator import MapGenerator
 from analytics import TravelLogAnalytics
+import random
 
 console = Console()
 
@@ -145,11 +146,6 @@ class TravelCLI:
         time.sleep(1)
 
     def interactive_mode(self):
-        import random
-        # make random available for cinematic boot
-        global random
-        import random
-        
         self.cinematic_boot()
         while True:
             self.print_menu()

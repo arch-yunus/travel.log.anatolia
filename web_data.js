@@ -3,6 +3,10 @@ const TRAVEL_DATA = {
         "name": "Adana",
         "region": "Akdeniz Bölgesi",
         "banner": "03_Akdeniz/Adana/banner.jpg",
+        "coords": [
+            37.0,
+            35.3213
+        ],
         "hikmet": "Seyhan ve Ceyhan'ın bereketiyle yıkanan bu sıcak topraklar, sadece bedeni değil, cömertliğiyle ruhu da doyurur.",
         "quote": "\"Güneşin en dik açıyla vurduğu, pamuk tarlalarının beyazlığında alın terinin ve samimiyetin harmanlandığı sıcak Akdeniz kapısı.\"",
         "description": "Toroslar'ın eteklerinden Akdeniz'e süzülen nehirlerin suladığı bereketli Çukurova'nın kalbi. Adana, enerjisi yüksek, insanı sıcak ve yaşam ritmi son derece canlı bir şehirdir. Tarihi Taşköprü'nün üzerinden geçen rüzgar, antik çağlardan bu yana kim bilir kaç medeniyetin hikayesini Seyhan'ın sularına fısıldamıştır. Kentin sokaklarında yürürken burnunuza çalınan o nefis kebap kokuları, esnafın sıcak selamlamaları ve portakal çiçeği mevsiminde şehri saran o büyüleyici koku, Adana'yı sadece bir coğrafya değil, bir yaşam coşkusu haline getirir.",
@@ -22,6 +26,10 @@ const TRAVEL_DATA = {
         "name": "Aksaray",
         "region": "İç Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            38.3687,
+            34.037
+        ],
         "hikmet": "Bozkırın ortasındaki derin vadiler, hayatın en kurak anlarında bile sığınabileceğimiz gizli vahaların olduğunu fısıldar.",
         "quote": "\"Ihlara Vadisi'nin yeşil sükûnetinde akan suların, Hasan Dağı'nın heybetli gölgesiyle buluştuğu kadim geçit.\"",
         "description": "Kapadokya'nın batı kapısı olan, Hasan Dağı'nın eteklerindeki Aksaray. Melendiz Çayı'nın binlerce yılda oyduğu muazzam Ihlara Vadisi, kayalara oyulmuş kiliseleri ve Selçuklu mirası kervansaraylarıyla burası adeta bir tarih and doğa müzesidir. Bozkırın ortasında yükselen bu antik kent, kervanların ve dervişlerin asırlar boyu sığındığı bir menzildir.",
@@ -41,6 +49,10 @@ const TRAVEL_DATA = {
         "name": "Amasya",
         "region": "Karadeniz Bölgesi",
         "banner": "05_Karadeniz/Amasya/banner.jpg",
+        "coords": [
+            40.65,
+            35.8333
+        ],
         "hikmet": "Kayaya kazınan en büyük iz kralların gücü değil, vadiden usulca akan suların getirdiği yaşamdır.",
         "quote": "\"Nehrin ikiye böldüğü, Ferhat'ın gölgesiyle dağların şarkısının rüzgarda birbirine karıştığı elma kokulu vadi.\"",
         "description": "Yeşilırmak'ın nazlı nazlı aktığı dar ve sarp bir vadiye gizlenmiş masal şehri. Nehrin iki yakasını süsleyen ince işçilikli yalıboyu evleri, onların üstüne heybetle yükselen hırçın kayalar ve bu kayalara kazınmış iki bin yıllık Pontus antik Kral Kaya mezarları...\n\nAmasya, nehrin ritmiyle tarihin donup kaldığı bir seyir terasıdır. Şehzadelerin devlet yönetmeyi öğrendikleri bu topraklar, küçük yüzölçümüne rağmen kültürel olarak bir imparatorluk büyüklüğündedir.\n\nHarşena Dağı'nın eteklerine serpiştirilmiş medreseler, köprüler ve camiler, sanki nehirle bir uyum anlaşması imzalamış gibidir. Geceleri Yeşilırmak'ın üzerine düşen o yumuşak yalı ışıkları, şehri adeta altın tozu serpilmiş efsunlu bir Ortaçağ masalına çevirir.",
@@ -61,6 +73,10 @@ const TRAVEL_DATA = {
         "name": "Ankara",
         "region": "İç Anadolu Bölgesi",
         "banner": "04_IcAnadolu/Ankara/banner.jpg",
+        "coords": [
+            39.9208,
+            32.8541
+        ],
         "hikmet": "Taşa ve yokluğa karşı dikilen bir Cumhuriyet iradesi, dünyadaki en güçlü çelikten daha aşılmazdır.",
         "quote": "\"Yorgun bir bozkırda imkansızın nasıl başarıldığını haykıran, vakur, kararlı ve devrimci başkent.\"",
         "description": "Anadolu'nun kalbi, Friglerden Cumhuriyetin kuruluş yıllarına kadar uzanan, daima ayakta kalmanın direncini simgeleyen şehir. Güçlü ayazı insanın tenini sıyırsa da, sokaklarındaki ciddiyet ve kararlılık devletin ve milletin ruhunu ateşler.\n\nAnkara, görkemli sarayların veya boğaz parıltısının değil; emeğin, kararlılığın, diplomasinin ve 'kendi küllerinden doğma' inancının merkezidir. Ulus meydanındaki her kaldırım taşı Cumhuriyetin ilk adımlarını şahididir.\n\nAnıtkabir'in aslanlı yolundan yürürken hissedilen o devasa ağırlık ve minnet duygusu, Kurtuluş Savaşı müzesindeki yırtık çarıklara bakınca boğaza düğümlenen o hüzünlü saygı... Ankara, pes etmemenin, küllerinden bir Anka kuşu gibi yeniden doğmanın adıdır. Eymir'in sonbahar yapraklarında dahi bu şehrin o vakur ve ketum melankolisinden bir parça bulabilirsiniz.",
@@ -81,6 +97,10 @@ const TRAVEL_DATA = {
         "name": "Antalya",
         "region": "Akdeniz Bölgesi",
         "banner": "03_Akdeniz/Antalya/banner.jpg",
+        "coords": [
+            36.8841,
+            30.7056
+        ],
         "hikmet": "Sonsuz maviliğin ufku, geçmişi derinliklerinde hatırlar ancak daima doğacak yeni güne daha büyük umutla bakar.",
         "quote": "\"Kayalıklarına gürültüyle çarpıp geri çekilen suların, asırların mirasını şefkatle yıkadığı sıcak Akdeniz cenneti.\"",
         "description": "Akdeniz'in şüphesiz vitrini; güneşi, Likya ve Pamfilya antik kentlerini ve turkuaz doğayı cömertçe kucaklayan o sıcak coğrafya. Bir yanda Torosların kar kaplı heybeti dururken, diğer yanda insanın ruhunu yatıştıran engin mavi plajlar uzanır.\n\nKaleiçi'nin begonvillerle süslenmiş, dar ve nostaljik sokaklarında yürürken, antik krallıkların ayak seslerini ve yorgun kalyoncuların kalkanlara vuran mızrak seslerini bir film şeridi gibi hissedersiniz.\n\nAspendos'un o muazzam akustiğinde binlerce yıl önceki trajedilerin yankılandığını hayal edebilir, Kurşunlu ve Düden şelalelerinin ferahlığında cehennem sıcağından bir vaha serinliğine kaçabilirsiniz. Antalya sadece bir yaz rotası değil, derinlere inen kanyonları ve sedir ormanlarıyla başlı başına bir yaşam felsefesi mekanıdır.",
@@ -100,6 +120,10 @@ const TRAVEL_DATA = {
         "name": "Ardahan",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            41.1105,
+            42.7022
+        ],
         "hikmet": "En kuzey sınırda esen dondurucu rüzgar, insanın içindeki yaşama azmini ve kardeşlik sıcaklığını daha da kurutmaz, tam aksine artırır.",
         "quote": "\"Yalnızçam Dağları'nın beyaz örtüsü altında, Çıldır Gölü'nün buz tutmuş yüzeyinde atlı kızakların kaydığı sınır boyu.\"",
         "description": "Türkiye'nin en soğuk ve en kuzeydoğu illerinden biri olan, Kafkasya geçidindeki Ardahan. Kış aylarında tamamen buz tutan devasa Çıldır Gölü, üzerindeki atlı kızakları ve eskimo usulü balıkçılığıyla masalsı bir kış diyarı sunar. Ardahan Kalesi'nin Kura Nehri'ne bakan surları ve Yalnızçam yaylaları, bu sınır kentinin vakur ve dayanıklı karakterini yansıtır.",
@@ -119,6 +143,10 @@ const TRAVEL_DATA = {
         "name": "Artvin",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            41.1828,
+            41.8183
+        ],
         "hikmet": "Bulutların üzerine kurulan bu dik yamaçlar, insanın doğa karşısındaki sınırlarını ve sabrını sınayan muazzam bir okuldur.",
         "quote": "\"Karadeniz'in göğe komşu topraklarında, geçit geçmez vadilerin ve zümrüt yeşili milli parkların gizemli cenneti.\"",
         "description": "Türkiye'nin en engebeli ve vahşi doğasına sahip, yeşilin binbir tonunu barındıran sınır şehri Artvin. Çoruh Nehri'nin derin vadileri, Karagöl'ün büyüleyici yansıması, Macahel'in bakir ormanları ve göğe yükselen yaylalarıyla burası macera ve huzur arayan gezginlerin rüyasıdır. Coğrafyanın zorluğu, insanının direncini ve doğaya olan derin saygısını şekillendirmiştir.",
@@ -138,6 +166,10 @@ const TRAVEL_DATA = {
         "name": "Bayburt",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.2552,
+            40.2249
+        ],
         "hikmet": "Yalnızlık ve sessizlik, bozkırın ortasında kurulan bu kalede insanın kendi iç dünyasıyla yüzleşmesini sağlar.",
         "quote": "\"Çoruh Nehri'nin kıvrılarak geçtiği, bozkırın sessizliğinde yükselen kadim kale ve modern sanatın buluştuğu sıradışı diyar.\"",
         "description": "Doğu Karadeniz'i Doğu Anadolu'ya bağlayan geçitlerin üzerinde yer alan, Çoruh Nehri'nin ikiye böldüğü Bayburt. Bayburt Kalesi'nin heybetli surları, yerin altındaki gizemli Aydıntepe Yeraltı Şehri and Baksı Müzesi ile burası şaşırtıcı detaylarla doludur. Sakin, gösterişsiz ama derin bir ruha sahiptir.",
@@ -157,6 +189,10 @@ const TRAVEL_DATA = {
         "name": "Bursa",
         "region": "Marmara Bölgesi",
         "banner": "01_Marmara/Bursa/banner.jpg",
+        "coords": [
+            40.1828,
+            29.0667
+        ],
         "hikmet": "Dağın yüceliği sadece zirvesindeki karlardan değil, eteklerindeki çınarlara verdiği can suyundan gelir.",
         "quote": "\"Suyun sesine karışan ulu çınar yapraklarının, bir imparatorluğun doğuşuna beşiklik ettiği yeşil başkent.\"",
         "description": "Uludağ'ın eteklerine şefkatle yaslanmış, yeşiliyle ve suyuyla her nefeste hayat bulan asil Osmanlı şehri. Her köşebaşındaki tarihi bir şadırvandan su sesi gelir; dar sokaklarında ahşap ve taşlarla ilmek ilmek işlenmiş, asırlara meydan okuyan bir sükunet vardır.\n\nBursa, doğa ile insanın, yeşil ile mimarinin en zarif şekilde uyumlandığı kadim bir huzur yuvasıdır. Hanlar bölgesindeki çay molaları, zamanın burada daha yavaş aktığının en büyük kanıtıdır.\n\nUlu Cami'nin o bitimsiz, iç içe geçmiş yirmi kubbesi altında duyulan yankı, Yeşil Türbe'nin sır kaplı çinilerindeki ince işçilik ve Kozahan'da ipek tezgâhlarından yükselen o kadim şıkırtılar... Bursa, sadece eski bir başkent değil, toprağın suyla, sanatın inançla buluşup mayalandığı, ruhu hiçbir zaman eskimemiş yeşil bir cennettir.",
@@ -177,6 +213,10 @@ const TRAVEL_DATA = {
         "name": "Denizli",
         "region": "Ege Bölgesi",
         "banner": "02_Ege/Denizli/banner.jpg",
+        "coords": [
+            37.7765,
+            29.0864
+        ],
         "hikmet": "Sabırla süzülen küçük ısrarlı su damlaları, asırlar içinde en sert ve karanlık kayaları bile bembeyaz bir pamuk tarlasına döndürür.",
         "quote": "\"Yeraltından fokurdayarak fışkıran sıcağın sanata, antik zamanların ve gladyatörlerin ise derin bir sessizliğe dönüştüğü o eşsiz coğrafya.\"",
         "description": "Uzaktan pamuk tarlaları gibi görünen travertenlerin bembeyaz şefkati ve hemen yanı başındaki Hierapolis'in büyüleyici, devasa lahit kalıntıları. Toprağın altında kaynayan ve efsanelere konu olan şifalı sular, yeryüzüne çıktığında muazzam bir doğa heykeli inşa eder.\n\nDenizli, tekstilin, dokumanın ve tabiatın en zarif işçiliğini birleştirerek yeryüzü tuvalinde sergilediği inanılmaz bir sanat atölyesi gibidir.\n\nLaodikeia'da gezinirken İncil'de geçen yedi kiliseden birinde durduğunuzu farz ederken, antik havuzun içinde gladyatör sutunlarına dokunarak yüzmenin o olağanüstü mitolojik aurasına kapılabilirsiniz. Dokuma tezgahlarının o ritmik 'tık tık' sesleri, ezelden beri süre gelen bir bereketin kalp atışı gibidir.",
@@ -196,6 +236,10 @@ const TRAVEL_DATA = {
         "name": "Elazig",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            38.681,
+            39.2264
+        ],
         "hikmet": "Harput'un bin yıllık taş surları, medeniyetlerin yükselip alçaldığı ama maneviyatın hep ayakta kaldığı bir kaledir.",
         "quote": "\"Tarihi Harput Kalesi'nin gölgesinde, Hazar Gölü'nün batık şehrine bakan köklü medeniyetlerin ve gakgoşların yurdu.\"",
         "description": "Kadim Harput kentinin mirasçısı, baraj gölleriyle çevrili Doğu Anadolu kenti Elazığ. Harput Kalesi'nin eğik minaresi, Hazar Gölü'nün suları altındaki antik Batık Şehir ve şifalı Buzluk Mağarası ile burası tarihi ve doğal sürprizlerle doludur. Kendine has musikisi (kürsübaşı sohbetleri) ve 'gakgoş' kültürüyle son derece misafirperverdir.",
@@ -215,6 +259,10 @@ const TRAVEL_DATA = {
         "name": "Erzincan",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            39.75,
+            39.5
+        ],
         "hikmet": "Depremlerle defalarca yıkılan bu şehrin küllerinden yeniden doğması, sabrın ve yeniden inşa iradesinin en büyük zaferidir.",
         "quote": "\"Munzur Dağları'nın gölgesinde, Fırat Nehri'nin coşkulu kollarında rafting yapılan, küllerinden doğmuş dirençli şehir.\"",
         "description": "Tarih boyunca büyük depremler atlatmış ama her seferinde daha planlı ve güzel bir şekilde yeniden kurulmuş olan Erzincan. Karanlık Kanyon'un dik yamaçları, Girlevik Şelalesi'nin donmuş buz sütunları ve tulum peynirinin eşsiz aroması ile burası Doğu Anadolu'nun düzenli ve huzurlu bir merkezidir. Fırat Nehri (Karasu) boyunca uzanan vadiler doğa sporları için biçilmiş kaftandır.",
@@ -234,6 +282,10 @@ const TRAVEL_DATA = {
         "name": "Erzurum",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            39.9043,
+            41.2679
+        ],
         "hikmet": "Çifte Minareli Medrese'nin taş kemerleri, tarihin vakur soğuğuna inançla meydan okuyan sarsılmaz birer kaledir.",
         "quote": "\"Palandöken'in karlı zirvelerinden, ulu medreselerin taş oymalarına uzanan, bozkırın vakur ve yiğit dadaşlar diyarı.\"",
         "description": "Anadolu'nun en yüksek ve köklü kentlerinden biri, dadaşlık kültürünün ve kış sporlarının merkezi Erzurum. Çifte Minareli Medrese, Yakutiye Medresesi, Ulu Camii ve Erzurum Kongre Binası ile burası Türk-İslam mimarisinin zirve noktasıdır. Palandöken Dağı'nın eteklerinde kurulu şehir, kışın kar beyazı, yazın ise serin bozkır havasıyla gezginleri karşılar.",
@@ -253,6 +305,10 @@ const TRAVEL_DATA = {
         "name": "Eskisehir",
         "region": "İç Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            39.7767,
+            30.5206
+        ],
         "hikmet": "Porsuk Çayı'nın şehri ikiye bölen dingin akışı, modern yaşamın ritmiyle tarihin zarafetinin uyumudur.",
         "quote": "\"Odunpazarı'nın renkli cumbalı evlerinde geçmişin fısıldadığı, gençliğin ve sanatın coşkuyla yaşandığı modern vaha.\"",
         "description": "İç Anadolu'nun parlayan yıldızı, kültür, sanat ve üniversite şehri Eskişehir. Tarihi Odunpazarı evlerinin nostaljik sokaklarından, Porsuk Çayı kenarındaki modern kafelere; lüle taşı işçiliğinden devasa parklarına kadar burası Türkiye'nin en yaşanabilir ve estetik şehirlerinden biridir. Kent, geçmişi korurken geleceğe umutla bakan aydınlık bir karaktere sahiptir.",
@@ -272,6 +328,10 @@ const TRAVEL_DATA = {
         "name": "Giresun",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.9128,
+            38.3895
+        ],
         "hikmet": "Karadeniz'in dalgalarının dövdüğü kayalar ne kadar sarp ise, zorluklarla bezenmiş o dalların verdiği fındıklar o kadar tatlıdır.",
         "quote": "\"Yeşilin en koyusunun, denizin en mavisinin ve zorlu yamaçlardaki emeğin sonsuz bir memleket hasretiyle kucaklaştığı yer.\"",
         "description": "Ormanın denize paralel bir sükunet ve inatla uzandığı, sislerin ardında gizli kalmış muazzam tabiat. Yaylalarındaki serin rüzgarlar insanın kalbine yaşama sevinci pompalarken, o sarp yamaçlarda yeşeren doğa insan emeğinin en dürüst karşılığını sunar.\n\nSadece adasındaki Amazon efsaneleri değil, yaylarındaki uçsuz bucaksız yeşil dalgalar da Giresun'u Karadeniz'in en otantik ve dokusu bozulmamış incilerinden biri yapar.\n\nKuzalan Şelalesi'nin o efsunlu, mistik turkuaz rengi suları ve Kümbet yaylasının o oksijen deposu çam ormanları arasında insan, şehir hayatının ne kadar sentetik, doğanın ise ne kadar hakiki ve anaç olduğunu hisseder. Giresun'da zaman, çay bahçelerinden denize inen dik patikalarda asuman bir huzurla ağır ağır akar.",
@@ -291,6 +351,10 @@ const TRAVEL_DATA = {
         "name": "Gumushane",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.4597,
+            39.4745
+        ],
         "hikmet": "Kayaların arasındaki altın ve gümüş madenleri gibi, insanın içindeki cevher de ancak zorlu sınavlardan geçtikten sonra parıldar.",
         "quote": "\"Harşit Vadisi'nin sarp kayalıkları arasına gizlenmiş antik kentlerin, elma bahçelerinin ve gizemli mağaraların yurdu.\"",
         "description": "Adını asırlarca işletilen gümüş madenlerinden alan, sarp vadilerin ve yemyeşil yaylaların şehri Gümüşhane. Karaca Mağarası'nın büyüleyici sarkıt ve dikitleri, antik dönemden kalan Süleymaniye Mahallesi (Eski Gümüşhane) ve vadi yamaçlarında kurulu kiliseleriyle burası saklı bir hazinedir. Şehir, cevizli pestil ve kömesinin kokusuyla tatlı bir Karadeniz havası sunar.",
@@ -310,6 +374,10 @@ const TRAVEL_DATA = {
         "name": "Hatay",
         "region": "Akdeniz Bölgesi",
         "banner": "03_Akdeniz/Hatay/banner.jpg",
+        "coords": [
+            36.2,
+            36.1667
+        ],
         "hikmet": "Medeniyetlerin ve inançların ortak sofrasında buluşan Hatay, barışın ve kardeşliğin ebedi yurdudur.",
         "quote": "\"Tarihin en eski caddelerinde farklı ezan, çan ve hazzan seslerinin birbirine karıştığı hoşgörü bahçesi.\"",
         "description": "Tarih boyunca 'Doğu'nun Kraliçesi' olarak anılan, Asi Nehri'nin tersine akışıyla nam saldığı kadim Antakya toprakları. Hatay, Hristiyanlığın ilk kiliselerinden St. Pierre'e, Anadolu'nun ilk camilerinden Habib-i Neccar'a ev sahipliği yapan, inançların ve kültürlerin binlerce yıldır barış içinde yan yana yaşadığı eşsiz bir mozaiktir. Sokaklarında yürürken Roma döneminden kalma taş sütunların izlerine rastlayabilir, dünyanın en zengin mozaik müzelerinden birinde zaman yolculuğuna çıkabilirsiniz. Hatay, her kültürden, her dilden ve her inançtan insanın ortak bir çatı altında kardeşçe yaşayabileceğinin en somut ve asil kanıtıdır.",
@@ -329,6 +397,10 @@ const TRAVEL_DATA = {
         "name": "Isparta",
         "region": "Akdeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            37.7648,
+            30.5566
+        ],
         "hikmet": "Gülün kokusu geçicidir ama onun ruhumuza üflediği zarafet ve saflık baki kalır.",
         "quote": "\"Göller yöresinin serin esintisinde, lavanta ve gül kokulu sokakların asırlık tarihle buluştuğu sakin şehir.\"",
         "description": "Göller Yöresi'nin kalbinde yer alan, Türkiye'nin gül bahçesi Isparta. Eğirdir Gölü'nün göz alıcı turkuazı, lavanta kokulu Kuyucak köyü ve antik çağların izlerini taşıyan Sagalassos ile burası doğanın ve tarihin en huzurlu köşelerinden biridir. Şehir, sakin yaşamı ve mis kokulu tarım arazileriyle insana huzur verir.",
@@ -348,6 +420,10 @@ const TRAVEL_DATA = {
         "name": "Kars",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.6013,
+            43.0975
+        ],
         "hikmet": "Ani Harabeleri'nin sessizliği, yan yana yıkılmış cami ve kiliselerin asırlar boyu süren ortak insanlık tefekkürüdür.",
         "quote": "\"Rus mimarisinin taş sokaklarından, Ani Harabeleri'nin sınır çizen yalnızlığına uzanan, karlar altındaki sınır masalı.\"",
         "description": "Türkiye'nin en doğusunda, çok kültürlü yapısıyla ve Rus döneminden kalma ızgara planlı taş binalarıyla ünlü Kars. Ermenistan sınırında yer alan görkemli Ani Harabeleri, Kars Kalesi ve aşıklık geleneği ile burası gizemli bir sınır masalıdır. Kış aylarında Doğu Ekspresi ile gelen gezginlerin karla kaplı sokaklarında kaybolduğu eşsiz bir destinasyondur.",
@@ -367,6 +443,10 @@ const TRAVEL_DATA = {
         "name": "Kocaeli",
         "region": "Marmara Bölgesi",
         "banner": "01_Marmara/Kocaeli/banner.jpg",
+        "coords": [
+            40.7654,
+            29.9408
+        ],
         "hikmet": "Emeğin teriyle işlediği demir pas tutmaz; yorgunluk, yeni bir inşanın umut kıvılcımıdır.",
         "quote": "\"Fabrika bacalarından tüten isli umutlarla, bitinya krallığından kalma mirasın beraber yeşerdiği üretim diyarı.\"",
         "description": "Denizin kıyısında, körfez köprülerinin ağzında, demirin, plastiğin ve ateşin şekillendiği Türkiye'nin devasa endüstri başkenti. Dışarıdan veya otobandan bakıldığında sadece sanayi bacaları ve duman görünse de, şehrin biraz içine sızınca Kartepe'nin karlarına ve Kandıra'nın yemyeşil koylarına ulaşırsınız.\n\nKocaeli, gece gündüz uyumayan bir üretim arzusuyla, dağların arkasındaki gizli doğanın sürekli bir mücadele ve denge içinde yaşadığı, dinamik bir şehirdir.\n\nEskihisar sahilinden Yalova'ya doğru uzanan vapur rotasında martılara simit atarken, bir tarafınızda Osman Hamdi Bey'in Kaplumbağa Terbiyecisi'ni çizdiği tarihi konağı, diğer tarafınızda yüzlerce metre boyunda devasa lojistik gemilerini görürsünüz. Bu şehir, sanayi ile kültürün, beton ile doğanın o garip, bitirim ve eşsiz sarmalıdır.",
@@ -386,6 +466,10 @@ const TRAVEL_DATA = {
         "name": "Konya",
         "region": "İç Anadolu Bölgesi",
         "banner": "04_IcAnadolu/Konya/banner.jpg",
+        "coords": [
+            37.8667,
+            32.4833
+        ],
         "hikmet": "Susuzluktan kuruyan bozkırı yeşerten yağmur değil, gönülden kopan sevginin ve hoşgörünün pınarıdır.",
         "quote": "\"Rüzgârın en hafif estiği, sarı buğday başakları arasında evrensel sükunetin demlendiği Selçuklu diyarı.\"",
         "description": "Çöllerin ve uçsuz bucaksız ovaların ortasında bir vaha gibi duran, yalnızlığın ve dinginliğin başkenti. Dışarıdan bakıldığında sessiz, sert ve kurak görünen bu bozkır, içine girildiğinde eşsiz bir hoşgörü, tasavvuf ve estetik barındırır.\n\nMevlana'nın yüzyılları aşan 'Ne olursan ol gel' çağrısının yankılandığı sokaklarında gezinirken, sarının ve toprağın her tonu güneşte parlar. Konya, insanın dış dünyadaki karmaşayı geride bırakıp içselliğine uzandığı mistik bir kervansaraydır.\n\nAlaeddin Tepesi'ndeki ulu ağaçların dibinde Selçuklu sancağının ihtişamını, Karatay Medresesi'nin yıldızlı çinilerinde evrenin sonsuzluğunu hissedersiniz. Sille'nin kireç badanalı dar sokakları ve zamana direnen kiliseleri, bu topraklardaki çok kültürlü hoşgörünün ve derin sevginin taşa kazınmış en zarif halidir.",
@@ -405,6 +489,10 @@ const TRAVEL_DATA = {
         "name": "Malatya",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            38.3552,
+            38.3095
+        ],
         "hikmet": "Toprağın sinesinden fışkıran kayısılar, sabırla açan çiçeklerin en tatlı meyveye dönüşen ilahi mükafatıdır.",
         "quote": "\"Fırat Vadisi'nin bereketli topraklarında, kayısı bahçelerinin turuncusunda parıldayan antik Arslantepe'nin kadim yurdu.\"",
         "description": "Dünya kayısı üretiminin merkezi, Fırat Nehri'nin suladığı verimli ovaların şehri Malatya. Tarihin en eski bürokratik devlet yapısının bulunduğu Arslantepe Höyüğü, Somuncu Baba Külliyesi ve Levent Vadisi'nin devasa kanyonları ile burası köklü bir geçmişe sahiptir. İnsanının samimiyeti ve çalışkanlığı, topraklarının bereketiyle birleşmiştir.",
@@ -424,6 +512,10 @@ const TRAVEL_DATA = {
         "name": "Mersin",
         "region": "Akdeniz Bölgesi",
         "banner": "03_Akdeniz/Mersin/banner.jpg",
+        "coords": [
+            36.8,
+            34.6333
+        ],
         "hikmet": "Denizin ortasındaki kaleler ve derin obruklar, insanın hem içindeki derin dehlizleri hem de dış dünyadaki sığınakları aramasıdır.",
         "quote": "\"Toroslar'ın gölgesinde, Akdeniz'in tuzuyla yıkanan, antik Likya'dan bugüne uzanan narenciye kokulu sahil diyarı.\"",
         "description": "Akdeniz'in en uzun kıyı şeritlerinden birine sahip, palmiyeler ve portakal bahçeleriyle süslü liman şehri. Mersin, denizin ortasında yükselen efsanevi Kızkalesi, yerin yüzlerce metre altına inen Cennet ve Cehennem obrukları ve tarihin en eski mağara sığınaklarından Eshab-ı Kehf (Yedi Uyurlar) ile gizemli ve zengin bir mirasa sahiptir. Limanının getirdiği kozmopolit hava ile Akdeniz sıcaklığını harmanlayan bu şehir, her adımda yeni bir antik kent kalıntısıyla gezginleri selamlar.",
@@ -443,6 +535,10 @@ const TRAVEL_DATA = {
         "name": "Mugla",
         "region": "Ege Bölgesi",
         "banner": "02_Ege/Mugla/banner.jpg",
+        "coords": [
+            37.2153,
+            28.3636
+        ],
         "hikmet": "Henüz bir bilge sözü eklenmedi.",
         "quote": "Seyahat, yeni gözlerle bakmaktır.",
         "description": "Açıklama mevcut değil.",
@@ -455,6 +551,10 @@ const TRAVEL_DATA = {
         "name": "Nevsehir",
         "region": "İç Anadolu Bölgesi",
         "banner": "04_IcAnadolu/Nevsehir/banner.jpg",
+        "coords": [
+            38.6244,
+            34.7144
+        ],
         "hikmet": "Henüz bir bilge sözü eklenmedi.",
         "quote": "Seyahat, yeni gözlerle bakmaktır.",
         "description": "Açıklama mevcut değil.",
@@ -467,6 +567,10 @@ const TRAVEL_DATA = {
         "name": "Ordu",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.9839,
+            37.8764
+        ],
         "hikmet": "Göğe ne kadar yükselir ve aşağıya kibirle değil de şefkatle bakarsan, önündeki yollar ve denizler o kadar aydınlanır.",
         "quote": "\"Bulutların üzerine kurulan tahtından, Karadeniz'in ince dantel gibi örülmüş muazzam kıyılarını izleyen zarif şehir.\"",
         "description": "Boztepe'ye çıkıp teleferikten bakıldığında, ayağınızın altında uzanan o muazzam yeşil ve mavi uçurumun şehri. Yaylalarının (Perşembe, Çambaşı) uçsuz bucaksız sisli tepeleri, mendereslerin muazzam kıvrımları ve kıyıların eşsiz sükuneti birleşir.\n\nBurası, insanın metropol gürültüsünden kaçıp kafa dinlemek için haritadan gözü kapalı seçeceği, doğanın merhametli kollarında kurulu, Karadeniz'in en nazlı çocuklarından biridir.\n\nYason Burnu'nda güneşi batırırken Argonotların altın post efsanesini iliklerinize kadar hissedersiniz. Kurul Kalesi'nde Kibele heykeline dokunup, Karadeniz'in sadece deniz ve orman değil, aynı zamanda çok köklü bir antik miras barındırdığına şahit olursunuz. Ordu, modern bir sahil şehri ile antik bir dağ köyünün birleşim noktasıdır.",
@@ -485,6 +589,10 @@ const TRAVEL_DATA = {
         "name": "Rize",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            41.0201,
+            40.5234
+        ],
         "hikmet": "Bulutların yamaçları kucakladığı bu coğrafya, her an değişen havasıyla hayatın beklenmedik iniş çıkışlarını öğretir.",
         "quote": "\"Yemyeşil çay tarlalarının dik yamaçları süslediği, coşkulu derelerin gürültüsüyle yankılanan yaylalar diyarı.\"",
         "description": "Türkiye'nin en çok yağış alan, yeşilin en canlı yaşandığı, çayın başkenti Rize. Kaçkar Dağları'nın sis altındaki yaylaları (Ayder, Pokut, Anzer), Fırtına Deresi üzerinde yükselen asırlık taş kemer köprüler ve dik yamaçlara serpilmiş ahşap konaklar Rize'yi masalsı kılar. Hırçın derelerinin sesi, insanın içindeki tüm dinginliği harekete geçiren coşkulu bir ritme sahiptir.",
@@ -504,6 +612,10 @@ const TRAVEL_DATA = {
         "name": "Samsun",
         "region": "Karadeniz Bölgesi",
         "banner": "05_Karadeniz/Samsun/banner.jpg",
+        "coords": [
+            41.2867,
+            36.33
+        ],
         "hikmet": "En hırçın fırtınalarda uyanan irade, coşkulu dalgaları uysallaştıran ve rotayı çizen tek pusuladır.",
         "quote": "\"Kurtuluşa atılan o tarifsiz ilk sağlam adımın, denizin tuzuna karışıp bir milleti dirilttiği özgürlük limanı.\"",
         "description": "Karadeniz'in deli dalgalarına karşı hep bir fener gibi aydınlık ve dik durmuş umudun şehri. Dağlardan denize doğru uzanan yemyeşil tepelerin ve hırçın Karadeniz sahilinin tam ortasında, medeniyet ve doğanın büyük kucaklaşmasıdır.\n\nAtatürk'ün Bandırma Vapuru ile ufukta göründüğü o tarihi anın ruhunu tütünde, denizde ve rüzgarda her an hissedebilirsiniz. Karadeniz'in en modern şehirlerinden biri olarak ticareti, tarihi ve gençliği aynı sokaklarda barındırır.\n\nKızılırmak ve Yeşilırmak'ın denize kavuştuğu devasa deltalarındaki kuş cennetleri, Amazon savaşçılarının efsunlu tepeleri ve bağımsızlık meşalesinin yandığı tütün kokulu iskeleleri ile Samsun, Karadeniz'in göz ardı edilemez başkenti rolünü üstlenir.",
@@ -523,6 +635,10 @@ const TRAVEL_DATA = {
         "name": "Sinop",
         "region": "Karadeniz Bölgesi",
         "banner": "05_Karadeniz/Sinop/banner.jpg",
+        "coords": [
+            42.0231,
+            35.1531
+        ],
         "hikmet": "En karanlık zindan kalın dört duvar arası ve demir parmaklıklar değil, insanın kendi kafasında ördüğü sınırlardır.",
         "quote": "\"Hırçın Karadeniz ile huzurlu limanın buluştuğu, deniz kokulu yalnızlığıyla baş başa kalan filozof yarımada.\"",
         "description": "Gölgelerin, sükunetin ve en kuzeyin şehri. Anadolu'nun denize bir mızrak ucu gibi uzanan en uç noktası. Dalgaların yüzlerce yıllık kale duvarlarını dövdüğü, ormanın adeta denize döküldüğü ve insanın doğayla baş başa kaldığı efsanevi bir liman!\n\nDar sokaklarında deniz kokusu evlerin pencerelerinden içeri dolar. Hem inziva köşesi arayan bir bilge kadar huzurlu, hem de asırlık tarihi cezaevinin ürpertici havasını taşıyan acılı bir hafıza mekanıdır. Diogenes'in fenerle gündüz vakti insan aradığı bu topraklar, tefekkürün tam merkezidir.\n\nErfelek şelalelerinde ormanın içlerine doğru suyun peşinden giderken hissettiğiniz o gizem, İnceburun'un o rüzgarlı kayalıklarında yerini hudutsuz bir Sonsuzluk hissine bırakır. Sinop, coğrafyanın kader, doğanın ise bir öğretmen olduğunun en net tablosudur.",
@@ -542,6 +658,10 @@ const TRAVEL_DATA = {
         "name": "Sivas",
         "region": "İç Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            39.7477,
+            37.0179
+        ],
         "hikmet": "Selçuklu çinilerindeki geometrik nizam, evrendeki kusursuz matematiksel ve manevi düzenin taştaki yansımasıdır.",
         "quote": "\"Ulu medreselerin göğe yükselen çifte minarelerinde, Cumhuriyet'in ilk kongre kararlarının yankılandığı vakur bozkır kalesi.\"",
         "description": "Tarih boyunca Selçuklu'nun en önemli merkezlerinden biri olan, Cumhuriyet'in temellerinin atıldığı Sivas. Gök Medrese ve Çifte Minareli Medrese'nin muazzam taş oyma işçilikleri, Sivas Kongre Binası'nın tarihi önemi ve Divriği Ulu Camii'nin UNESCO miras listesindeki eşsiz mimarisi ile bu şehir adeta bir açık hava müzesidir. Soğuk ayazı meşhur olsa da insanının sıcaklığıyla gönülleri ısıtır.",
@@ -561,6 +681,10 @@ const TRAVEL_DATA = {
         "name": "Trabzon",
         "region": "Karadeniz Bölgesi",
         "banner": "05_Karadeniz/Trabzon/banner.jpg",
+        "coords": [
+            41.0015,
+            39.7178
+        ],
         "hikmet": "Sarp kayalıkların sinesine kurulan mabetler, inancın hiçbir engel tanımadığının en somut nişanesidir.",
         "quote": "\"Hırçın dalgaların vurduğu kıyılardan, sisler altındaki yemyeşil yaylalara uzanan, tarihin vakur limanı.\"",
         "description": "Karadeniz'in hırçın suları ile sarp dağlarının arasında kurulmuş kadim liman şehri. Trabzon, Zigana Dağları'nın sisli geçitlerinden süzülen Karadeniz kültürünün, kemençe sesinin ve horon coşkusunun merkezidir. Karadağ'ın dik yamaçlarına adeta bir kartal yuvası gibi kondurulmuş bin 600 yıllık Sümela Manastırı, inancın sarp dağları nasıl aşabileceğinin en büyüleyici kanıtıdır. Hamsi kokan sokakları, yemyeşil yaylaları ve tarihi yapılarıyla Trabzon, Karadeniz'in ruhunu en derin hissettiren kentidir.",
@@ -580,6 +704,10 @@ const TRAVEL_DATA = {
         "name": "Tunceli",
         "region": "Doğu Anadolu Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            39.1079,
+            39.5401
+        ],
         "hikmet": "Munzur'un hırçın köpüklü suları, dağların derinliklerinden gelen en saf ve temiz yaşam energisidir.",
         "quote": "\"Munzur Dağları'nın geçit vermez zirvelerinde, hırçın nehirlerin ve kutsal gözelerin sarmaladığı gizemli coğrafya.\"",
         "description": "Tunceli, sarp dağların, kanyonların ve akarsuların çevrelediği, doğanın en bakir kaldığı Doğu Anadolu ilidir. Kutsal kabul edilen Munzur Gözeleri, Munzur Vadisi Milli Parkı ve Munzur Çayı rafting parkurları ile burası doğa severler için eşsizdir. Alevi-Bektaşi kültürünün en yoğun yaşandığı, doğaya ve canlıya derin bir saygının hakim olduğu mistik bir atmosfere sahiptir.",
@@ -599,6 +727,10 @@ const TRAVEL_DATA = {
         "name": "Corum",
         "region": "Karadeniz Bölgesi",
         "banner": "assets/banner.png",
+        "coords": [
+            40.5506,
+            34.9556
+        ],
         "hikmet": "Medeniyetler kılıçla veya kanla kurulsa da, yalnızca masaya barışın mührü basıldığında yarına kalır.",
         "quote": "\"Çivi yazılı taş tabletlerin arasında yankılanan ilk barışın, bereketli topraklardaki unutulmaz izi.\"",
         "description": "Hititlerin kadim güneşi altında yıkanan, bereketin, tarihin ve Anadolu uygarlıklarının beşiği. Çorum, gösterişten uzak tepelerinde binlerce yıllık bir imparatorluk mirasını saklar.\n\nHattuşaş'ın yıkıntıları arasında, Aslanlı Kapı'dan içeri doğru yürürken duyulan tek ses, toprağın ve rüzgarın binlerce yıllık şahitliğinin ninnisine benzer. Şehir, leblebicilerinin burna dolan o güzel kavrulmuş kokusu ile samimi, mütevazı ama derin bir karakter sergiler.\n\nAlacahöyük'te bulunan Sfenksli Kapı ve kral mezarlarından çıkarılan güneş kursları, insanoğlunun tunç çağındaki o olağanüstü sanat yeteneğine hayran bırakır. Çorum, gösterişsiz bozkır örtüsünün altında, antik dünyanın en büyük askeri ve diplomatik dehalarından birinin izlerini gururla taşır.",
@@ -618,6 +750,10 @@ const TRAVEL_DATA = {
         "name": "Istanbul",
         "region": "Marmara Bölgesi",
         "banner": "01_Marmara/Istanbul/banner.jpg",
+        "coords": [
+            41.0082,
+            28.9784
+        ],
         "hikmet": "İstanbul bir ayna gibidir; ona yüzünü dönen, zamanın ve tarihin kalbinde kendi yansımasını görür.",
         "quote": "\"İmparatorlukların ebediyete karıştığı, taşın ve denizin şiir yazdığı yedi tepeli masal.\"",
         "description": "Dünyanın gözbebeği, iki kıtayı birbirine diken asırlık payitaht. Topraklarında barındırdığı üç büyük imparatorluğun kültürel ve mimari nefesini her sokağında hissettiren bu kadim şehir, asla uyumayan devasa bir deryadır.\n\nAyasofya'nın kubbesinden süzülen solgun bir ışık, Galata'nın rutubetli taşlarına sinmiş anılar, Boğaz'ın hırçın rüzgarına karışan eski zaman fısıltıları... İstanbul, dar vakitlerde aceleyle 'gezilecek' değil; durup uzun uzadıya kulak verilecek, derin bir nefesle içe çekilecek, insanın kendi varoluşunu sorgulayabileceği uçsuz bucaksız bir romandır.\n\nYedi tepesine nakış gibi işlenmiş ulu camileri, yüzyılların hüznünü taşıyan surları, erguvan mevsiminde alev alev yanan Boğaz kıyıları ile İstanbul, başlı başına bir kainattır. Pierre Loti'den Haliç'e bakarken, ya da Üsküdar'da Kız Kulesi'ne karşı çay yudumlarken hissedilen o eşsiz bütünlük duygusu, başka hiçbir coğrafyada bulunmaz. Tarih, bu şehirde kitapların arasında değil, kaldırım taşlarının, cumbalı ahşap evlerin ve asırlık çınarların gölgesinde yaşamaya devam eder.",
