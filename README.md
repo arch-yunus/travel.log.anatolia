@@ -133,25 +133,99 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
 **🏰 Marmara Bölgesi (3/11)**
-❌ Balıkesir • ❌ Bilecik • ✅ **Bursa** • ❌ Edirne • ✅ **Kocaeli** • ❌ Kırklareli • ❌ Sakarya • ❌ Tekirdağ • ❌ Yalova • ❌ Çanakkale • ✅ **İstanbul**
+- ❌ Balıkesir
+- ❌ Bilecik
+- ✅ **Bursa**
+- ❌ Edirne
+- ✅ **Kocaeli**
+- ❌ Kırklareli
+- ❌ Sakarya
+- ❌ Tekirdağ
+- ❌ Yalova
+- ❌ Çanakkale
+- ✅ **İstanbul**
 
 **🌊 Ege Bölgesi (2/8)**
-❌ Afyonkarahisar • ❌ Aydın • ✅ **Denizli** • ❌ Kütahya • ❌ Manisa • ✅ **Muğla** • ❌ Uşak • ❌ İzmir
+- ❌ Afyonkarahisar
+- ❌ Aydın
+- ✅ **Denizli**
+- ❌ Kütahya
+- ❌ Manisa
+- ✅ **Muğla**
+- ❌ Uşak
+- ❌ İzmir
 
 **☀️ Akdeniz Bölgesi (5/8)**
-✅ **Adana** • ✅ **Antalya** • ❌ Burdur • ✅ **Hatay** • ✅ **Isparta** • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
+- ✅ **Adana**
+- ✅ **Antalya**
+- ❌ Burdur
+- ✅ **Hatay**
+- ✅ **Isparta**
+- ❌ Kahramanmaraş
+- ✅ **Mersin**
+- ❌ Osmaniye
 
 **🌾 İç Anadolu Bölgesi (6/13)**
-✅ **Aksaray** • ✅ **Ankara** • ✅ **Eskişehir** • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ✅ **Sivas** • ❌ Yozgat • ❌ Çankırı
+- ✅ **Aksaray**
+- ✅ **Ankara**
+- ✅ **Eskişehir**
+- ❌ Karaman
+- ❌ Kayseri
+- ✅ **Konya**
+- ❌ Kırıkkale
+- ❌ Kırşehir
+- ✅ **Nevşehir**
+- ❌ Niğde
+- ✅ **Sivas**
+- ❌ Yozgat
+- ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
-✅ **Amasya** • ✅ **Artvin** • ❌ Bartın • ✅ **Bayburt** • ❌ Bolu • ❌ Düzce • ✅ **Giresun** • ✅ **Gümüşhane** • ❌ Karabük • ❌ Kastamonu • ✅ **Ordu** • ✅ **Rize** • ✅ **Samsun** • ✅ **Sinop** • ❌ Tokat • ✅ **Trabzon** • ❌ Zonguldak • ✅ **Çorum**
+- ✅ **Amasya**
+- ✅ **Artvin**
+- ❌ Bartın
+- ✅ **Bayburt**
+- ❌ Bolu
+- ❌ Düzce
+- ✅ **Giresun**
+- ✅ **Gümüşhane**
+- ❌ Karabük
+- ❌ Kastamonu
+- ✅ **Ordu**
+- ✅ **Rize**
+- ✅ **Samsun**
+- ✅ **Sinop**
+- ❌ Tokat
+- ✅ **Trabzon**
+- ❌ Zonguldak
+- ✅ **Çorum**
 
 **🏔️ Doğu Anadolu Bölgesi (7/14)**
-✅ **Ardahan** • ❌ Ağrı • ❌ Bingöl • ❌ Bitlis • ✅ **Elazığ** • ✅ **Erzincan** • ✅ **Erzurum** • ❌ Hakkari • ❌ Iğdır • ✅ **Kars** • ✅ **Malatya** • ❌ Muş • ✅ **Tunceli** • ❌ Van
+- ✅ **Ardahan**
+- ❌ Ağrı
+- ❌ Bingöl
+- ❌ Bitlis
+- ✅ **Elazığ**
+- ✅ **Erzincan**
+- ✅ **Erzurum**
+- ❌ Hakkari
+- ❌ Iğdır
+- ✅ **Kars**
+- ✅ **Malatya**
+- ❌ Muş
+- ✅ **Tunceli**
+- ❌ Van
 
 **🏜️ G.Doğu Anadolu Bölgesi (0/9)**
-❌ Adıyaman • ❌ Batman • ❌ Diyarbakır • ❌ Gaziantep • ❌ Kilis • ❌ Mardin • ❌ Siirt • ❌ Şanlıurfa • ❌ Şırnak
+- ❌ Adıyaman
+- ❌ Batman
+- ❌ Diyarbakır
+- ❌ Gaziantep
+- ❌ Kilis
+- ❌ Mardin
+- ❌ Siirt
+- ❌ Şanlıurfa
+- ❌ Şırnak
 
 ## 🧬 Kavramsal ve Teknik Mimari (System Architecture)
 Bu seyir defteri, hem felsefi hem de dijital bir temele oturtulmuştur. Teknik altyapı, seyyah vizyonuna hizmet edecek şekilde tasarlanmıştır:

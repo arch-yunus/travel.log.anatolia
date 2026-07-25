@@ -43,12 +43,12 @@ def generate_visual_checklist(visited_normalized):
             if normalize_city(city) in visited_normalized:
                 visited_in_region += 1
                 visited_actual.add(city)
-                city_strings.append(f"✅ **{city}**")
+                city_strings.append(f"- ✅ **{city}**")
             else:
-                city_strings.append(f"❌ {city}")
+                city_strings.append(f"- ❌ {city}")
                 
         regions_text.append(f"**{region} ({visited_in_region}/{len(cities)})**")
-        regions_text.append(" • ".join(city_strings))
+        regions_text.append("\n".join(city_strings))
         regions_text.append("")
 
     v_count = len(visited_actual)
