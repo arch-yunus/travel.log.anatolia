@@ -52,7 +52,6 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 *   **Açık Miras:** Edindiğimiz edinimleri, rotaları ve notları yollara sevdalı diğer yolcularla "açık kaynak" olarak paylaşmak.
 
 ---
-
 ## 🎒 Seyahat Metodolojisi: "Yarı Göçebe, Tam Seyyah"
 
 Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disiplini**'nin ürünüdür. Seyahatlerimiz, T.C. Gençlik ve Spor Bakanlığı'nın sunduğu **"Seyahatsever"** projesi ekseninde, sırt çantalı bir *dijital göçebe (digital nomad)* mantığıyla kurgulanmıştır:
@@ -63,6 +62,27 @@ Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disipli
 *   **Yarı Mesai Sistemi (Gelişim & Keşif):** Seyahat ederken kişisel gelişim ve üretim durmaz. Günün **ilk yarısı**, o şehrin merkezindeki bir kütüphanede (İl Halk Kütüphaneleri vb.) geçirilerek; kodlama öğrenme, ders çalışma, sertifika toplama ve dijital projeler üretme gibi "upskilling" odaklı faaliyetler gerçekleştirilir. Günün **ikinci yarısı** ise şehrin ruhuna karışmaya ayrılır.
 
 Bu disiplin, seyahati bir "tüketim" aktivitesinden çıkarıp, **ekonomik, sürdürülebilir ve üretken bir yaşam tarzı** haline getirir.
+
+### 💻 Dijital Göçebe Kütüphane Rutini
+Seyahat ederken üretken kalmanın sırrı, katı bir zaman yönetimidir. Günün ilk ışıklarıyla başlayan bu rutin, yolları bir kaçış değil, bir gelişim okulu haline getirir:
+* **08:30 - 09:00 | Kütüphaneye İntikal:** Gidilen şehrin İl Halk Kütüphanesi veya belediye kütüphanesine gidilir.
+* **09:00 - 13:00 | Blok Çalışma (Upskilling):** Kesintisiz 4 saatlik odaklanma. İnternet erişimi ve sessiz çalışma ortamı kullanılarak yazılım geliştirme (Python, Web geliştirme vb.), algoritma çalışmaları ve makaleler yazılır.
+* **13:00 - 14:00 | Öğle Molası ve Lojistik Planlama:** Yerel esnaf lokantalarında bütçe dostu bir öğle yemeği ve o gün keşfedilecek tarihi/kültürel noktaların koordinatlarının çıkarılması.
+* **14:00 - 20:00 | Coğrafi ve Kültürel Keşif:** Şehrin sokaklarına, müzelerine, antik harabelerine veya doğal güzelliklerine karışma. Yerel halkla sohbet, gezi günlüğü için fotoğraf çekimi ve ses kaydı/not alma.
+* **20:00 - 22:00 | KYK Yurt Rutini:** Alınan notların dijitalleştirilmesi, seyahatname dosyalarının (README.md) güncellenmesi ve `git push` ile buluta yedeklenmesi.
+
+### 🎒 Seyyahın Heybesi (Sırt Çantası Ekipmanları)
+45 gün boyunca tek bir sırt çantasıyla (50-60 Litre) seyahat edebilmek, sadeleşmenin en somut halidir. Heybemizdeki tech-gear ve hayatta kalma araçları:
+* **Teknoloji Bölmesi (Tech Gear):**
+  * **Taşınabilir Bilgisayar (Laptop):** Kod yazmak ve notları derlemek için hafif ve pil ömrü uzun bir cihaz.
+  * **Powerbank & Çoklu Şarj Adaptörü:** Yolda ve otobüslerde şarj sıkıntısı yaşamamak için 20.000 mAh destekli batarya ve hızlı şarj başlığı.
+  * **Kablolu Kulaklık:** Kütüphane ortamında gürültüyü engellemek ve odaklanmak için.
+  * **Evrensel Adaptör / Uzatma Kablosu:** KYK yurtlarındaki tek priz kısıtlamasını aşmak için 3'lü priz.
+* **Hayatta Kalma & Konaklama Bölmesi:**
+  * **Kişisel Nevresim / Yastık Kılıfı:** KYK yurtlarında hijyeni garantiye almak için ultra hafif mikrofiber kılıflar.
+  * **Mikrofiber Havlu:** Hızlı kuruyan ve sırt çantasında yer kaplamayan özel dokuma havlu.
+  * **Termos / Matara:** Kütüphanede çay/kahve ve yolda su ihtiyacı için ısı yalıtımlı çelik termos.
+  * **Sırt Çantası Yağmurluğu:** Beklenmedik hava muhalefetlerine karşı çantayı ve teknolojik aletleri korumak için.
 
 ---
 
@@ -91,15 +111,15 @@ Terminalinize sadece `python cli.py` yazın ve arkanıza yaslanın.
 3. **📊 Quantum Dashboard:** Toplam istatistikleri ve vizyon haritasını konsola yansıtır.
 
 ---
-
 ## 🗺️ Derinlemesine Keşfedilen Menziller (Unveiled Destinations)
 
-Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **13 eşsiz şehir** ve keşif durakları:
+Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **20 eşsiz şehir** ve keşif durakları:
 
 *   **🏰 İmparatorluklar Beşiği (Marmara):** İstanbul'un (Ayasofya, Galata) o manevi ve tarihi atmosferinden; Bursa'nın yeşil sükûnetine ve Osmanlı'nın kurucu iradesine tanıklık...
-*   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının ardındaki hakikati aramaktan; Karadeniz sahilinin yeşille maviyi kucaklayan zikrine karışmaya...
-*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye...
-*   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın kadim taşlarında asırların geçiciliğini okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye...
+*   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının ardındaki hakikati aramaktan; Karadeniz sahilinin yeşille maviyi kucaklayan zikrine karışmaya... Trabzon'un sisli yamaçlarındaki kartal yuvası Sümela Manastırı'nda inancın gücünü görme...
+*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye... Nevşehir/Kapadokya'da peri bacalarının rüzgarla fısıldaşmasını ve yerin altındaki sığınakların dar geçitlerini tefekkür etme...
+*   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın kadim taşlarında asırların geçiciliğini okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye... Muğla'da turkuaz suların zümrüt ormanlarla seviştiği koylardan Kayaköy'ün hüzünlü hayalet sokaklarına uzanan yolculuk... Mersin'de denizin ortasındaki Kızkalesi'nden Cennet-Cehennem obruklarının serin derinliklerine inme...
+*   **🏜️ Mezopotamya'nın Ninnisi (Güneydoğu Anadolu):** Mardin'in sarı kalker taşından oyulmuş dar sokaklarında ve abbaralarında zamanın durduğu hissini yaşamak, Kasımiye Medresesi'nin avlusunda akan suyun hayat hikayesini dinlemek...
 
 > *"Bütün yolculukların gizli bir amacı vardır ve yolcunun bundan haberi bile yoktur."* — **Martin Buber (Yahudi Düşünür)**
 
