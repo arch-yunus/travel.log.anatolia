@@ -160,15 +160,136 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Cennet Obruğu'nun yüzlerce basamakla inilen o serin derinliğinde akan yeraltı nehrinin sesini dinlemek, insanın kendi bilinçaltının derinliklerine inmesi gibidir. Eshab-ı Kehf mağarasında zamanın nasıl büküldüğünü ve teslimiyetin gücünü düşünmek, ruha derin bir huşu verir. Kızkalesi'nin kıyıdan uzakta, suların ortasındaki yalnızlığı, insanın dünyadaki yalnız ama bir o kadar da asil duruşunu simgeler.",
         "gastronomi": "- **Tantuni:** İnce kıyılmış dana etinin sacda pamuk yağıyla pişip, lavaş arasında limon ve sumakla buluşması.\n- **Kerebiç:** İrmiğin ceviz veya fıstıkla doldurulup, çöven otu kökünden elde edilen beyaz köpükle sunumu.\n- **Cezerye:** Havuç, şeker ve kuruyemişlerin saatlerce kaynatılıp hindistan ceviziyle kaplanan enerji deposu.",
         "landmarks": ["Kızkalesi (Deniz Kalesi)", "Cennet ve Cehennem Obrukları", "Eshab-ı Kehf Mağarası", "Kanlıdivane Antik Kenti", "Soloi Pompeipolis Antik Kenti", "Tarsus Ulu Camii ve Danyal Peygamber Kabri"]
+    },
+    "Isparta": {
+        "hikmet": "Gülün kokusu geçicidir ama onun ruhumuza üflediği zarafet ve saflık baki kalır.",
+        "quote": "\"Göller yöresinin serin esintisinde, lavanta ve gül kokulu sokakların asırlık tarihle buluştuğu sakin şehir.\"",
+        "description": "Göller Yöresi'nin kalbinde yer alan, Türkiye'nin gül bahçesi Isparta. Eğirdir Gölü'nün göz alıcı turkuazı, lavanta kokulu Kuyucak köyü ve antik çağların izlerini taşıyan Sagalassos ile burası doğanın ve tarihin en huzurlu köşelerinden biridir. Şehir, sakin yaşamı ve mis kokulu tarım arazileriyle insana huzur verir.",
+        "sufi_notes": "Eğirdir Gölü'nün kenarında durup gün batımını izlemek, hayatın karmaşasından sıyrılıp sakinleşmek için harika bir tefekkür anıdır. Gül hasadı yapan işçilerin alın terini görmek, emeğin ve doğanın cömertliğinin kutsallığını hatırlatır. Sagalassos'un yüksek zirvelerinde yükselen sütunlar, insan yapımı görkemin doğanın büyüklüğü karşısındaki yerini gösterir.",
+        "gastronomi": "- **Isparta Fırın Kebabı:** Kuzu etinin taş fırınlarda kendi yağıyla saatlerce pişmesiyle oluşan enfes lezzet.\n- **Kabune Pilavı:** Düğünlerin vazgeçilmezi olan nohutlu, etli ve baharatlı geleneksel pilav.\n- **Gül Şerbeti:** Taze gül yapraklarından yapılan mis kokulu, serinletici şerbet.",
+        "landmarks": ["Eğirdir Gölü ve Can Ada", "Sagalassos Antik Kenti", "Kuyucak Lavanta Köyü", "Yazılı Kanyon Tabiat Parkı", "Isparta Ulu Camii", "Davraz Dağı Kayak Merkezi"]
+    },
+    "Aksaray": {
+        "hikmet": "Bozkırın ortasındaki derin vadiler, hayatın en kurak anlarında bile sığınabileceğimiz gizli vahaların olduğunu fısıldar.",
+        "quote": "\"Ihlara Vadisi'nin yeşil sükûnetinde akan suların, Hasan Dağı'nın heybetli gölgesiyle buluştuğu kadim geçit.\"",
+        "description": "Kapadokya'nın batı kapısı olan, Hasan Dağı'nın eteklerindeki Aksaray. Melendiz Çayı'nın binlerce yılda oyduğu muazzam Ihlara Vadisi, kayalara oyulmuş kiliseleri ve Selçuklu mirası kervansaraylarıyla burası adeta bir tarih and doğa müzesidir. Bozkırın ortasında yükselen bu antik kent, kervanların ve dervişlerin asırlar boyu sığındığı bir menzildir.",
+        "sufi_notes": "Ihlara Vadisi'ne inen yüzlerce basamağı adımlarken insan gürültülü dünyayı geride bırakıp nehrin ve kuşların sesine odaklanır. Selime Katedrali'nin devasa kaya oyuklarında yankılanan rüzgar, geçmiş yüzyıllardaki insanların manevi arayışlarını hissettirir. Eğri Minare'nin eğikliğine rağmen asırlardır ayakta durması, inancın ve sağlam temellerin gücünü sembolize eder.",
+        "gastronomi": "- **Aksaray Tava:** Kuzu eti, sarımsak ve domatesin fırında ağır ağır pişmesiyle yapılan nefis yemek.\n- **Şeker Pancarı Pekmezi:** Bölgenin verimli topraklarından elde edilen doğal ve şifalı pekmez.\n- **Sıkma:** Sıcak sac ekmeği arasına yerel tulum peyniri konularak yapılan pratik lezzet.",
+        "landmarks": ["Ihlara Vadisi", "Selime Katedrali", "Hasan Dağı", "Eğri Minare (Kızıl Minare)", "Sultanhanı Kervansarayı", "Narlıgöl (Krater Gölü)"]
+    },
+    "Eskisehir": {
+        "hikmet": "Porsuk Çayı'nın şehri ikiye bölen dingin akışı, modern yaşamın ritmiyle tarihin zarafetinin uyumudur.",
+        "quote": "\"Odunpazarı'nın renkli cumbalı evlerinde geçmişin fısıldadığı, gençliğin ve sanatın coşkuyla yaşandığı modern vaha.\"",
+        "description": "İç Anadolu'nun parlayan yıldızı, kültür, sanat ve üniversite şehri Eskişehir. Tarihi Odunpazarı evlerinin nostaljik sokaklarından, Porsuk Çayı kenarındaki modern kafelere; lüle taşı işçiliğinden devasa parklarına kadar burası Türkiye'nin en yaşanabilir ve estetik şehirlerinden biridir. Kent, geçmişi korurken geleceğe umutla bakan aydınlık bir karaktere sahiptir.",
+        "sufi_notes": "Kurşunlu Külliyesi'nin sessiz avlusunda oturup lüle taşı ustalarının sabırlı ellerini izlemek, sabrın ve sanatın manevi değerini anlamak için güzel bir fırsattır. Şehrin içinden geçen Porsuk Çayı, hayatın da böyle berrak ve akıcı olması gerektiğini fısıldar. Balmumu müzesindeki heykellere bakmak, tariye yön veren insanların bıraktığı kalıcı izler üzerine tefekküre sevk eder.",
+        "gastronomi": "- **Çibörek:** İnce açılmış hamur içine kıyma konularak yağda kızartılan Kırım Tatar mirası efsane lezzet.\n- **Balaban Köfte:** Soslu pide parçaları üzerine dizilen köfte, yoğurt ve tereyağı kombinasyonu.\n- **Met Helvası:** Un, yağ ve şekerden yapılan, pişmaniyeye benzeyen geleneksel Eskişehir helvası.",
+        "landmarks": ["Tarihi Odunpazarı Evleri", "Porsuk Çayı ve Adalar Bölgesi", "Kurşunlu Külliyesi ve Camii", "Sazova Parkı (Bilim Sanat ve Kültür Parkı)", "Eskişehir Balmumu Heykeller Müzesi", "Kentpark"]
+    },
+    "Sivas": {
+        "hikmet": "Selçuklu çinilerindeki geometrik nizam, evrendeki kusursuz matematiksel ve manevi düzenin taştaki yansımasıdır.",
+        "quote": "\"Ulu medreselerin göğe yükselen çifte minarelerinde, Cumhuriyet'in ilk kongre kararlarının yankılandığı vakur bozkır kalesi.\"",
+        "description": "Tarih boyunca Selçuklu'nun en önemli merkezlerinden biri olan, Cumhuriyet'in temellerinin atıldığı Sivas. Gök Medrese ve Çifte Minareli Medrese'nin muazzam taş oyma işçilikleri, Sivas Kongre Binası'nın tarihi önemi ve Divriği Ulu Camii'nin UNESCO miras listesindeki eşsiz mimarisi ile bu şehir adeta bir açık hava müzesidir. Soğuk ayazı meşhur olsa da insanının sıcaklığıyla gönülleri ısıtır.",
+        "sufi_notes": "Şifaiye Medresesi'nin darüşşifa avlusunda geçmişteki şifa yöntemlerini ve su sesinin ruha olan etkilerini düşünmek derin bir içsel huzur verir. Çifte Minare'nin göğe uzanan kolları, duanın ve yükselişin sembolü gibidir. Sivas Kongre Binası'nda alınan 'Manda ve himaye kabul olunamaz' kararı, bağımsızlık ruhunun bu coğrafyadaki sarsılmaz duruşunu hatırlatır.",
+        "gastronomi": "- **Sivas Köftesi:** Katkısız, sadece kıyma ve tuzla yoğrularak yapılan, etin saf lezzetini sunan tescilli köfte.\n- **Sivas Katmeri:** Tereyağlı, çıtır çıtır kat kat açılan nefis fırın işi.\n- **Madımak Yemeği:** Bozkırdan toplanan şifalı madımak otunun pastırma ve bulgurla pişirilmesi.",
+        "landmarks": ["Çifte Minareli Medrese", "Gök Medrese", "Sivas Kongre Müzesi", "Şifaiye Medresesi", "Divriği Ulu Camii ve Darüşşifası", "Kangal Balıklı Kaplıcası"]
+    },
+    "Artvin": {
+        "hikmet": "Bulutların üzerine kurulan bu dik yamaçlar, insanın doğa karşısındaki sınırlarını ve sabrını sınayan muazzam bir okuldur.",
+        "quote": "\"Karadeniz'in göğe komşu topraklarında, geçit geçmez vadilerin ve zümrüt yeşili milli parkların gizemli cenneti.\"",
+        "description": "Türkiye'nin en engebeli ve vahşi doğasına sahip, yeşilin binbir tonunu barındıran sınır şehri Artvin. Çoruh Nehri'nin derin vadileri, Karagöl'ün büyüleyici yansıması, Macahel'in bakir ormanları ve göğe yükselen yaylalarıyla burası macera ve huzur arayan gezginlerin rüyasıdır. Coğrafyanın zorluğu, insanının direncini ve doğaya olan derin saygısını şekillendirmiştir.",
+        "sufi_notes": "Borçka Karagöl'ün kıyısında sislerin göl yüzeyine inişini izlemek, ilahi sanatın yeryüzündeki en zarif tablolarından birine şahit olmaktır. Macahel'in el değmemiş ormanlarında rüzgarın uğultusu, dünyanın ilk günlerindeki o saf ve temiz sükuneti fısıldar. Dik yamaçlardaki ahşap evlerin doğayla uyumu, insanın tabiata meydan okumak yerine onunla dost olması gerektiğini öğretir.",
+        "gastronomi": "- **Artvin Döneri:** Yayla otlarıyla beslenen hayvanların etinden yapılan, yatık olarak odun ateşinde pişen nefis döner.\n- **Kalaco:** Süt, süzme yoğurt ve mısır unuyla yapılan geleneksel bir Artvin kahvaltılığı.\n- **Hinkal:** Kafkas esintili, içi kıymalı ve sulu devasa mantı.",
+        "landmarks": ["Borçka Karagöl Tabiat Parkı", "Şavşat Karagöl", "Macahel (Camili) Havzası", "Hatila Vadisi Cam Teras", "Çoruh Kanyonu", "Atatepe (Dev Atatürk Heykeli)"]
+    },
+    "Bayburt": {
+        "hikmet": "Yalnızlık ve sessizlik, bozkırın ortasında kurulan bu kalede insanın kendi iç dünyasıyla yüzleşmesini sağlar.",
+        "quote": "\"Çoruh Nehri'nin kıvrılarak geçtiği, bozkırın sessizliğinde yükselen kadim kale ve modern sanatın buluştuğu sıradışı diyar.\"",
+        "description": "Doğu Karadeniz'i Doğu Anadolu'ya bağlayan geçitlerin üzerinde yer alan, Çoruh Nehri'nin ikiye böldüğü Bayburt. Bayburt Kalesi'nin heybetli surları, yerin altındaki gizemli Aydıntepe Yeraltı Şehri and Baksı Müzesi ile burası şaşırtıcı detaylarla doludur. Sakin, gösterişsiz ama derin bir ruha sahiptir.",
+        "sufi_notes": "Bayburt Kalesi'nden şehri ve Çoruh'un akışını izlemek, imparatorlukların geçip gidişini ve kalıcı olanın sadece nehrin kendisi olduğunu tefekkür ettirir. Aydıntepe Yeraltı Şehri'nin tüf kayalara oyulmuş galerilerinde yürümek, sığınma ve korunma refleksinin manevi boyutunu düşündürür. Baksı Müzesi'nin bozkırın tepesindeki yalnızlığı, sanatın ve düşüncenin en ücra köşelerde bile nasıl çiçek açabileceğini gösterir.",
+        "gastronomi": "- **Bayburt Ketesi:** Un, tereyağı ve ceviz içiyle yapılan, fırından yeni çıkmış çıtır kete.\n- **Galacoş:** Mercimek, kıyma ve süzme yoğurdun kuru ekmek parçalarıyla buluştuğu yöresel yemek.\n- **Tatlı Çorba:** Kurutulmuş kuşburnu, kayısı ve incir gibi meyvelerin aşure kıvamında pişirilmesiyle yapılan tatlı.",
+        "landmarks": ["Bayburt Kalesi", "Baksı Müzesi", "Aydıntepe Yeraltı Şehri", "Çoruh Nehri Rekreasyon Alanı", "Kop Dağı Müdafaası Tarihi Milli Parkı", "Kenan Yavuz Etnografya Müzesi"]
+    },
+    "Gumushane": {
+        "hikmet": "Kayaların arasındaki altın ve gümüş madenleri gibi, insanın içindeki cevher de ancak zorlu sınavlardan geçtikten sonra parıldar.",
+        "quote": "\"Harşit Vadisi'nin sarp kayalıkları arasına gizlenmiş antik kentlerin, elma bahçelerinin ve gizemli mağaraların yurdu.\"",
+        "description": "Adını asırlarca işletilen gümüş madenlerinden alan, sarp vadilerin ve yemyeşil yaylaların şehri Gümüşhane. Karaca Mağarası'nın büyüleyici sarkıt ve dikitleri, antik dönemden kalan Süleymaniye Mahallesi (Eski Gümüşhane) ve vadi yamaçlarında kurulu kiliseleriyle burası saklı bir hazinedir. Şehir, cevizli pestil ve kömesinin kokusuyla tatlı bir Karadeniz havası sunar.",
+        "sufi_notes": "Karaca Mağarası'nın milyonlarca yılda şekillenen damlataş sütunları altında durmak, zamanın ne kadar yavaş aktığını ve sabrın ilahi tecellisini kavramak için eşsiz bir andır. Eski Süleymaniye Mahallesi'nin sessiz harabeleri ve yan yana duran cami ile kilise kalıntıları, geçmişteki ortak yaşam kültürünün manevi zenginliğini hatırlatır.",
+        "gastronomi": "- **Gümüşhane Pestili ve Kömesi:** Dut şırası, un, süt ve ceviz/fındıkla yapılan, tüm Türkiye'de ün salmış şifalı tatlı.\n- **Siron:** Fırınlanmış yufkaların rulo yapılıp üzerine yoğurt, sarımsak ve tereyağı dökülerek sunulması.\n- **Gümüşhane Ekmeği:** Ekşi mayalı, taş fırında pişen ve günlerce taze kalan devasa ekmek.",
+        "landmarks": ["Karaca Mağarası", "Süleymaniye Mahallesi (Antik Gümüşhane)", "Krom Vadisi", "Limni Gölü Tabiat Parkı", "Santa Harabeleri", "Kürtün Örümcek Ormanları"]
+    },
+    "Rize": {
+        "hikmet": "Bulutların yamaçları kucakladığı bu coğrafya, her an değişen havasıyla hayatın beklenmedik iniş çıkışlarını öğretir.",
+        "quote": "\"Yemyeşil çay tarlalarının dik yamaçları süslediği, coşkulu derelerin gürültüsüyle yankılanan yaylalar diyarı.\"",
+        "description": "Türkiye'nin en çok yağış alan, yeşilin en canlı yaşandığı, çayın başkenti Rize. Kaçkar Dağları'nın sis altındaki yaylaları (Ayder, Pokut, Anzer), Fırtına Deresi üzerinde yükselen asırlık taş kemer köprüler ve dik yamaçlara serpilmiş ahşap konaklar Rize'yi masalsı kılar. Hırçın derelerinin sesi, insanın içindeki tüm dinginliği harekete geçiren coşkulu bir ritme sahiptir.",
+        "sufi_notes": "Pokut Yaylası'nda bulut denizinin üzerinde gün doğumunu izlemek, gökler ile yerin birleştiği o sınırda ilahi kudret karşısında secdeye varmak gibidir. Fırtına Deresi'nin azgın sularını izlemek, hayatın da bu nehir gibi engelleri yıkarak coşkuyla akması gerektiğini hatırlatır. Taş köprülerin asırlardır sellere karşı direnmesi, sağlam bir inancın fırtınalara karşı nasıl durabileceğinin simgesidir.",
+        "gastronomi": "- **Rize Kavurması:** Kendi yağıyla ağır ateşte pişen, lokum kıvamındaki tescilli et yemeği.\n- **Muhlama:** Kolot peyniri, mısır unu ve tereyağının sacda pişen Karadeniz klasiği.\n- **Laz Böreği:** İnce yufkalar arasına muhallebi konulup şerbet dökülerek yapılan sıradışı tatlı.",
+        "landmarks": ["Ayder Yaylası", "Pokut ve Sal Yaylaları", "Fırtına Vadisi ve Taş Kemer Köprüler", "Zil Kale", "Anzer Yaylası", "Palovit Şelalesi"]
+    },
+    "Ardahan": {
+        "hikmet": "En kuzey sınırda esen dondurucu rüzgar, insanın içindeki yaşama azmini ve kardeşlik sıcaklığını daha da kurutmaz, tam aksine artırır.",
+        "quote": "\"Yalnızçam Dağları'nın beyaz örtüsü altında, Çıldır Gölü'nün buz tutmuş yüzeyinde atlı kızakların kaydığı sınır boyu.\"",
+        "description": "Türkiye'nin en soğuk ve en kuzeydoğu illerinden biri olan, Kafkasya geçidindeki Ardahan. Kış aylarında tamamen buz tutan devasa Çıldır Gölü, üzerindeki atlı kızakları ve eskimo usulü balıkçılığıyla masalsı bir kış diyarı sunar. Ardahan Kalesi'nin Kura Nehri'ne bakan surları ve Yalnızçam yaylaları, bu sınır kentinin vakur ve dayanıklı karakterini yansıtır.",
+        "sufi_notes": "Tamamen donmuş Çıldır Gölü'nün üzerinde yürümek, suyun katılaşarak nasıl güvenli bir yola dönüştüğünü görmek, zor şartların bile inançla aşılabileceğini tefekkür ettirir. Kura Nehri'nin kıvrılarak ovayı sulaması, hayatın en sert iklimlerde bile bir yol bulup yeşereceğinin kanıtıdır. Sınır boylarındaki yalnızlık, insanın dünyadaki misafirliğini daha net hissettirir.",
+        "gastronomi": "- **Ardahan Kaz Eti:** Kış aylarında kar yiyen kazların kurutulup bulgur pilavı üzerinde sunulan efsanevi lezzeti.\n- **Ardahan Kaşarı ve Çeçil Peyniri:** Yayla çiçekleriyle beslenen ineklerin sütünden yapılan peynirler.\n- **Feselli:** Tereyağlı yufkaların sac üzerinde pişirilmesiyle yapılan sıcak hamur işi.",
+        "landmarks": ["Çıldır Gölü", "Ardahan Kalesi", "Yalnızçam Kayak Merkezi", "Şeytan Kalesi (Çıldır)", "Kura Nehri Vadisi", "Posof Vadisi"]
+    },
+    "Elazig": {
+        "hikmet": "Harput'un bin yıllık taş surları, medeniyetlerin yükselip alçaldığı ama maneviyatın hep ayakta kaldığı bir kaledir.",
+        "quote": "\"Tarihi Harput Kalesi'nin gölgesinde, Hazar Gölü'nün batık şehrine bakan köklü medeniyetlerin ve gakgoşların yurdu.\"",
+        "description": "Kadim Harput kentinin mirasçısı, baraj gölleriyle çevrili Doğu Anadolu kenti Elazığ. Harput Kalesi'nin eğik minaresi, Hazar Gölü'nün suları altındaki antik Batık Şehir ve şifalı Buzluk Mağarası ile burası tarihi ve doğal sürprizlerle doludur. Kendine has musikisi (kürsübaşı sohbetleri) ve 'gakgoş' kültürüyle son derece misafirperverdir.",
+        "sufi_notes": "Harput Ulu Camii'nin İtalya'daki Pisa Kulesi'nden daha eğik olan minaresinin altında durup onun yüzyıllardır yıkılmadan duran dengesini izlemek, ilahi korumanın ve dengenin manevi bir sembolüdür. Hazar Gölü'nün berrak sularına gömülmüş o antik şehrin kalıntıları, suların altındaki geçip gitmiş hayatlar üzerine hüzünlü bir tefekkür sunar.",
+        "gastronomi": "- **Harput Köftesi:** İnce bulgur, kıyma ve reyhan otunun yoğrularak salçalı suda pişirilmesiyle yapılan yemek.\n- **Orcik:** İpe dizilen cevizlerin sıcak üzüm şırasına batırılarak kurutulmasıyla yapılan şifalı tatlı.\n- **Gömme:** Fırında kömür ateşinde pişen, içi kıymalı ve tereyağlı geleneksel ekmek yemeği.",
+        "landmarks": ["Harput Kalesi ve Harput Ulu Camii", "Hazar Gölü ve Batık Şehir", "Buzluk Mağarası", "Kömürhan Köprüsü", "Kürsübaşı Kultur Evi", "Hazarbaba Kayak Merkezi"]
+    },
+    "Erzincan": {
+        "hikmet": "Depremlerle defalarca yıkılan bu şehrin küllerinden yeniden doğması, sabrın ve yeniden inşa iradesinin en büyük zaferidir.",
+        "quote": "\"Munzur Dağları'nın gölgesinde, Fırat Nehri'nin coşkulu kollarında rafting yapılan, küllerinden doğmuş dirençli şehir.\"",
+        "description": "Tarih boyunca büyük depremler atlatmış ama her seferinde daha planlı ve güzel bir şekilde yeniden kurulmuş olan Erzincan. Karanlık Kanyon'un dik yamaçları, Girlevik Şelalesi'nin donmuş buz sütunları ve tulum peynirinin eşsiz aroması ile burası Doğu Anadolu'nun düzenli ve huzurlu bir merkezidir. Fırat Nehri (Karasu) boyunca uzanan vadiler doğa sporları için biçilmiş kaftandır.",
+        "sufi_notes": "Girlevik Şelalesi'nin gürül gürül akan sularının kışın devasa buz sütunlarına dönüşmesi, doğanın form değiştiren ilahi sanatını gösterir. Karanlık Kanyon'un dik kayalıklarını el oyması tünellerle aşan insanların azmi, zorluklar karşısında yılmayan insan iradesinin tecellisidir. Şehrin geniş caddelerindeki nizam, düzenin ruha verdiği dinginliği hissettirir.",
+        "gastronomi": "- **Erzincan Tulum Peyniri:** Şavak aşiretinin yaylalarda koyun sütünden yapıp deri tulumlarda olgunlaştırdığı peynir.\n- **Erzincan Döneri:** Kuzu eti ağırlıklı, incecik kesilmiş ve odun ateşinde pişmiş lezzet bombası.\n- **Ketesi:** İçi unlu kavurmalı veya sade olarak fırınlanan Erzincan ketesi.",
+        "landmarks": ["Karanlık Kanyon (Kemaliye)", "Girlevik Şelalesi", "Kemaliye Tarihi Evleri ve Taş Yolu", "Ergan Dağı Kayak Merkezi", "Ekşisu Mesire Alanı", "Terzibaba Türbesi ve Camii"]
+    },
+    "Erzurum": {
+        "hikmet": "Çifte Minareli Medrese'nin taş kemerleri, tarihin vakur soğuğuna inançla meydan okuyan sarsılmaz birer kaledir.",
+        "quote": "\"Palandöken'in karlı zirvelerinden, ulu medreselerin taş oymalarına uzanan, bozkırın vakur ve yiğit dadaşlar diyarı.\"",
+        "description": "Anadolu'nun en yüksek ve köklü kentlerinden biri, dadaşlık kültürünün ve kış sporlarının merkezi Erzurum. Çifte Minareli Medrese, Yakutiye Medresesi, Ulu Camii ve Erzurum Kongre Binası ile burası Türk-İslam mimarisinin zirve noktasıdır. Palandöken Dağı'nın eteklerinde kurulu şehir, kışın kar beyazı, yazın ise serin bozkır havasıyla gezginleri karşılar.",
+        "sufi_notes": "Çifte Minareli Medrese'nin taç kapısındaki hayat ağacı ve çift başlı kartal kabartmalarını incelemek, Türk mitolojisiyle İslam tasavvufunun taşta birleşen derin manasını düşünmeye sevk eder. Palandöken'in karlı yamaçlarından şehre bakarken çöken soğuk ayaz, insanın içindeki manevi sıcaklığı daha çok hissetmesini sağlar. Cağ kebabının ocaktaki ateşi, sabırla pişen nefsin simgesidir.",
+        "gastronomi": "- **Cağ Kebabı:** Kuzu etinin soğan ve reyhanla marine edilip yatık şişte odun ateşinde pişirilmesi.\n- **Kadayıf Dolması:** Kadayıf tellerinin ceviz dolgusuyla sarılıp kızartılarak şerbetlenmesi.\n- **Erzurum Ketesi:** Kat kat yağlanmış hamurun fırınlanmasıyla yapılan unlu kete.",
+        "landmarks": ["Çifte Minareli Medrese", "Yakutiye Medresesi", "Palandöken Kayak Merkezi", "Erzurum Kalesi ve Üç Kümbetler", "Erzurum Kongre Binası", "Tarihi Erzurum Evleri"]
+    },
+    "Kars": {
+        "hikmet": "Ani Harabeleri'nin sessizliği, yan yana yıkılmış cami ve kiliselerin asırlar boyu süren ortak insanlık tefekkürüdür.",
+        "quote": "\"Rus mimarisinin taş sokaklarından, Ani Harabeleri'nin sınır çizen yalnızlığına uzanan, karlar altındaki sınır masalı.\"",
+        "description": "Türkiye'nin en doğusunda, çok kültürlü yapısıyla ve Rus döneminden kalma ızgara planlı taş binalarıyla ünlü Kars. Ermenistan sınırında yer alan görkemli Ani Harabeleri, Kars Kalesi ve aşıklık geleneği ile burası gizemli bir sınır masalıdır. Kış aylarında Doğu Ekspresi ile gelen gezginlerin karla kaplı sokaklarında kaybolduğu eşsiz bir destinasyondur.",
+        "sufi_notes": "Ani Harabeleri'nde, Arpaçay nehrinin sınır çizdiği kanyonda durup Ebul Manuçihr Camii ile katedral kalıntılarını izlemek, sınırların yapaylığını ve inancın kalıcılığını hissettirir. Ebü'l-Hasan Harakānî Hazretleri'nin türbesinin mistik havası, bu soğuk sınır şehrini ısıtan manevi bir ocaktır. Kar altında parıldayan taş binalar, sabrın ve estetiğin simgesidir.",
+        "gastronomi": "- **Kars Gravyeri ve Kaşarı:** Aylarca olgunlaştırılan, gözenekli and yoğun aromalı peynir sanatı.\n- **Kars Kazı:** Kışın kesilip kurutulan kaz etinin bulgur pilavı üzerindeki nefis sunumu.\n- **Piti Kebabı:** Nohut, kuzu eti ve safranın fırınlanıp yufka üzerine dökülerek yendiği lezzet.",
+        "landmarks": ["Ani Harabeleri (UNESCO)", "Kars Kalesi ve Taş Köprü", "Ebü'l-Hasan Harakānî Türbesi ve Evliya Camii", "Rus Dönemi Taş Binalar", "Sarıkamış Allahuekber Dağları Şehitliği", "Kars Peynir Müzesi"]
+    },
+    "Malatya": {
+        "hikmet": "Toprağın sinesinden fışkıran kayısılar, sabırla açan çiçeklerin en tatlı meyveye dönüşen ilahi mükafatıdır.",
+        "quote": "\"Fırat Vadisi'nin bereketli topraklarında, kayısı bahçelerinin turuncusunda parıldayan antik Arslantepe'nin kadim yurdu.\"",
+        "description": "Dünya kayısı üretiminin merkezi, Fırat Nehri'nin suladığı verimli ovaların şehri Malatya. Tarihin en eski bürokratik devlet yapısının bulunduğu Arslantepe Höyüğü, Somuncu Baba Külliyesi ve Levent Vadisi'nin devasa kanyonları ile burası köklü bir geçmişe sahiptir. İnsanının samimiyeti ve çalışkanlığı, topraklarının bereketiyle birleşmiştir.",
+        "sufi_notes": "Darende'deki Somuncu Baba Külliyesi'nin avlusunda, Tohma Çayı'nın kanyon kayaları arasından süzülen aktığı nehrin kenarında oturmak, ruhu dünyevi tüm karmaşadan arındıran manevi bir vahadır. Arslantepe'deki kerpiç saray kalıntıları, gücün ve devlet yapılarının geçiciliğini tefekkür ettirir. Kayısı ağaçlarının baharda beyaza, yazın turuncuya boyanması, tabiatın diriliş ve bereket döngüsüdür.",
+        "gastronomi": "- **Analı Kızlı Çorba:** İçi kıymalı küçük içli köfteler ve nohutlu salçalı sosun uyumu.\n- **Kağıt Kebabı:** Kuzu etinin sebzelerle fırın kağıdında saatlerce fırınlanmasıyla yapılan lokum lezzet.\n- **Kayısı Tatlısı:** Taze veya kuru kayısıların tereyağında kavrulup tereyağıyla sunulması.",
+        "landmarks": ["Arslantepe Höyüğü (UNESCO)", "Somuncu Baba Külliyesi ve Tohma Kanyonu", "Levent Vadisi Cam Teras", "Malatya Ulu Camii", "Karakaya Baraj Gölü", "Şire Pazarı"]
+    },
+    "Tunceli": {
+        "hikmet": "Munzur'un hırçın köpüklü suları, dağların derinliklerinden gelen en saf ve temiz yaşam energisidir.",
+        "quote": "\"Munzur Dağları'nın geçit vermez zirvelerinde, hırçın nehirlerin ve kutsal gözelerin sarmaladığı gizemli coğrafya.\"",
+        "description": "Tunceli, sarp dağların, kanyonların ve akarsuların çevrelediği, doğanın en bakir kaldığı Doğu Anadolu ilidir. Kutsal kabul edilen Munzur Gözeleri, Munzur Vadisi Milli Parkı ve Munzur Çayı rafting parkurları ile burası doğa severler için eşsizdir. Alevi-Bektaşi kültürünün en yoğun yaşandığı, doğaya ve canlıya derin bir saygının hakim olduğu mistik bir atmosfere sahiptir.",
+        "sufi_notes": "Munzur Gözeleri'nde kayaların arasından fışkıran buz gibi suların sesini dinlemek, yaşam pınarının ve ilahi yaratılışın durmaksızın fışkıran enerjisini hissetmektir. Yöre halkının dağ keçilerini kutsal sayması, doğadaki tüm canlılarla barış içinde yaşama felsefesinin en asil tezahürüdür. Dağların doruklarına çöken sis, insanın içsel dünyasındaki sır perdelerini aralaması için tefekkür imkanı sunar.",
+        "gastronomi": "- **Munzur Sarımsaklı Tunceli Kavurması:** Munzur dağlarından toplanan yabani sarımsaklarla tatlandırılan kuzu eti.\n- **Zerefet (Babuko):** Fırında pişen sert hamurun içinin oyulup, tereyağı ve sarımsaklı yoğurt dökülerek yendiği yemek.\n- **Dut Pekmezi ve Pülümür Balı:** Tamamen organik çiçeklerden elde edilen şifalı bal.",
+        "landmarks": ["Munzur Gözeleri", "Munzur Vadisi Milli Parkı", "Pülümür Çayı ve Kanyonu", "Kutudere Mesire Alanı", "Halbori Gözeleri", "Pertek Kalesi"]
     }
 }
 
 REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli", "Mugla"],
-    "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir"],
-    "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon"],
+    "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas"],
+    "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
+    "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli"],
     "07_GuneydoguAnadolu": ["Mardin"]
 }
 
@@ -186,6 +307,9 @@ def enrich_visited():
             lookup_key = clean_city
             if clean_city == "İstanbul": lookup_key = "Istanbul"
             if clean_city == "Çorum": lookup_key = "Corum"
+            if clean_city == "Eskişehir": lookup_key = "Eskisehir"
+            if clean_city == "Gümüşhane": lookup_key = "Gumushane"
+            if clean_city == "Elazığ": lookup_key = "Elazig"
             
             if lookup_key in VISITED_DEEP_DETAILS:
                 
