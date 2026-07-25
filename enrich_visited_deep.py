@@ -120,15 +120,56 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Habib-i Neccar Camii'nin sessizliğinde oturup, hakikati haykıran o ilk inananların hikayesini düşünmek, ruha derin bir teslimiyet ve huzur aşılar. Farklı dinlerin tapınaklarının neredeyse sırt sırta verdiği bu şehir, insana 'yaradılanı severim Yaradan'dan ötürü' felsefesinin en somut halini gösterir. Asi Nehri'nin tersine akması gibi, buradaki manevi iklim de insana dünyanın bencil ve maddeci akışına karşı durmayı, sevgi ve barış yolunda tersine kürek çekmeyi öğretir.",
         "gastronomi": "- **Antakya Künefesi:** Tuzsuz özel künefe peyniri, tel kadayıf ve sıcacık şerbetin közde pişen efsanesi.\n- **Tepsi Kebabı:** Zırh kıymasının baharatlar ve sosla fırın tepsisinde ağır ağır pişmesiyle oluşan şaheser.\n- **Humus:** Bol tahin, kimyon ve zeytinyağıyla sunulan, ılık ve enfes bir Akdeniz klasiği.",
         "landmarks": ["Habib-i Neccar Camii", "St. Pierre Kilisesi", "Hatay Arkeoloji Müzesi", "Titus Tüneli ve Beşikli Mağara", "Tarihi Antakya Sokakları", "Harbiye Şelaleleri"]
+    },
+    "Mugla": {
+        "hikmet": "Mavinin yeşille kavuştuğu bu kıyılar, ruhunu dinlendirmek isteyen her seyyah için bir sığınaktır.",
+        "quote": "\"Antik Likya ve Karia medeniyetlerinin gölgesinde, turkuaz suların zümrüt ormanlarla seviştiği ebedi mavi yolculuk.\"",
+        "description": "Ege ve Akdeniz'in kucaklaştığı, her koyunda başka bir efsanenin saklandığı Muğla. Antik kalıntıları, el değmemiş doğası ve uçsuz bucaksız koyları ile burası sadece bir yaz tatili rotası değil; tarihin ve doğanın en cömert birleşimidir. Fethiye'deki Ölüdeniz'in o kıpırtısız sakinliğinden, Kayaköy'ün hüzünlü hayalet sokaklarına uzanan bu yolculuk, insanın iç dünyasında da yeni kapılar aralar.",
+        "sufi_notes": "Kayaköy'ün terk edilmiş taş evleri arasında rüzgarın uğultusunu dinlemek, insan yapımı her şeyin geçiciliğini ve sessizliğin sesini öğretir. Doğanın insan elinin çekildiği yerleri nasıl yavaşça geri aldığını görmek, kibirden uzaklaşmak için muhteşem bir derstir. Muğla'nın turkuaz suları ise ruhu arındıran, berraklaştıran manevi bir ayna gibidir.",
+        "gastronomi": "- **Muğla Köftesi:** İçi sulu, az baharatlı, yanında közlenmiş biber ve domatesle sunulan lezzet.\n- **Çökertme Kebabı:** İncecik çıtır patatesler üzerinde yoğurt ve sosla sunulan et şöleni.\n- **Kabak Çiçeği Dolması:** Sabahın ilk ışıklarında toplanan taze kabak çiçeklerinin pirinçle buluştuğu Ege başyapıtı.",
+        "landmarks": ["Ölüdeniz", "Kayaköy", "Saklıkent Kanyonu", "Kral Kaya Mezarları (Dalyan)", "Sedir Adası (Kleopatra Plajı)", "Bodrum Kalesi"]
+    },
+    "Nevsehir": {
+        "hikmet": "Yerin altındaki gizli sığınaklar ve göğe uzanan peri bacaları, insana hem yerin altını hem de gökleri tefekkür ettirir.",
+        "quote": "\"Milyonlarca yıllık lavların ve rüzgarın taşa fısıldadığı, masalsı balonların gökyüzünü süslediği güzel atlar ülkesi.\"",
+        "description": "Erciyes and Hasan Dağı'nın lavlarıyla şekillenen, rüzgarın sabırla oymasıyla oluşan masalsı coğrafya: Kapadokya. Nevşehir, peri bacalarının mistik görüntüsü, kayalara oyulmuş bin yıllık kiliseleri ve yerin altına kat kat inen devasa yeraltı şehirleriyle adeta başka bir gezegendir. Sabahın ilk ışıklarıyla gökyüzüne yükselen yüzlerce rengarenk balon, bu antik vadileri gökyüzünden izleme şansı sunarak insanı büyüler.",
+        "sufi_notes": "Karanlık Kilise'nin loş duvarlarındaki fresklere bakmak, yüzyıllar boyu burada saklanan inananların adanmışlığını hissettirir. Derinkuyu Yeraltı Şehri'nin dar tünellerinde ilerlerken insan kendi içsel derinliklerine iner; dar geçitler sabrı ve nefsi terbiye etmeyi simgeler. Peri bacalarının zamanla aşınan gövdeleri ise dünyanın gelip geçici şekillerden ibaret olduğunu sessizce anlatır.",
+        "gastronomi": "- **Testi Kebabı:** Güveç testisi içinde közde saatlerce pişen ve masada kırılarak sunulan et yemeği.\n- **Nevşehir Tava:** Sarımsak, biber ve kuzu etinin fırında ağır ağır pişirilmesiyle yapılan lezzet.\n- **Köftür:** Üzüm şırasından yapılan nişastalı, doğal Kapadokya lokumu.",
+        "landmarks": ["Göreme Açık Hava Müzesi", "Uçhisar Kalesi", "Derinkuyu Yeraltı Şehri", "Ihlara Vadisi", "Aşk Vadisi", "Devrent Vadisi (Hayal Vadisi)"]
+    },
+    "Trabzon": {
+        "hikmet": "Sarp kayalıkların sinesine kurulan mabetler, inancın hiçbir engel tanımadığının en somut nişanesidir.",
+        "quote": "\"Hırçın dalgaların vurduğu kıyılardan, sisler altındaki yemyeşil yaylalara uzanan, tarihin vakur limanı.\"",
+        "description": "Karadeniz'in hırçın suları ile sarp dağlarının arasında kurulmuş kadim liman şehri. Trabzon, Zigana Dağları'nın sisli geçitlerinden süzülen Karadeniz kültürünün, kemençe sesinin ve horon coşkusunun merkezidir. Karadağ'ın dik yamaçlarına adeta bir kartal yuvası gibi kondurulmuş bin 600 yıllık Sümela Manastırı, inancın sarp dağları nasıl aşabileceğinin en büyüleyici kanıtıdır. Hamsi kokan sokakları, yemyeşil yaylaları ve tarihi yapılarıyla Trabzon, Karadeniz'in ruhunu en derin hissettiren kentidir.",
+        "sufi_notes": "Sümela Manastırı'nın Karadağ yamaçlarındaki o dik, sarp ve sisli yolunu adımlamak, hakikate giden yolun da meşakkatli ama ulaşıldığında o derece ferahlatıcı olduğunu hissettirir. Doğu Karadeniz'in geçit vermez dağları, insana tabiat karşısındaki acziyetini hatırlatarak tevazuyu öğretir. Kemençenin o kıvrak, hırçın ama bir o kadar da dertli sesi, bu toprakların insanının neşesini ve hüznünü aynı anda içinde barındıran kalbinin yansımasıdır.",
+        "gastronomi": "- **Trabzon Akçaabat Köftesi:** Bol sarımsaklı ve özel dana kıymasıyla yapılan, ızgarada pişen efsane köfte.\n- **Kuymak (Muhlama):** Kolot peyniri, mısır unu ve tereyağının uzayıp giden o nefis lezzet senfonisi.\n- **Hamsili Pilav:** Fırında nar gibi kızarmış hamsilerin mısır ekmeği ve baharatlı pilavla buluşması.",
+        "landmarks": ["Sümela Manastırı", "Trabzon Ayasofya Camii", "Uzungöl", "Atatürk Köşkü", "Hıdırnebi Yaylası", "Boztepe Seyir Terası"]
+    },
+    "Mardin": {
+        "hikmet": "Gecesi gerdanlık, gündüzü mezarlık olan bu taş şehir, ölüm ile yaşamın en estetik buluşma noktasıdır.",
+        "quote": "\"Mezopotamya ovasına tepeden bakan, sarı kalker taşından oyulmuş masalsı ve kadim bir medeniyet kalesi.\"",
+        "description": "Tarihin ve dinlerin harmanlandığı, taşın dile geldiği kadim Mezopotamya şehri. Mardin, daracık abbaraları (tünelli geçitler), göğe yükselen minareleri ve manastır kuleleri ile zamana meydan okuyan sarı taş bir masaldır. Kasımiye Medresesi'nin avlusundaki havuzda akan suyun hikayesi, insan ömrünün aşamalarını (doğum, gençlik, yaşlılık ve ölüm sonrası) sembolize eder. Akşamları ovaya çöken karanlıkla birlikte ışıldayan şehir, Mezopotamya ovasının üzerinde parıldayan asil bir gerdanlık gibi görünür.",
+        "sufi_notes": "Kasımiye Medresesi'ndeki su akan çeşmenin başında oturup suyun akışını izlemek, hayatın geçiciliğini ve en sonunda dingin bir havuzda (ahirette) toplanacağını tefekkür etmek için muazzam bir fırsattır. Süryani manastırı Deyrulzafaran'ın bin yıllık taşlarında yankılanan dualar, inancın dilleri ve zamanı aşan ortak tınısını hatırlatır. Mardin'in dar sokaklarında kaybolmak, aslında insan yapımı sınırların anlamsızlığını ve insanlığın kadim ortak kökenini kavramaktır.",
+        "gastronomi": "- **Mardin İçli Köftesi (İrok):** Baharatlı kıyma ve ceviz dolgulu, dışı çıtır bulgurlu kızartma başyapıtı.\n- **Kaburga Dolması:** Kuzu kaburgasının iç pilavla doldurularak saatlerce buharda pişirilen bayram yemeği.\n- **Süryani Çöreği:** Mahlep, zencefil ve tarçın kokulu, hurma dolgulu nefis çörek.",
+        "landmarks": ["Eski Mardin Sokakları ve Abbaralar", "Deyrulzafaran Manastırı", "Kasımiye Medresesi", "Dara Antik Kenti", "Mardin Ulu Camii", "Zinciriye Medresesi"]
+    },
+    "Mersin": {
+        "hikmet": "Denizin ortasındaki kaleler ve derin obruklar, insanın hem içindeki derin dehlizleri hem de dış dünyadaki sığınakları aramasıdır.",
+        "quote": "\"Toroslar'ın gölgesinde, Akdeniz'in tuzuyla yıkanan, antik Likya'dan bugüne uzanan narenciye kokulu sahil diyarı.\"",
+        "description": "Akdeniz'in en uzun kıyı şeritlerinden birine sahip, palmiyeler ve portakal bahçeleriyle süslü liman şehri. Mersin, denizin ortasında yükselen efsanevi Kızkalesi, yerin yüzlerce metre altına inen Cennet ve Cehennem obrukları ve tarihin en eski mağara sığınaklarından Eshab-ı Kehf (Yedi Uyurlar) ile gizemli ve zengin bir mirasa sahiptir. Limanının getirdiği kozmopolit hava ile Akdeniz sıcaklığını harmanlayan bu şehir, her adımda yeni bir antik kent kalıntısıyla gezginleri selamlar.",
+        "sufi_notes": "Cennet Obruğu'nun yüzlerce basamakla inilen o serin derinliğinde akan yeraltı nehrinin sesini dinlemek, insanın kendi bilinçaltının derinliklerine inmesi gibidir. Eshab-ı Kehf mağarasında zamanın nasıl büküldüğünü ve teslimiyetin gücünü düşünmek, ruha derin bir huşu verir. Kızkalesi'nin kıyıdan uzakta, suların ortasındaki yalnızlığı, insanın dünyadaki yalnız ama bir o kadar da asil duruşunu simgeler.",
+        "gastronomi": "- **Tantuni:** İnce kıyılmış dana etinin sacda pamuk yağıyla pişip, lavaş arasında limon ve sumakla buluşması.\n- **Kerebiç:** İrmiğin ceviz veya fıstıkla doldurulup, çöven otu kökünden elde edilen beyaz köpükle sunumu.\n- **Cezerye:** Havuç, şeker ve kuruyemişlerin saatlerce kaynatılıp hindistan ceviziyle kaplanan enerji deposu.",
+        "landmarks": ["Kızkalesi (Deniz Kalesi)", "Cennet ve Cehennem Obrukları", "Eshab-ı Kehf Mağarası", "Kanlıdivane Antik Kenti", "Soloi Pompeipolis Antik Kenti", "Tarsus Ulu Camii ve Danyal Peygamber Kabri"]
     }
 }
 
 REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
-    "02_Ege": ["Denizli"],
-    "03_Akdeniz": ["Antalya", "Adana", "Hatay"],
-    "04_IcAnadolu": ["Ankara", "Konya"],
-    "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu"]
+    "02_Ege": ["Denizli", "Mugla"],
+    "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir"],
+    "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon"],
+    "07_GuneydoguAnadolu": ["Mardin"]
 }
 
 def enrich_visited():
