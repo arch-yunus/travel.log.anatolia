@@ -253,6 +253,13 @@ class MapGenerator:
             font-size: 11px;
             color: #cbd5e1;
             line-height: 1.5;
+            margin: 0 0 8px 0;
+            font-style: italic;
+        }
+        .popup-desc {
+            font-size: 10px;
+            color: #94a3b8;
+            line-height: 1.4;
             margin: 0 0 12px 0;
         }
         .popup-action-btn {
@@ -404,8 +411,22 @@ class MapGenerator:
                     if city_raw == "İstanbul": lookup_key = "Istanbul"
                     if city_raw == "Çorum": lookup_key = "Corum"
                     
+                    desc_text = ""
                     if lookup_key in VISITED_DEEP_DETAILS:
                         quote_text = VISITED_DEEP_DETAILS[lookup_key].get("quote", quote_text).strip('"')
+                        full_desc = VISITED_DEEP_DETAILS[lookup_key].get("description", "")
+                        # Take the first 2 sentences
+                        sentences = [s.strip() for s in full_desc.split('. ') if s.strip()]
+                        if len(sentences) > 0:
+                            s1 = sentences[0]
+                            if not s1.endswith('.'): s1 += '.'
+                            desc_text = s1
+                            if len(sentences) > 1:
+                                s2 = sentences[1]
+                                if not s2.endswith('.'): s2 += '.'
+                                desc_text += " " + s2
+                    
+                    desc_html = f'<p class="popup-desc">{desc_text}</p>' if desc_text else ""
                     
                     popup_html = f'''
                     <div class="custom-popup-card">
@@ -415,6 +436,7 @@ class MapGenerator:
                         </div>
                         <div class="popup-body-content">
                             <p class="popup-excerpt">"{quote_text}"</p>
+                            {desc_html}
                             <a href="{readme_link}" target="_blank" class="popup-action-btn">Gezi Günlüğünü Oku ➔</a>
                         </div>
                     </div>
