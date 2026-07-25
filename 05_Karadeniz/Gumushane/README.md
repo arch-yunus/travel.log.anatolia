@@ -21,6 +21,7 @@ Karaca Mağarası'nın milyonlarca yılda şekillenen damlataş sütunları alt�
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Gümüşhane İl Halk Kütüphanesi - Vadinin serinliğinde, odaklanmayı kolaylaştıran butik ve huzurlu çalışma alanı.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

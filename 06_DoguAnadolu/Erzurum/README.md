@@ -21,6 +21,7 @@ Anadolu'nun en yüksek ve köklü kentlerinden biri, dadaşlık kültürünün v
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Erzurum Erzurumlu Emrah İl Halk Kütüphanesi - Tarihi dokusuyla dadaşların vakur çalışma disiplinini yansıtan sessiz çalışma limanı.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

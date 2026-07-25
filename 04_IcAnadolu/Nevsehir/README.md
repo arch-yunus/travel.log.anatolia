@@ -23,6 +23,7 @@ Karanlık Kilise'nin loş duvarlarındaki fresklere bakmak, yüzyıllar boyu bur
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Nevşehir İl Halk Kütüphanesi - Taş mimarisiyle huzurlu, sessiz odaları odağı artırmak için ideal.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

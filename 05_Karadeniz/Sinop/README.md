@@ -29,6 +29,7 @@ Düşünceleri, duyguları yahut bedeni hapsedeceklerini sananların, insanın r
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Sinop Rıza Nur İl Halk Kütüphanesi - Tarihi ve nostaljik ahşap binasıyla zamanda yolculuk hissi veriyor, huzurlu bir çalışma noktası.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

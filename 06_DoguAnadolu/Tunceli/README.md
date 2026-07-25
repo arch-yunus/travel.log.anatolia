@@ -21,6 +21,7 @@ Munzur Gözeleri'nde kayaların arasından fışkıran buz gibi suların sesini 
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Tunceli İl Halk Kütüphanesi - Munzur nehrinin esintisiyle serinleyen, sessiz çalışma ortamı ve güler yüzlü çalışanlarıyla butik kütüphane.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

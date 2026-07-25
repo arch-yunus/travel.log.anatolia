@@ -29,6 +29,7 @@ Fatih'in fethindeki azim, Mimar Sinan'ın taşa üflediği ruh, Süleymaniye'nin
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Şemsipaşa İlçe Halk Kütüphanesi (Üsküdar) - Denize sıfır konumuyla tefekküre değer, internet hızı yüksek, priz imkanı sınırlı ama atmosferi büyüleyici.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

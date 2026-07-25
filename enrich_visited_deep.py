@@ -2,6 +2,7 @@ import os
 
 VISITED_DEEP_DETAILS = {
     "Istanbul": {
+        "library": "Şemsipaşa İlçe Halk Kütüphanesi (Üsküdar) - Denize sıfır konumuyla tefekküre değer, internet hızı yüksek, priz imkanı sınırlı ama atmosferi büyüleyici.",
         "hikmet": "İstanbul bir ayna gibidir; ona yüzünü dönen, zamanın ve tarihin kalbinde kendi yansımasını görür.",
         "quote": "\"İmparatorlukların ebediyete karıştığı, taşın ve denizin şiir yazdığı yedi tepeli masal.\"",
         "description": "Dünyanın gözbebeği, iki kıtayı birbirine diken asırlık payitaht. Topraklarında barındırdığı üç büyük imparatorluğun kültürel ve mimari nefesini her sokağında hissettiren bu kadim şehir, asla uyumayan devasa bir deryadır.\n\nAyasofya'nın kubbesinden süzülen solgun bir ışık, Galata'nın rutubetli taşlarına sinmiş anılar, Boğaz'ın hırçın rüzgarına karışan eski zaman fısıltıları... İstanbul, dar vakitlerde aceleyle 'gezilecek' değil; durup uzun uzadıya kulak verilecek, derin bir nefesle içe çekilecek, insanın kendi varoluşunu sorgulayabileceği uçsuz bucaksız bir romandır.\n\nYedi tepesine nakış gibi işlenmiş ulu camileri, yüzyılların hüznünü taşıyan surları, erguvan mevsiminde alev alev yanan Boğaz kıyıları ile İstanbul, başlı başına bir kainattır. Pierre Loti'den Haliç'e bakarken, ya da Üsküdar'da Kız Kulesi'ne karşı çay yudumlarken hissedilen o eşsiz bütünlük duygusu, başka hiçbir coğrafyada bulunmaz. Tarih, bu şehirde kitapların arasında değil, kaldırım taşlarının, cumbalı ahşap evlerin ve asırlık çınarların gölgesinde yaşamaya devam eder.",
@@ -10,6 +11,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ayasofya-i Kebir Cami-i Şerifi", "Topkapı Sarayı", "Galata Kulesi", "Süleymaniye Camii", "Yerebatan Sarnıcı", "Kapalıçarşı", "Sultanahmet Meydanı", "Eyüp Sultan Türbesi"]
     },
     "Konya": {
+        "library": "Konya İl Halk Kütüphanesi - Geniş ve ferah salonları var, Selçuklu mimarisinin esintilerini taşıyor, çalışma disiplini yüksek.",
         "hikmet": "Susuzluktan kuruyan bozkırı yeşerten yağmur değil, gönülden kopan sevginin ve hoşgörünün pınarıdır.",
         "quote": "\"Rüzgârın en hafif estiği, sarı buğday başakları arasında evrensel sükunetin demlendiği Selçuklu diyarı.\"",
         "description": "Çöllerin ve uçsuz bucaksız ovaların ortasında bir vaha gibi duran, yalnızlığın ve dinginliğin başkenti. Dışarıdan bakıldığında sessiz, sert ve kurak görünen bu bozkır, içine girildiğinde eşsiz bir hoşgörü, tasavvuf ve estetik barındırır.\n\nMevlana'nın yüzyılları aşan 'Ne olursan ol gel' çağrısının yankılandığı sokaklarında gezinirken, sarının ve toprağın her tonu güneşte parlar. Konya, insanın dış dünyadaki karmaşayı geride bırakıp içselliğine uzandığı mistik bir kervansaraydır.\n\nAlaeddin Tepesi'ndeki ulu ağaçların dibinde Selçuklu sancağının ihtişamını, Karatay Medresesi'nin yıldızlı çinilerinde evrenin sonsuzluğunu hissedersiniz. Sille'nin kireç badanalı dar sokakları ve zamana direnen kiliseleri, bu topraklardaki çok kültürlü hoşgörünün ve derin sevginin taşa kazınmış en zarif halidir.",
@@ -18,6 +20,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Mevlana Müzesi", "Alaeddin Tepesi", "Karatay Medresesi", "Sille Köyü", "Kelebekler Vadisi", "İnce Minareli Medrese"]
     },
     "Bursa": {
+        "library": "Bursa İl Halk Kütüphanesi - Sakin ve geniş çalışma alanları mevcut, araştırma kaynakları zengin, bahçesi mola için ideal.",
         "hikmet": "Dağın yüceliği sadece zirvesindeki karlardan değil, eteklerindeki çınarlara verdiği can suyundan gelir.",
         "quote": "\"Suyun sesine karışan ulu çınar yapraklarının, bir imparatorluğun doğuşuna beşiklik ettiği yeşil başkent.\"",
         "description": "Uludağ'ın eteklerine şefkatle yaslanmış, yeşiliyle ve suyuyla her nefeste hayat bulan asil Osmanlı şehri. Her köşebaşındaki tarihi bir şadırvandan su sesi gelir; dar sokaklarında ahşap ve taşlarla ilmek ilmek işlenmiş, asırlara meydan okuyan bir sükunet vardır.\n\nBursa, doğa ile insanın, yeşil ile mimarinin en zarif şekilde uyumlandığı kadim bir huzur yuvasıdır. Hanlar bölgesindeki çay molaları, zamanın burada daha yavaş aktığının en büyük kanıtıdır.\n\nUlu Cami'nin o bitimsiz, iç içe geçmiş yirmi kubbesi altında duyulan yankı, Yeşil Türbe'nin sır kaplı çinilerindeki ince işçilik ve Kozahan'da ipek tezgâhlarından yükselen o kadim şıkırtılar... Bursa, sadece eski bir başkent değil, toprağın suyla, sanatın inançla buluşup mayalandığı, ruhu hiçbir zaman eskimemiş yeşil bir cennettir.",
@@ -26,6 +29,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ulu Cami", "Tarihi İnkaya Çınarı", "Yeşil Türbe", "Koza Han", "Cumalıkızık", "Tophane", "Osman Gazi ve Orhan Gazi Türbeleri"]
     },
     "Ankara": {
+        "library": "Milli Kütüphane (Bahçelievler) - Türkiye'nin en büyük araştırma kütüphanesi, 24 saat açık salonları, sınırsız kaynak ve üst düzey çalışma disiplini ile kod yazmak için eşsiz bir mabet.",
         "hikmet": "Taşa ve yokluğa karşı dikilen bir Cumhuriyet iradesi, dünyadaki en güçlü çelikten daha aşılmazdır.",
         "quote": "\"Yorgun bir bozkırda imkansızın nasıl başarıldığını haykıran, vakur, kararlı ve devrimci başkent.\"",
         "description": "Anadolu'nun kalbi, Friglerden Cumhuriyetin kuruluş yıllarına kadar uzanan, daima ayakta kalmanın direncini simgeleyen şehir. Güçlü ayazı insanın tenini sıyırsa da, sokaklarındaki ciddiyet ve kararlılık devletin ve milletin ruhunu ateşler.\n\nAnkara, görkemli sarayların veya boğaz parıltısının değil; emeğin, kararlılığın, diplomasinin ve 'kendi küllerinden doğma' inancının merkezidir. Ulus meydanındaki her kaldırım taşı Cumhuriyetin ilk adımlarını şahididir.\n\nAnıtkabir'in aslanlı yolundan yürürken hissedilen o devasa ağırlık ve minnet duygusu, Kurtuluş Savaşı müzesindeki yırtık çarıklara bakınca boğaza düğümlenen o hüzünlü saygı... Ankara, pes etmemenin, küllerinden bir Anka kuşu gibi yeniden doğmanın adıdır. Eymir'in sonbahar yapraklarında dahi bu şehrin o vakur ve ketum melankolisinden bir parça bulabilirsiniz.",
@@ -34,6 +38,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Anıtkabir", "Ankara Kalesi", "Anadolu Medeniyetleri Müzesi", "I. ve II. Meclis Binaları", "Atakule", "Eymir Gölü", "Hamamönü"]
     },
     "Amasya": {
+        "library": "Amasya İl Halk Kütüphanesi - Yeşilırmak kıyısında, nehrin şırıltısı eşliğinde kod yazma deneyimi sunan eşsiz bir çalışma alanı.",
         "hikmet": "Kayaya kazınan en büyük iz kralların gücü değil, vadiden usulca akan suların getirdiği yaşamdır.",
         "quote": "\"Nehrin ikiye böldüğü, Ferhat'ın gölgesiyle dağların şarkısının rüzgarda birbirine karıştığı elma kokulu vadi.\"",
         "description": "Yeşilırmak'ın nazlı nazlı aktığı dar ve sarp bir vadiye gizlenmiş masal şehri. Nehrin iki yakasını süsleyen ince işçilikli yalıboyu evleri, onların üstüne heybetle yükselen hırçın kayalar ve bu kayalara kazınmış iki bin yıllık Pontus antik Kral Kaya mezarları...\n\nAmasya, nehrin ritmiyle tarihin donup kaldığı bir seyir terasıdır. Şehzadelerin devlet yönetmeyi öğrendikleri bu topraklar, küçük yüzölçümüne rağmen kültürel olarak bir imparatorluk büyüklüğündedir.\n\nHarşena Dağı'nın eteklerine serpiştirilmiş medreseler, köprüler ve camiler, sanki nehirle bir uyum anlaşması imzalamış gibidir. Geceleri Yeşilırmak'ın üzerine düşen o yumuşak yalı ışıkları, şehri adeta altın tozu serpilmiş efsunlu bir Ortaçağ masalına çevirir.",
@@ -42,6 +47,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Kral Kaya Mezarları", "Amasya Kalesi", "Amasya Yalıboyu Evleri", "Hazeranlar Konağı", "Ferhat ile Şirin Aşıklar Müzesi", "II. Bayezid Külliyesi", "Sabuncuoğlu Şerefeddin Tıp Müzesi"]
     },
     "Corum": {
+        "library": "Çorum İl Halk Kütüphanesi - Sessiz ve düzenli çalışma odalarıyla odaklanmayı kolaylaştıran sakin bir Anadolu kütüphanesi.",
         "hikmet": "Medeniyetler kılıçla veya kanla kurulsa da, yalnızca masaya barışın mührü basıldığında yarına kalır.",
         "quote": "\"Çivi yazılı taş tabletlerin arasında yankılanan ilk barışın, bereketli topraklardaki unutulmaz izi.\"",
         "description": "Hititlerin kadim güneşi altında yıkanan, bereketin, tarihin ve Anadolu uygarlıklarının beşiği. Çorum, gösterişten uzak tepelerinde binlerce yıllık bir imparatorluk mirasını saklar.\n\nHattuşaş'ın yıkıntıları arasında, Aslanlı Kapı'dan içeri doğru yürürken duyulan tek ses, toprağın ve rüzgarın binlerce yıllık şahitliğinin ninnisine benzer. Şehir, leblebicilerinin burna dolan o güzel kavrulmuş kokusu ile samimi, mütevazı ama derin bir karakter sergiler.\n\nAlacahöyük'te bulunan Sfenksli Kapı ve kral mezarlarından çıkarılan güneş kursları, insanoğlunun tunç çağındaki o olağanüstü sanat yeteneğine hayran bırakır. Çorum, gösterişsiz bozkır örtüsünün altında, antik dünyanın en büyük askeri ve diplomatik dehalarından birinin izlerini gururla taşır.",
@@ -50,6 +56,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Hattuşaş Antik Kenti (Boğazkale)", "Alacahöyük", "Çorum Müzesi", "Yazılıkaya Açık Hava Tapınağı", "Şapinuva", "Saat Kulesi"]
     },
     "Samsun": {
+        "library": "Samsun İl Halk Kütüphanesi - Karadeniz'in en modern kütüphanelerinden biri, priz ve internet altyapısı mükemmel.",
         "hikmet": "En hırçın fırtınalarda uyanan irade, coşkulu dalgaları uysallaştıran ve rotayı çizen tek pusuladır.",
         "quote": "\"Kurtuluşa atılan o tarifsiz ilk sağlam adımın, denizin tuzuna karışıp bir milleti dirilttiği özgürlük limanı.\"",
         "description": "Karadeniz'in deli dalgalarına karşı hep bir fener gibi aydınlık ve dik durmuş umudun şehri. Dağlardan denize doğru uzanan yemyeşil tepelerin ve hırçın Karadeniz sahilinin tam ortasında, medeniyet ve doğanın büyük kucaklaşmasıdır.\n\nAtatürk'ün Bandırma Vapuru ile ufukta göründüğü o tarihi anın ruhunu tütünde, denizde ve rüzgarda her an hissedebilirsiniz. Karadeniz'in en modern şehirlerinden biri olarak ticareti, tarihi ve gençliği aynı sokaklarda barındırır.\n\nKızılırmak ve Yeşilırmak'ın denize kavuştuğu devasa deltalarındaki kuş cennetleri, Amazon savaşçılarının efsunlu tepeleri ve bağımsızlık meşalesinin yandığı tütün kokulu iskeleleri ile Samsun, Karadeniz'in göz ardı edilemez başkenti rolünü üstlenir.",
@@ -58,6 +65,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Onur Anıtı (Atatürk Heykeli)", "Bandırma Vapuru ve Milli Mücadele Parkı", "Amisos Tepesi", "Amazon Köyü", "Kurtuluş Yolu", "Kızılırmak Deltası Kuş Cenneti"]
     },
     "Sinop": {
+        "library": "Sinop Rıza Nur İl Halk Kütüphanesi - Tarihi ve nostaljik ahşap binasıyla zamanda yolculuk hissi veriyor, huzurlu bir çalışma noktası.",
         "hikmet": "En karanlık zindan kalın dört duvar arası ve demir parmaklıklar değil, insanın kendi kafasında ördüğü sınırlardır.",
         "quote": "\"Hırçın Karadeniz ile huzurlu limanın buluştuğu, deniz kokulu yalnızlığıyla baş başa kalan filozof yarımada.\"",
         "description": "Gölgelerin, sükunetin ve en kuzeyin şehri. Anadolu'nun denize bir mızrak ucu gibi uzanan en uç noktası. Dalgaların yüzlerce yıllık kale duvarlarını dövdüğü, ormanın adeta denize döküldüğü ve insanın doğayla baş başa kaldığı efsanevi bir liman!\n\nDar sokaklarında deniz kokusu evlerin pencerelerinden içeri dolar. Hem inziva köşesi arayan bir bilge kadar huzurlu, hem de asırlık tarihi cezaevinin ürpertici havasını taşıyan acılı bir hafıza mekanıdır. Diogenes'in fenerle gündüz vakti insan aradığı bu topraklar, tefekkürün tam merkezidir.\n\nErfelek şelalelerinde ormanın içlerine doğru suyun peşinden giderken hissettiğiniz o gizem, İnceburun'un o rüzgarlı kayalıklarında yerini hudutsuz bir Sonsuzluk hissine bırakır. Sinop, coğrafyanın kader, doğanın ise bir öğretmen olduğunun en net tablosudur.",
@@ -66,6 +74,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Tarihi Sinop Cezaevi", "Sinop Kalesi", "Hamsilos Tabiat Parkı", "Erfelek Tatlıca Şelaleleri", "İnceburun Deniz Feneri", "Diyojen Heykeli"]
     },
     "Giresun": {
+        "library": "Giresun İl Halk Kütüphanesi - Harşit Vadisi esintileriyle serin, sakin çalışma masaları mevcut.",
         "hikmet": "Karadeniz'in dalgalarının dövdüğü kayalar ne kadar sarp ise, zorluklarla bezenmiş o dalların verdiği fındıklar o kadar tatlıdır.",
         "quote": "\"Yeşilin en koyusunun, denizin en mavisinin ve zorlu yamaçlardaki emeğin sonsuz bir memleket hasretiyle kucaklaştığı yer.\"",
         "description": "Ormanın denize paralel bir sükunet ve inatla uzandığı, sislerin ardında gizli kalmış muazzam tabiat. Yaylalarındaki serin rüzgarlar insanın kalbine yaşama sevinci pompalarken, o sarp yamaçlarda yeşeren doğa insan emeğinin en dürüst karşılığını sunar.\n\nSadece adasındaki Amazon efsaneleri değil, yaylarındaki uçsuz bucaksız yeşil dalgalar da Giresun'u Karadeniz'in en otantik ve dokusu bozulmamış incilerinden biri yapar.\n\nKuzalan Şelalesi'nin o efsunlu, mistik turkuaz rengi suları ve Kümbet yaylasının o oksijen deposu çam ormanları arasında insan, şehir hayatının ne kadar sentetik, doğanın ise ne kadar hakiki ve anaç olduğunu hisseder. Giresun'da zaman, çay bahçelerinden denize inen dik patikalarda asuman bir huzurla ağır ağır akar.",
@@ -74,6 +83,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Giresun Kalesi", "Kuzalan Şelalesi", "Mavi Göl", "Giresun Adası (Aretias)", "Kümbet Yaylası", "Sis Dağı"]
     },
     "Ordu": {
+        "library": "Ordu İl Halk Kütüphanesi - Teleferik hattına yakın konumuyla mola vermeye uygun, çalışma salonları geniş.",
         "hikmet": "Göğe ne kadar yükselir ve aşağıya kibirle değil de şefkatle bakarsan, önündeki yollar ve denizler o kadar aydınlanır.",
         "quote": "\"Bulutların üzerine kurulan tahtından, Karadeniz'in ince dantel gibi örülmüş muazzam kıyılarını izleyen zarif şehir.\"",
         "description": "Boztepe'ye çıkıp teleferikten bakıldığında, ayağınızın altında uzanan o muazzam yeşil ve mavi uçurumun şehri. Yaylalarının (Perşembe, Çambaşı) uçsuz bucaksız sisli tepeleri, mendereslerin muazzam kıvrımları ve kıyıların eşsiz sükuneti birleşir.\n\nBurası, insanın metropol gürültüsünden kaçıp kafa dinlemek için haritadan gözü kapalı seçeceği, doğanın merhametli kollarında kurulu, Karadeniz'in en nazlı çocuklarından biridir.\n\nYason Burnu'nda güneşi batırırken Argonotların altın post efsanesini iliklerinize kadar hissedersiniz. Kurul Kalesi'nde Kibele heykeline dokunup, Karadeniz'in sadece deniz ve orman değil, aynı zamanda çok köklü bir antik miras barındırdığına şahit olursunuz. Ordu, modern bir sahil şehri ile antik bir dağ köyünün birleşim noktasıdır.",
@@ -82,6 +92,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Boztepe ve Teleferik", "Yason Burnu ve Kilisesi", "Perşembe Yaylası (Menderesler)", "Kurul Kalesi", "Gölköy Ulugöl"]
     },
     "Kocaeli": {
+        "library": "Kocaeli İl Halk Kütüphanesi - Modern iç tasarımı ve güçlü internet altyapısıyla kodlama mesaileri için son derece konforlu.",
         "hikmet": "Emeğin teriyle işlediği demir pas tutmaz; yorgunluk, yeni bir inşanın umut kıvılcımıdır.",
         "quote": "\"Fabrika bacalarından tüten isli umutlarla, bitinya krallığından kalma mirasın beraber yeşerdiği üretim diyarı.\"",
         "description": "Denizin kıyısında, körfez köprülerinin ağzında, demirin, plastiğin ve ateşin şekillendiği Türkiye'nin devasa endüstri başkenti. Dışarıdan veya otobandan bakıldığında sadece sanayi bacaları ve duman görünse de, şehrin biraz içine sızınca Kartepe'nin karlarına ve Kandıra'nın yemyeşil koylarına ulaşırsınız.\n\nKocaeli, gece gündüz uyumayan bir üretim arzusuyla, dağların arkasındaki gizli doğanın sürekli bir mücadele ve denge içinde yaşadığı, dinamik bir şehirdir.\n\nEskihisar sahilinden Yalova'ya doğru uzanan vapur rotasında martılara simit atarken, bir tarafınızda Osman Hamdi Bey'in Kaplumbağa Terbiyecisi'ni çizdiği tarihi konağı, diğer tarafınızda yüzlerce metre boyunda devasa lojistik gemilerini görürsünüz. Bu şehir, sanayi ile kültürün, beton ile doğanın o garip, bitirim ve eşsiz sarmalıdır.",
@@ -90,6 +101,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Sekapark (Eski Kağıt Fabrikası Dönüşümü)", "Kartepe Kayak Merkezi", "İzmit Tarihi Saat Kulesi", "Osman Hamdi Bey Evi (Eskihisar)", "Kefken ve Kerpe Kayalıkları", "Ormanya Doğal Yaşam Parkı"]
     },
     "Antalya": {
+        "library": "Antalya İl Halk Kütüphanesi - Yeşillikler içindeki bahçesi ve geniş okuma salonlarıyla Akdeniz sıcağında serin bir çalışma limanı.",
         "hikmet": "Sonsuz maviliğin ufku, geçmişi derinliklerinde hatırlar ancak daima doğacak yeni güne daha büyük umutla bakar.",
         "quote": "\"Kayalıklarına gürültüyle çarpıp geri çekilen suların, asırların mirasını şefkatle yıkadığı sıcak Akdeniz cenneti.\"",
         "description": "Akdeniz'in şüphesiz vitrini; güneşi, Likya ve Pamfilya antik kentlerini ve turkuaz doğayı cömertçe kucaklayan o sıcak coğrafya. Bir yanda Torosların kar kaplı heybeti dururken, diğer yanda insanın ruhunu yatıştıran engin mavi plajlar uzanır.\n\nKaleiçi'nin begonvillerle süslenmiş, dar ve nostaljik sokaklarında yürürken, antik krallıkların ayak seslerini ve yorgun kalyoncuların kalkanlara vuran mızrak seslerini bir film şeridi gibi hissedersiniz.\n\nAspendos'un o muazzam akustiğinde binlerce yıl önceki trajedilerin yankılandığını hayal edebilir, Kurşunlu ve Düden şelalelerinin ferahlığında cehennem sıcağından bir vaha serinliğine kaçabilirsiniz. Antalya sadece bir yaz rotası değil, derinlere inen kanyonları ve sedir ormanlarıyla başlı başına bir yaşam felsefesi mekanıdır.",
@@ -98,6 +110,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Tarihi Kaleiçi ve Yivli Minare", "Hadrian Kapısı (Üç Kapılar)", "Olympos ve Phaselis Antik Kentleri", "Düden ve Kurşunlu Şelaleleri", "Aspendos Antik Tiyatrosu", "Termessos Antik Kenti"]
     },
     "Denizli": {
+        "library": "Denizli İl Halk Kütüphanesi - Şehir merkezinde, sessiz çalışma salonları geniş, öğleden sonra kalabalık olabiliyor.",
         "hikmet": "Sabırla süzülen küçük ısrarlı su damlaları, asırlar içinde en sert ve karanlık kayaları bile bembeyaz bir pamuk tarlasına döndürür.",
         "quote": "\"Yeraltından fokurdayarak fışkıran sıcağın sanata, antik zamanların ve gladyatörlerin ise derin bir sessizliğe dönüştüğü o eşsiz coğrafya.\"",
         "description": "Uzaktan pamuk tarlaları gibi görünen travertenlerin bembeyaz şefkati ve hemen yanı başındaki Hierapolis'in büyüleyici, devasa lahit kalıntıları. Toprağın altında kaynayan ve efsanelere konu olan şifalı sular, yeryüzüne çıktığında muazzam bir doğa heykeli inşa eder.\n\nDenizli, tekstilin, dokumanın ve tabiatın en zarif işçiliğini birleştirerek yeryüzü tuvalinde sergilediği inanılmaz bir sanat atölyesi gibidir.\n\nLaodikeia'da gezinirken İncil'de geçen yedi kiliseden birinde durduğunuzu farz ederken, antik havuzun içinde gladyatör sutunlarına dokunarak yüzmenin o olağanüstü mitolojik aurasına kapılabilirsiniz. Dokuma tezgahlarının o ritmik 'tık tık' sesleri, ezelden beri süre gelen bir bereketin kalp atışı gibidir.",
@@ -106,6 +119,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Pamukkale Travertenleri", "Hierapolis Antik Kenti ve Antik Havuz", "Laodikeia Antik Kenti", "Karahayıt Kırmızı Su Suları", "Teleferik ve Bağbaşı Yaylası", "Güney Şelalesi"]
     },
     "Adana": {
+        "library": "Adana İl Halk Kütüphanesi - Şehir merkezinde yer alıyor, klimaları yaz sıcağında can kurtarıyor, priz imkanları iyi.",
         "hikmet": "Seyhan ve Ceyhan'ın bereketiyle yıkanan bu sıcak topraklar, sadece bedeni değil, cömertliğiyle ruhu da doyurur.",
         "quote": "\"Güneşin en dik açıyla vurduğu, pamuk tarlalarının beyazlığında alın terinin ve samimiyetin harmanlandığı sıcak Akdeniz kapısı.\"",
         "description": "Toroslar'ın eteklerinden Akdeniz'e süzülen nehirlerin suladığı bereketli Çukurova'nın kalbi. Adana, enerjisi yüksek, insanı sıcak ve yaşam ritmi son derece canlı bir şehirdir. Tarihi Taşköprü'nün üzerinden geçen rüzgar, antik çağlardan bu yana kim bilir kaç medeniyetin hikayesini Seyhan'ın sularına fısıldamıştır. Kentin sokaklarında yürürken burnunuza çalınan o nefis kebap kokuları, esnafın sıcak selamlamaları ve portakal çiçeği mevsiminde şehri saran o büyüleyici koku, Adana'yı sadece bir coğrafya değil, bir yaşam coşkusu haline getirir.",
@@ -114,6 +128,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Tarihi Taşköprü", "Sabancı Merkez Camii", "Ulu Cami ve Ramazanoğulları Külliyesi", "Büyük Saat Kulesi", "Seyhan Baraj Gölü", "Varda Köprüsü (Alman Köprüsü)"]
     },
     "Hatay": {
+        "library": "Hatay İl Halk Kütüphanesi - Tarihi dokusuyla ilham verici, sessiz çalışma odaları tefekkür ve kodlama için çok uygun.",
         "hikmet": "Medeniyetlerin ve inançların ortak sofrasında buluşan Hatay, barışın ve kardeşliğin ebedi yurdudur.",
         "quote": "\"Tarihin en eski caddelerinde farklı ezan, çan ve hazzan seslerinin birbirine karıştığı hoşgörü bahçesi.\"",
         "description": "Tarih boyunca 'Doğu'nun Kraliçesi' olarak anılan, Asi Nehri'nin tersine akışıyla nam saldığı kadim Antakya toprakları. Hatay, Hristiyanlığın ilk kiliselerinden St. Pierre'e, Anadolu'nun ilk camilerinden Habib-i Neccar'a ev sahipliği yapan, inançların ve kültürlerin binlerce yıldır barış içinde yan yana yaşadığı eşsiz bir mozaiktir. Sokaklarında yürürken Roma döneminden kalma taş sütunların izlerine rastlayabilir, dünyanın en zengin mozaik müzelerinden birinde zaman yolculuğuna çıkabilirsiniz. Hatay, her kültürden, her dilden ve her inançtan insanın ortak bir çatı altında kardeşçe yaşayabileceğinin en somut ve asil kanıtıdır.",
@@ -122,6 +137,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Habib-i Neccar Camii", "St. Pierre Kilisesi", "Hatay Arkeoloji Müzesi", "Titus Tüneli ve Beşikli Mağara", "Tarihi Antakya Sokakları", "Harbiye Şelaleleri"]
     },
     "Mugla": {
+        "library": "Muğla İl Halk Kütüphanesi - Üniversite bölgesine yakın, çalışma ortamı sessiz ve ferah, priz sayısı yeterli.",
         "hikmet": "Mavinin yeşille kavuştuğu bu kıyılar, ruhunu dinlendirmek isteyen her seyyah için bir sığınaktır.",
         "quote": "\"Antik Likya ve Karia medeniyetlerinin gölgesinde, turkuaz suların zümrüt ormanlarla seviştiği ebedi mavi yolculuk.\"",
         "description": "Ege ve Akdeniz'in kucaklaştığı, her koyunda başka bir efsanenin saklandığı Muğla. Antik kalıntıları, el değmemiş doğası ve uçsuz bucaksız koyları ile burası sadece bir yaz tatili rotası değil; tarihin ve doğanın en cömert birleşimidir. Fethiye'deki Ölüdeniz'in o kıpırtısız sakinliğinden, Kayaköy'ün hüzünlü hayalet sokaklarına uzanan bu yolculuk, insanın iç dünyasında da yeni kapılar aralar.",
@@ -130,6 +146,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ölüdeniz", "Kayaköy", "Saklıkent Kanyonu", "Kral Kaya Mezarları (Dalyan)", "Sedir Adası (Kleopatra Plajı)", "Bodrum Kalesi"]
     },
     "Nevsehir": {
+        "library": "Nevşehir İl Halk Kütüphanesi - Taş mimarisiyle huzurlu, sessiz odaları odağı artırmak için ideal.",
         "hikmet": "Yerin altındaki gizli sığınaklar ve göğe uzanan peri bacaları, insana hem yerin altını hem de gökleri tefekkür ettirir.",
         "quote": "\"Milyonlarca yıllık lavların ve rüzgarın taşa fısıldadığı, masalsı balonların gökyüzünü süslediği güzel atlar ülkesi.\"",
         "description": "Erciyes and Hasan Dağı'nın lavlarıyla şekillenen, rüzgarın sabırla oymasıyla oluşan masalsı coğrafya: Kapadokya. Nevşehir, peri bacalarının mistik görüntüsü, kayalara oyulmuş bin yıllık kiliseleri ve yerin altına kat kat inen devasa yeraltı şehirleriyle adeta başka bir gezegendir. Sabahın ilk ışıklarıyla gökyüzüne yükselen yüzlerce rengarenk balon, bu antik vadileri gökyüzünden izleme şansı sunarak insanı büyüler.",
@@ -138,6 +155,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Göreme Açık Hava Müzesi", "Uçhisar Kalesi", "Derinkuyu Yeraltı Şehri", "Ihlara Vadisi", "Aşk Vadisi", "Devrent Vadisi (Hayal Vadisi)"]
     },
     "Trabzon": {
+        "library": "Trabzon İl Halk Kütüphanesi - Şehir merkezinde vakur bir bina, araştırma ve geliştirme için sessiz odalar sunuyor.",
         "hikmet": "Sarp kayalıkların sinesine kurulan mabetler, inancın hiçbir engel tanımadığının en somut nişanesidir.",
         "quote": "\"Hırçın dalgaların vurduğu kıyılardan, sisler altındaki yemyeşil yaylalara uzanan, tarihin vakur limanı.\"",
         "description": "Karadeniz'in hırçın suları ile sarp dağlarının arasında kurulmuş kadim liman şehri. Trabzon, Zigana Dağları'nın sisli geçitlerinden süzülen Karadeniz kültürünün, kemençe sesinin ve horon coşkusunun merkezidir. Karadağ'ın dik yamaçlarına adeta bir kartal yuvası gibi kondurulmuş bin 600 yıllık Sümela Manastırı, inancın sarp dağları nasıl aşabileceğinin en büyüleyici kanıtıdır. Hamsi kokan sokakları, yemyeşil yaylaları ve tarihi yapılarıyla Trabzon, Karadeniz'in ruhunu en derin hissettiren kentidir.",
@@ -146,6 +164,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Sümela Manastırı", "Trabzon Ayasofya Camii", "Uzungöl", "Atatürk Köşkü", "Hıdırnebi Yaylası", "Boztepe Seyir Terası"]
     },
     "Mardin": {
+        "library": "Mardin İl Halk Kütüphanesi - Taş mimarisi ve Mezopotamya ovasına bakan avlusuyla seyyah yazılımcıya ilham kaynağı.",
         "hikmet": "Gecesi gerdanlık, gündüzü mezarlık olan bu taş şehir, ölüm ile yaşamın en estetik buluşma noktasıdır.",
         "quote": "\"Mezopotamya ovasına tepeden bakan, sarı kalker taşından oyulmuş masalsı ve kadim bir medeniyet kalesi.\"",
         "description": "Tarihin ve dinlerin harmanlandığı, taşın dile geldiği kadim Mezopotamya şehri. Mardin, daracık abbaraları (tünelli geçitler), göğe yükselen minareleri ve manastır kuleleri ile zamana meydan okuyan sarı taş bir masaldır. Kasımiye Medresesi'nin avlusundaki havuzda akan suyun hikayesi, insan ömrünün aşamalarını (doğum, gençlik, yaşlılık ve ölüm sonrası) sembolize eder. Akşamları ovaya çöken karanlıkla birlikte ışıldayan şehir, Mezopotamya ovasının üzerinde parıldayan asil bir gerdanlık gibi görünür.",
@@ -154,6 +173,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Eski Mardin Sokakları ve Abbaralar", "Deyrulzafaran Manastırı", "Kasımiye Medresesi", "Dara Antik Kenti", "Mardin Ulu Camii", "Zinciriye Medresesi"]
     },
     "Mersin": {
+        "library": "Mersin İl Halk Kütüphanesi - Sahile yakın, ferah çalışma masaları ve deniz manzaralı dinlenme alanlarıyla motivasyon verici.",
         "hikmet": "Denizin ortasındaki kaleler ve derin obruklar, insanın hem içindeki derin dehlizleri hem de dış dünyadaki sığınakları aramasıdır.",
         "quote": "\"Toroslar'ın gölgesinde, Akdeniz'in tuzuyla yıkanan, antik Likya'dan bugüne uzanan narenciye kokulu sahil diyarı.\"",
         "description": "Akdeniz'in en uzun kıyı şeritlerinden birine sahip, palmiyeler ve portakal bahçeleriyle süslü liman şehri. Mersin, denizin ortasında yükselen efsanevi Kızkalesi, yerin yüzlerce metre altına inen Cennet ve Cehennem obrukları ve tarihin en eski mağara sığınaklarından Eshab-ı Kehf (Yedi Uyurlar) ile gizemli ve zengin bir mirasa sahiptir. Limanının getirdiği kozmopolit hava ile Akdeniz sıcaklığını harmanlayan bu şehir, her adımda yeni bir antik kent kalıntısıyla gezginleri selamlar.",
@@ -162,6 +182,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Kızkalesi (Deniz Kalesi)", "Cennet ve Cehennem Obrukları", "Eshab-ı Kehf Mağarası", "Kanlıdivane Antik Kenti", "Soloi Pompeipolis Antik Kenti", "Tarsus Ulu Camii ve Danyal Peygamber Kabri"]
     },
     "Isparta": {
+        "library": "Isparta Halil Hamit Paşa İl Halk Kütüphanesi - Şehir merkezinde, sessiz çalışma alanları geniş ve ferah.",
         "hikmet": "Gülün kokusu geçicidir ama onun ruhumuza üflediği zarafet ve saflık baki kalır.",
         "quote": "\"Göller yöresinin serin esintisinde, lavanta ve gül kokulu sokakların asırlık tarihle buluştuğu sakin şehir.\"",
         "description": "Göller Yöresi'nin kalbinde yer alan, Türkiye'nin gül bahçesi Isparta. Eğirdir Gölü'nün göz alıcı turkuazı, lavanta kokulu Kuyucak köyü ve antik çağların izlerini taşıyan Sagalassos ile burası doğanın ve tarihin en huzurlu köşelerinden biridir. Şehir, sakin yaşamı ve mis kokulu tarım arazileriyle insana huzur verir.",
@@ -170,6 +191,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Eğirdir Gölü ve Can Ada", "Sagalassos Antik Kenti", "Kuyucak Lavanta Köyü", "Yazılı Kanyon Tabiat Parkı", "Isparta Ulu Camii", "Davraz Dağı Kayak Merkezi"]
     },
     "Aksaray": {
+        "library": "Aksaray İl Halk Kütüphanesi - Bozkırın ortasında modern ve sessiz bir çalışma alanı.",
         "hikmet": "Bozkırın ortasındaki derin vadiler, hayatın en kurak anlarında bile sığınabileceğimiz gizli vahaların olduğunu fısıldar.",
         "quote": "\"Ihlara Vadisi'nin yeşil sükûnetinde akan suların, Hasan Dağı'nın heybetli gölgesiyle buluştuğu kadim geçit.\"",
         "description": "Kapadokya'nın batı kapısı olan, Hasan Dağı'nın eteklerindeki Aksaray. Melendiz Çayı'nın binlerce yılda oyduğu muazzam Ihlara Vadisi, kayalara oyulmuş kiliseleri ve Selçuklu mirası kervansaraylarıyla burası adeta bir tarih and doğa müzesidir. Bozkırın ortasında yükselen bu antik kent, kervanların ve dervişlerin asırlar boyu sığındığı bir menzildir.",
@@ -178,6 +200,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ihlara Vadisi", "Selime Katedrali", "Hasan Dağı", "Eğri Minare (Kızıl Minare)", "Sultanhanı Kervansarayı", "Narlıgöl (Krater Gölü)"]
     },
     "Eskisehir": {
+        "library": "Eskişehir İl Halk Kütüphanesi - Genç nüfusun yoğun olduğu, dinamik, internet hızı yüksek ve priz imkanı bol olan modern kütüphane.",
         "hikmet": "Porsuk Çayı'nın şehri ikiye bölen dingin akışı, modern yaşamın ritmiyle tarihin zarafetinin uyumudur.",
         "quote": "\"Odunpazarı'nın renkli cumbalı evlerinde geçmişin fısıldadığı, gençliğin ve sanatın coşkuyla yaşandığı modern vaha.\"",
         "description": "İç Anadolu'nun parlayan yıldızı, kültür, sanat ve üniversite şehri Eskişehir. Tarihi Odunpazarı evlerinin nostaljik sokaklarından, Porsuk Çayı kenarındaki modern kafelere; lüle taşı işçiliğinden devasa parklarına kadar burası Türkiye'nin en yaşanabilir ve estetik şehirlerinden biridir. Kent, geçmişi korurken geleceğe umutla bakan aydınlık bir karaktere sahiptir.",
@@ -186,6 +209,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Tarihi Odunpazarı Evleri", "Porsuk Çayı ve Adalar Bölgesi", "Kurşunlu Külliyesi ve Camii", "Sazova Parkı (Bilim Sanat ve Kültür Parkı)", "Eskişehir Balmumu Heykeller Müzesi", "Kentpark"]
     },
     "Sivas": {
+        "library": "Sivas Şems-i Sivasî İl Halk Kütüphanesi - Selçuklu esintileriyle bezeli geniş ve düzenli çalışma salonları.",
         "hikmet": "Selçuklu çinilerindeki geometrik nizam, evrendeki kusursuz matematiksel ve manevi düzenin taştaki yansımasıdır.",
         "quote": "\"Ulu medreselerin göğe yükselen çifte minarelerinde, Cumhuriyet'in ilk kongre kararlarının yankılandığı vakur bozkır kalesi.\"",
         "description": "Tarih boyunca Selçuklu'nun en önemli merkezlerinden biri olan, Cumhuriyet'in temellerinin atıldığı Sivas. Gök Medrese ve Çifte Minareli Medrese'nin muazzam taş oyma işçilikleri, Sivas Kongre Binası'nın tarihi önemi ve Divriği Ulu Camii'nin UNESCO miras listesindeki eşsiz mimarisi ile bu şehir adeta bir açık hava müzesidir. Soğuk ayazı meşhur olsa da insanının sıcaklığıyla gönülleri ısıtır.",
@@ -194,6 +218,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Çifte Minareli Medrese", "Gök Medrese", "Sivas Kongre Müzesi", "Şifaiye Medresesi", "Divriği Ulu Camii ve Darüşşifası", "Kangal Balıklı Kaplıcası"]
     },
     "Artvin": {
+        "library": "Artvin İl Halk Kütüphanesi - Yamaçta kurulu, manzaralı, dik yokuşlardan sonra dinlenip kod yazmak için ideal sessiz sığınak.",
         "hikmet": "Bulutların üzerine kurulan bu dik yamaçlar, insanın doğa karşısındaki sınırlarını ve sabrını sınayan muazzam bir okuldur.",
         "quote": "\"Karadeniz'in göğe komşu topraklarında, geçit geçmez vadilerin ve zümrüt yeşili milli parkların gizemli cenneti.\"",
         "description": "Türkiye'nin en engebeli ve vahşi doğasına sahip, yeşilin binbir tonunu barındıran sınır şehri Artvin. Çoruh Nehri'nin derin vadileri, Karagöl'ün büyüleyici yansıması, Macahel'in bakir ormanları ve göğe yükselen yaylalarıyla burası macera ve huzur arayan gezginlerin rüyasıdır. Coğrafyanın zorluğu, insanının direncini ve doğaya olan derin saygısını şekillendirmiştir.",
@@ -202,6 +227,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Borçka Karagöl Tabiat Parkı", "Şavşat Karagöl", "Macahel (Camili) Havzası", "Hatila Vadisi Cam Teras", "Çoruh Kanyonu", "Atatepe (Dev Atatürk Heykeli)"]
     },
     "Bayburt": {
+        "library": "Bayburt İl Halk Kütüphanesi - Çoruh Nehri kıyısında, sessiz ve sakin bir çalışma ortamı.",
         "hikmet": "Yalnızlık ve sessizlik, bozkırın ortasında kurulan bu kalede insanın kendi iç dünyasıyla yüzleşmesini sağlar.",
         "quote": "\"Çoruh Nehri'nin kıvrılarak geçtiği, bozkırın sessizliğinde yükselen kadim kale ve modern sanatın buluştuğu sıradışı diyar.\"",
         "description": "Doğu Karadeniz'i Doğu Anadolu'ya bağlayan geçitlerin üzerinde yer alan, Çoruh Nehri'nin ikiye böldüğü Bayburt. Bayburt Kalesi'nin heybetli surları, yerin altındaki gizemli Aydıntepe Yeraltı Şehri and Baksı Müzesi ile burası şaşırtıcı detaylarla doludur. Sakin, gösterişsiz ama derin bir ruha sahiptir.",
@@ -210,6 +236,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Bayburt Kalesi", "Baksı Müzesi", "Aydıntepe Yeraltı Şehri", "Çoruh Nehri Rekreasyon Alanı", "Kop Dağı Müdafaası Tarihi Milli Parkı", "Kenan Yavuz Etnografya Müzesi"]
     },
     "Gumushane": {
+        "library": "Gümüşhane İl Halk Kütüphanesi - Vadinin serinliğinde, odaklanmayı kolaylaştıran butik ve huzurlu çalışma alanı.",
         "hikmet": "Kayaların arasındaki altın ve gümüş madenleri gibi, insanın içindeki cevher de ancak zorlu sınavlardan geçtikten sonra parıldar.",
         "quote": "\"Harşit Vadisi'nin sarp kayalıkları arasına gizlenmiş antik kentlerin, elma bahçelerinin ve gizemli mağaraların yurdu.\"",
         "description": "Adını asırlarca işletilen gümüş madenlerinden alan, sarp vadilerin ve yemyeşil yaylaların şehri Gümüşhane. Karaca Mağarası'nın büyüleyici sarkıt ve dikitleri, antik dönemden kalan Süleymaniye Mahallesi (Eski Gümüşhane) ve vadi yamaçlarında kurulu kiliseleriyle burası saklı bir hazinedir. Şehir, cevizli pestil ve kömesinin kokusuyla tatlı bir Karadeniz havası sunar.",
@@ -218,6 +245,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Karaca Mağarası", "Süleymaniye Mahallesi (Antik Gümüşhane)", "Krom Vadisi", "Limni Gölü Tabiat Parkı", "Santa Harabeleri", "Kürtün Örümcek Ormanları"]
     },
     "Rize": {
+        "library": "Rize İl Halk Kütüphanesi - Çay tarlalarının yeşili eşliğinde, modern altyapısı ve güçlü internetiyle kodlama için ideal.",
         "hikmet": "Bulutların yamaçları kucakladığı bu coğrafya, her an değişen havasıyla hayatın beklenmedik iniş çıkışlarını öğretir.",
         "quote": "\"Yemyeşil çay tarlalarının dik yamaçları süslediği, coşkulu derelerin gürültüsüyle yankılanan yaylalar diyarı.\"",
         "description": "Türkiye'nin en çok yağış alan, yeşilin en canlı yaşandığı, çayın başkenti Rize. Kaçkar Dağları'nın sis altındaki yaylaları (Ayder, Pokut, Anzer), Fırtına Deresi üzerinde yükselen asırlık taş kemer köprüler ve dik yamaçlara serpilmiş ahşap konaklar Rize'yi masalsı kılar. Hırçın derelerinin sesi, insanın içindeki tüm dinginliği harekete geçiren coşkulu bir ritme sahiptir.",
@@ -226,6 +254,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ayder Yaylası", "Pokut ve Sal Yaylaları", "Fırtına Vadisi ve Taş Kemer Köprüler", "Zil Kale", "Anzer Yaylası", "Palovit Şelalesi"]
     },
     "Ardahan": {
+        "library": "Ardahan İl Halk Kütüphanesi - Kışın sıcacık soba sıcaklığında, dışarıdaki dondurucu soğuğa inat sessizce kod yazma imkanı.",
         "hikmet": "En kuzey sınırda esen dondurucu rüzgar, insanın içindeki yaşama azmini ve kardeşlik sıcaklığını daha da kurutmaz, tam aksine artırır.",
         "quote": "\"Yalnızçam Dağları'nın beyaz örtüsü altında, Çıldır Gölü'nün buz tutmuş yüzeyinde atlı kızakların kaydığı sınır boyu.\"",
         "description": "Türkiye'nin en soğuk ve en kuzeydoğu illerinden biri olan, Kafkasya geçidindeki Ardahan. Kış aylarında tamamen buz tutan devasa Çıldır Gölü, üzerindeki atlı kızakları ve eskimo usulü balıkçılığıyla masalsı bir kış diyarı sunar. Ardahan Kalesi'nin Kura Nehri'ne bakan surları ve Yalnızçam yaylaları, bu sınır kentinin vakur ve dayanıklı karakterini yansıtır.",
@@ -234,6 +263,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Çıldır Gölü", "Ardahan Kalesi", "Yalnızçam Kayak Merkezi", "Şeytan Kalesi (Çıldır)", "Kura Nehri Vadisi", "Posof Vadisi"]
     },
     "Elazig": {
+        "library": "Elazığ İl Halk Kütüphanesi - Gakgoşlar diyarında modern ve konforlu çalışma odalarıyla geniş bir kütüphane.",
         "hikmet": "Harput'un bin yıllık taş surları, medeniyetlerin yükselip alçaldığı ama maneviyatın hep ayakta kaldığı bir kaledir.",
         "quote": "\"Tarihi Harput Kalesi'nin gölgesinde, Hazar Gölü'nün batık şehrine bakan köklü medeniyetlerin ve gakgoşların yurdu.\"",
         "description": "Kadim Harput kentinin mirasçısı, baraj gölleriyle çevrili Doğu Anadolu kenti Elazığ. Harput Kalesi'nin eğik minaresi, Hazar Gölü'nün suları altındaki antik Batık Şehir ve şifalı Buzluk Mağarası ile burası tarihi ve doğal sürprizlerle doludur. Kendine has musikisi (kürsübaşı sohbetleri) ve 'gakgoş' kültürüyle son derece misafirperverdir.",
@@ -242,6 +272,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Harput Kalesi ve Harput Ulu Camii", "Hazar Gölü ve Batık Şehir", "Buzluk Mağarası", "Kömürhan Köprüsü", "Kürsübaşı Kultur Evi", "Hazarbaba Kayak Merkezi"]
     },
     "Erzincan": {
+        "library": "Erzincan İl Halk Kütüphanesi - Deprem sonrası yenilenen geniş caddelerin ortasında modern ve ferah bir kütüphane.",
         "hikmet": "Depremlerle defalarca yıkılan bu şehrin küllerinden yeniden doğması, sabrın ve yeniden inşa iradesinin en büyük zaferidir.",
         "quote": "\"Munzur Dağları'nın gölgesinde, Fırat Nehri'nin coşkulu kollarında rafting yapılan, küllerinden doğmuş dirençli şehir.\"",
         "description": "Tarih boyunca büyük depremler atlatmış ama her seferinde daha planlı ve güzel bir şekilde yeniden kurulmuş olan Erzincan. Karanlık Kanyon'un dik yamaçları, Girlevik Şelalesi'nin donmuş buz sütunları ve tulum peynirinin eşsiz aroması ile burası Doğu Anadolu'nun düzenli ve huzurlu bir merkezidir. Fırat Nehri (Karasu) boyunca uzanan vadiler doğa sporları için biçilmiş kaftandır.",
@@ -250,6 +281,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Karanlık Kanyon (Kemaliye)", "Girlevik Şelalesi", "Kemaliye Tarihi Evleri ve Taş Yolu", "Ergan Dağı Kayak Merkezi", "Ekşisu Mesire Alanı", "Terzibaba Türbesi ve Camii"]
     },
     "Erzurum": {
+        "library": "Erzurum Erzurumlu Emrah İl Halk Kütüphanesi - Tarihi dokusuyla dadaşların vakur çalışma disiplinini yansıtan sessiz çalışma limanı.",
         "hikmet": "Çifte Minareli Medrese'nin taş kemerleri, tarihin vakur soğuğuna inançla meydan okuyan sarsılmaz birer kaledir.",
         "quote": "\"Palandöken'in karlı zirvelerinden, ulu medreselerin taş oymalarına uzanan, bozkırın vakur ve yiğit dadaşlar diyarı.\"",
         "description": "Anadolu'nun en yüksek ve köklü kentlerinden biri, dadaşlık kültürünün ve kış sporlarının merkezi Erzurum. Çifte Minareli Medrese, Yakutiye Medresesi, Ulu Camii ve Erzurum Kongre Binası ile burası Türk-İslam mimarisinin zirve noktasıdır. Palandöken Dağı'nın eteklerinde kurulu şehir, kışın kar beyazı, yazın ise serin bozkır havasıyla gezginleri karşılar.",
@@ -258,6 +290,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Çifte Minareli Medrese", "Yakutiye Medresesi", "Palandöken Kayak Merkezi", "Erzurum Kalesi ve Üç Kümbetler", "Erzurum Kongre Binası", "Tarihi Erzurum Evleri"]
     },
     "Kars": {
+        "library": "Kars İl Halk Kütüphanesi - Rus döneminden kalma taş binaların mistik havasında, karlar altında kodlama mesaisi yapabileceğiniz sıcak sığınak.",
         "hikmet": "Ani Harabeleri'nin sessizliği, yan yana yıkılmış cami ve kiliselerin asırlar boyu süren ortak insanlık tefekkürüdür.",
         "quote": "\"Rus mimarisinin taş sokaklarından, Ani Harabeleri'nin sınır çizen yalnızlığına uzanan, karlar altındaki sınır masalı.\"",
         "description": "Türkiye'nin en doğusunda, çok kültürlü yapısıyla ve Rus döneminden kalma ızgara planlı taş binalarıyla ünlü Kars. Ermenistan sınırında yer alan görkemli Ani Harabeleri, Kars Kalesi ve aşıklık geleneği ile burası gizemli bir sınır masalıdır. Kış aylarında Doğu Ekspresi ile gelen gezginlerin karla kaplı sokaklarında kaybolduğu eşsiz bir destinasyondur.",
@@ -266,6 +299,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Ani Harabeleri (UNESCO)", "Kars Kalesi ve Taş Köprü", "Ebü'l-Hasan Harakānî Türbesi ve Evliya Camii", "Rus Dönemi Taş Binalar", "Sarıkamış Allahuekber Dağları Şehitliği", "Kars Peynir Müzesi"]
     },
     "Malatya": {
+        "library": "Malatya İl Halk Kütüphanesi - Şehir merkezinde yer alan, geniş araştırma kaynakları ve rahat çalışma alanları sunan yerleşke.",
         "hikmet": "Toprağın sinesinden fışkıran kayısılar, sabırla açan çiçeklerin en tatlı meyveye dönüşen ilahi mükafatıdır.",
         "quote": "\"Fırat Vadisi'nin bereketli topraklarında, kayısı bahçelerinin turuncusunda parıldayan antik Arslantepe'nin kadim yurdu.\"",
         "description": "Dünya kayısı üretiminin merkezi, Fırat Nehri'nin suladığı verimli ovaların şehri Malatya. Tarihin en eski bürokratik devlet yapısının bulunduğu Arslantepe Höyüğü, Somuncu Baba Külliyesi ve Levent Vadisi'nin devasa kanyonları ile burası köklü bir geçmişe sahiptir. İnsanının samimiyeti ve çalışkanlığı, topraklarının bereketiyle birleşmiştir.",
@@ -274,6 +308,7 @@ VISITED_DEEP_DETAILS = {
         "landmarks": ["Arslantepe Höyüğü (UNESCO)", "Somuncu Baba Külliyesi ve Tohma Kanyonu", "Levent Vadisi Cam Teras", "Malatya Ulu Camii", "Karakaya Baraj Gölü", "Şire Pazarı"]
     },
     "Tunceli": {
+        "library": "Tunceli İl Halk Kütüphanesi - Munzur nehrinin esintisiyle serinleyen, sessiz çalışma ortamı ve güler yüzlü çalışanlarıyla butik kütüphane.",
         "hikmet": "Munzur'un hırçın köpüklü suları, dağların derinliklerinden gelen en saf ve temiz yaşam energisidir.",
         "quote": "\"Munzur Dağları'nın geçit vermez zirvelerinde, hırçın nehirlerin ve kutsal gözelerin sarmaladığı gizemli coğrafya.\"",
         "description": "Tunceli, sarp dağların, kanyonların ve akarsuların çevrelediği, doğanın en bakir kaldığı Doğu Anadolu ilidir. Kutsal kabul edilen Munzur Gözeleri, Munzur Vadisi Milli Parkı ve Munzur Çayı rafting parkurları ile burası doğa severler için eşsizdir. Alevi-Bektaşi kültürünün en yoğun yaşandığı, doğaya ve canlıya derin bir saygının hakim olduğu mistik bir atmosfere sahiptir.",
@@ -335,6 +370,8 @@ def enrich_visited():
                 content += "- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.\n\n"
                 content += "### 💻 Yarı Göçebe Mesaisi (Upskilling)\n"
                 content += "- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.\n"
+                if 'library' in details:
+                    content += f"  * *Seyyahın Kütüphane Notu:* {details['library']}\n"
                 content += "- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.\n\n"
                 content += "### ✨ Keşfedilesi Duraklar\nBu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:\n"
                 

@@ -29,6 +29,7 @@ Bu gri şehir insana gösterişin ve ihtişamın aslında çok ucuz, ancak çal�
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Milli Kütüphane (Bahçelievler) - Türkiye'nin en büyük araştırma kütüphanesi, 24 saat açık salonları, sınırsız kaynak ve üst düzey çalışma disiplini ile kod yazmak için eşsiz bir mabet.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar

@@ -29,6 +29,7 @@ Ulu Cami'nin şadırvanından dökülen her damla su, insanın kendi günahları
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
+  * *Seyyahın Kütüphane Notu:* Bursa İl Halk Kütüphanesi - Sakin ve geniş çalışma alanları mevcut, araştırma kaynakları zengin, bahçesi mola için ideal.
 - **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar
