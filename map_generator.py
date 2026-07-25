@@ -1,7 +1,7 @@
 import json
 import os
 import folium
-from folium.plugins import MarkerCluster
+import re
 
 class MapGenerator:
     def __init__(self, data_file="travel_data.json", output_file="travel_map.html"):
@@ -53,40 +53,336 @@ class MapGenerator:
         name = name.translate(str.maketrans(tr_to_en))
         return name.lower().strip()
 
+    def _find_city_path(self, city_name):
+        regions = ["01_Marmara", "02_Ege", "03_Akdeniz", "04_IcAnadolu", "05_Karadeniz", "06_DoguAnadolu", "07_GuneydoguAnadolu"]
+        norm_target = self._normalize(city_name)
+        
+        for r in regions:
+            if os.path.exists(r):
+                for folder in os.listdir(r):
+                    if self._normalize(folder) == norm_target:
+                        return os.path.join(r, folder)
+        return None
+
     def generate_map(self):
         # We find visited checking README actual list
         visited_cities = set()
         if os.path.exists("README.md"):
             with open("README.md", "r", encoding="utf-8") as f:
                 content = f.read()
-                # we know "✅ **CityName**" is the syntax now
-                import re
                 matches = re.findall(r"✅ \*\*([^\*]+)\*\*", content)
                 for m in matches:
                     visited_cities.add(m.strip())
 
-        # Center of Turkey approx: 38.9637, 35.2433
-        m = folium.Map(location=[38.9637, 35.2433], zoom_start=6, tiles='CartoDB dark_matter')
-        
-        # Add a custom title HTML
-        loc = 'Türkiye Keşif Haritası - Travel.log'
-        title_html = f'''
-             <h3 align="center" style="font-size:20px; color:white;"><b>{loc}</b></h3>
-             '''
-        m.get_root().html.add_child(folium.Element(title_html))
+        # Load deep details from script if possible
+        try:
+            from enrich_visited_deep import VISITED_DEEP_DETAILS
+        except ImportError:
+            VISITED_DEEP_DETAILS = {}
 
-        marker_cluster = MarkerCluster().add_to(m)
+        # Center of Turkey approx: 38.9637, 35.2433
+        m = folium.Map(location=[38.9637, 35.2433], zoom_start=6, tiles='CartoDB dark_matter', control_scale=True)
         
+        total_cities = 81
+        visited_count = len(visited_cities)
+        pct = (visited_count / total_cities) * 100
+        
+        # UI Styling Tokens (CSS)
+        css_style = """
+        @import url('https://fonts.googleapis.com/css2?family=Outfit:wght@300;400;600;700&family=Inter:wght@300;400;500;600&display=swap');
+        
+        .map-title-panel {
+            position: absolute;
+            top: 20px;
+            left: 70px;
+            z-index: 1000;
+            background: rgba(15, 23, 42, 0.85);
+            backdrop-filter: blur(12px);
+            -webkit-backdrop-filter: blur(12px);
+            border: 1px solid rgba(255, 255, 255, 0.08);
+            padding: 20px 24px;
+            border-radius: 16px;
+            color: #fff;
+            box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+            max-width: 320px;
+            transition: all 0.3s ease;
+        }
+        .map-title-panel:hover {
+            border-color: rgba(255, 255, 255, 0.15);
+            box-shadow: 0 12px 40px rgba(0, 0, 0, 0.6);
+        }
+        .map-title-panel h1 {
+            font-family: 'Outfit', sans-serif;
+            font-size: 18px;
+            font-weight: 700;
+            margin: 0 0 6px 0;
+            background: linear-gradient(135deg, #2ecc71, #00f2fe);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            letter-spacing: 0.5px;
+        }
+        .map-title-panel p.subtitle {
+            font-size: 11px;
+            color: #94a3b8;
+            margin: 0 0 16px 0;
+            line-height: 1.4;
+        }
+        .progress-container {
+            margin-bottom: 12px;
+        }
+        .progress-info {
+            display: flex;
+            justify-content: space-between;
+            font-size: 11px;
+            color: #cbd5e1;
+            margin-bottom: 6px;
+            font-weight: 500;
+        }
+        .progress-bar-bg {
+            width: 100%;
+            height: 6px;
+            background: rgba(255, 255, 255, 0.1);
+            border-radius: 3px;
+            overflow: hidden;
+        }
+        .progress-bar-fill {
+            height: 100%;
+            background: linear-gradient(90deg, #2ecc71, #00f2fe);
+            box-shadow: 0 0 8px rgba(46, 204, 113, 0.5);
+            border-radius: 3px;
+        }
+        .panel-quote {
+            font-style: italic;
+            font-size: 10.5px;
+            color: #64748b;
+            border-left: 2px solid #2ecc71;
+            padding-left: 8px;
+            margin: 12px 0 0 0;
+        }
+        .pulsing-marker {
+            position: relative;
+            width: 16px;
+            height: 16px;
+        }
+        .pulsing-marker .dot {
+            width: 10px;
+            height: 10px;
+            border-radius: 50%;
+            background: #2ecc71;
+            box-shadow: 0 0 10px #2ecc71;
+            position: absolute;
+            top: 3px;
+            left: 3px;
+            cursor: pointer;
+            border: 2px solid #ffffff;
+            transition: all 0.2s ease;
+        }
+        .pulsing-marker:hover .dot {
+            transform: scale(1.3);
+            background: #00f2fe;
+            box-shadow: 0 0 15px #00f2fe;
+        }
+        .pulsing-marker .pulse {
+            position: absolute;
+            top: -5px;
+            left: -5px;
+            height: 26px;
+            width: 26px;
+            border-radius: 50%;
+            background: rgba(46, 204, 113, 0.35);
+            animation: pulse-ring 2s cubic-bezier(0.455, 0.03, 0.515, 0.955) infinite;
+            pointer-events: none;
+        }
+        @keyframes pulse-ring {
+            0% { transform: scale(0.3); opacity: 1; }
+            80%, 100% { transform: scale(1.6); opacity: 0; }
+        }
+        .leaflet-popup-content-wrapper {
+            background: rgba(15, 23, 42, 0.9) !important;
+            backdrop-filter: blur(12px) !important;
+            -webkit-backdrop-filter: blur(12px) !important;
+            border: 1px solid rgba(255, 255, 255, 0.08) !important;
+            border-radius: 16px !important;
+            padding: 0 !important;
+            overflow: hidden;
+            box-shadow: 0 20px 40px rgba(0, 0, 0, 0.6) !important;
+            color: #fff !important;
+        }
+        .leaflet-popup-content {
+            margin: 0 !important;
+            width: 260px !important;
+        }
+        .leaflet-popup-tip {
+            background: rgba(15, 23, 42, 0.9) !important;
+            border: 1px solid rgba(255, 255, 255, 0.08) !important;
+        }
+        .custom-popup-card {
+            display: flex;
+            flex-direction: column;
+            width: 260px;
+        }
+        .popup-image-header {
+            height: 120px;
+            background-size: cover;
+            background-position: center;
+            position: relative;
+        }
+        .popup-image-overlay {
+            position: absolute;
+            top: 0;
+            left: 0;
+            width: 100%;
+            height: 100%;
+            background: linear-gradient(0deg, rgba(15, 23, 42, 0.95) 0%, rgba(15, 23, 42, 0.1) 100%);
+        }
+        .popup-city-title {
+            position: absolute;
+            bottom: 8px;
+            left: 16px;
+            font-family: 'Outfit', sans-serif;
+            font-size: 16px;
+            font-weight: 700;
+            color: #fff;
+            margin: 0;
+            text-shadow: 0 2px 4px rgba(0, 0, 0, 0.6);
+        }
+        .popup-body-content {
+            padding: 14px 16px;
+        }
+        .popup-excerpt {
+            font-size: 11px;
+            color: #cbd5e1;
+            line-height: 1.5;
+            margin: 0 0 12px 0;
+        }
+        .popup-action-btn {
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            width: 100%;
+            padding: 8px 0;
+            background: linear-gradient(135deg, #2ecc71, #27ae60);
+            color: #fff !important;
+            font-size: 11px;
+            font-weight: 600;
+            text-decoration: none !important;
+            border-radius: 8px;
+            transition: all 0.2s ease;
+            box-shadow: 0 4px 12px rgba(46, 204, 113, 0.2);
+            border: none;
+            cursor: pointer;
+            box-sizing: border-box;
+        }
+        .popup-action-btn:hover {
+            background: linear-gradient(135deg, #2ecc71, #00f2fe);
+            box-shadow: 0 4px 16px rgba(0, 242, 254, 0.35);
+            transform: translateY(-1px);
+        }
+        .custom-tooltip {
+            background: rgba(15, 23, 42, 0.9) !important;
+            backdrop-filter: blur(8px) !important;
+            border: 1px solid rgba(255, 255, 255, 0.1) !important;
+            color: #fff !important;
+            border-radius: 6px !important;
+            font-family: 'Inter', sans-serif !important;
+            font-size: 10.5px !important;
+            font-weight: 500 !important;
+            padding: 4px 8px !important;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.3) !important;
+        }
+        .unvisited-marker {
+            transition: all 0.3s ease;
+            cursor: pointer;
+        }
+        .unvisited-marker:hover {
+            stroke: #00f2fe !important;
+            fill: #00f2fe !important;
+            r: 5px !important;
+        }
+        """
+
+        m.get_root().header.add_child(folium.Element(f"<style>{css_style}</style>"))
+        
+        # Add the floating title panel
+        progress_bar_fill = f'<div class="progress-bar-fill" style="width: {pct:.1f}%"></div>'
+        title_panel_html = f'''
+        <div class="map-title-panel">
+            <h1>🇹🇷 ANADOLU SEYAHATNAMESİ</h1>
+            <p class="subtitle">Bir seyyahın adımladığı kadim topraklar ve dijital gezi günlüğü.</p>
+            <div class="progress-container">
+                <div class="progress-info">
+                    <span>Keşif İlerlemesi</span>
+                    <span>%{pct:.1f} ({visited_count}/{total_cities})</span>
+                </div>
+                <div class="progress-bar-bg">
+                    {progress_bar_fill}
+                </div>
+            </div>
+            <p class="panel-quote">"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."</p>
+        </div>
+        '''
+        m.get_root().html.add_child(folium.Element(title_panel_html))
+
         plotted = 0
         for city_raw in visited_cities:
             # find coords
             for c_name, coords in self.city_coords.items():
                 if self._normalize(c_name) == self._normalize(city_raw):
+                    
+                    # Find city path and banner
+                    city_dir = self._find_city_path(city_raw)
+                    banner_rel_path = "assets/banner.png"
+                    quote_text = "Keşfedilen ve tefekkür edilen seyahat noktası."
+                    readme_link = "#"
+                    
+                    if city_dir:
+                        city_dir_html = city_dir.replace("\\", "/")
+                        readme_link = f"{city_dir_html}/README.md"
+                        if os.path.exists(os.path.join(city_dir, "banner.jpg")):
+                            banner_rel_path = f"{city_dir_html}/banner.jpg"
+                    
+                    # Lookup deep details
+                    lookup_key = city_raw
+                    if city_raw == "İstanbul": lookup_key = "Istanbul"
+                    if city_raw == "Çorum": lookup_key = "Corum"
+                    
+                    if lookup_key in VISITED_DEEP_DETAILS:
+                        quote_text = VISITED_DEEP_DETAILS[lookup_key].get("quote", quote_text).strip('"')
+                    
+                    popup_html = f'''
+                    <div class="custom-popup-card">
+                        <div class="popup-image-header" style="background-image: url('{banner_rel_path}')">
+                            <div class="popup-image-overlay"></div>
+                            <h3 class="popup-city-title">📍 {city_raw}</h3>
+                        </div>
+                        <div class="popup-body-content">
+                            <p class="popup-excerpt">"{quote_text}"</p>
+                            <a href="{readme_link}" target="_blank" class="popup-action-btn">Gezi Günlüğünü Oku ➔</a>
+                        </div>
+                    </div>
+                    '''
+                    
+                    popup = folium.Popup(popup_html, max_width=260)
+                    
+                    marker_html = f'''
+                    <div class="pulsing-marker">
+                        <div class="pulse"></div>
+                        <div class="dot"></div>
+                    </div>
+                    '''
+                    
                     folium.Marker(
                         location=coords,
-                        popup=f"<b>{city_raw}</b><br>1 Adet Rota Ziyaret Edildi.",
-                        icon=folium.Icon(color="green", icon="info-sign"),
-                    ).add_to(marker_cluster)
+                        popup=popup,
+                        tooltip=folium.Tooltip(city_raw, class_name="custom-tooltip"),
+                        icon=folium.DivIcon(
+                            html=marker_html,
+                            class_name="custom-pulsing-icon",
+                            icon_size=(16, 16),
+                            icon_anchor=(8, 8)
+                        )
+                    ).add_to(m)
+                    
                     plotted += 1
                     break
         
@@ -104,11 +400,13 @@ class MapGenerator:
                 folium.CircleMarker(
                     location=coords,
                     radius=3,
-                    color="#444444",
+                    color="#475569",
                     fill=True,
-                    fill_color="#444444",
-                    fill_opacity=0.7,
-                    tooltip=f"Keşfedilmeyi bekliyor: {c_name}"
+                    fill_color="#1e293b",
+                    fill_opacity=0.8,
+                    weight=1.5,
+                    tooltip=folium.Tooltip(f"Keşfedilmeyi bekliyor: {c_name}", class_name="custom-tooltip"),
+                    class_name="unvisited-marker"
                 ).add_to(m)
 
         m.save(self.output_file)
