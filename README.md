@@ -105,34 +105,10 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ---
 
-## 🎯 Gelecek Rota Hedefi (Next Year's Target Route)
-Gelecek seyahat döneminde, seyahat metodolojimizdeki lojistik optimizasyon ve ardışık komşu iller kuralına uygun olarak hedeflenen rota şu şekildedir:
-
-```mermaid
-graph LR
-    Cankiri("🌾 Çankırı") --> Kastamonu("🌲 Kastamonu")
-    Kastamonu --> Karabuk("🌲 Karabük")
-    Karabuk --> Bartin("🌲 Bartın")
-    Bartin --> Zonguldak("🌲 Zonguldak")
-    Zonguldak --> Duzce("🌲 Düzce")
-    Duzce --> Sakarya("🏰 Sakarya")
-    Sakarya --> Edirne("🏰 Edirne")
-    Edirne --> Canakkale("🏰 Çanakkale")
-    Canakkale --> Manisa("🌊 Manisa")
-    Manisa --> Izmir("🌊 İzmir")
-
-    style Cankiri fill:#e1f5fe,stroke:#0288d1,stroke-width:2px
-    style Izmir fill:#e8f5e9,stroke:#388e3c,stroke-width:2px
-```
-
-* **Güzergah Özeti:** İç Anadolu'dan (Çankırı) başlayıp, Batı Karadeniz kıyı hattı boyunca (Kastamonu, Karabük, Bartın, Zonguldak, Düzce) ilerleyen, ardından Marmara bölgesini (Sakarya, Edirne, Çanakkale) aşarak Ege kıyılarına (Manisa, İzmir) uzanan kesintisiz, düşük maliyetli ve yüksek verimli bir seyahat planı.
-
----
-
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %39.5 (32 / 81 İl)
-🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %42.0 (34 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
@@ -142,8 +118,8 @@ graph LR
 **🌊 Ege Bölgesi (2/8)**
 ❌ Afyonkarahisar • ❌ Aydın • ✅ **Denizli** • ❌ Kütahya • ❌ Manisa • ✅ **Muğla** • ❌ Uşak • ❌ İzmir
 
-**☀️ Akdeniz Bölgesi (3/8)**
-❌ Adana • ✅ **Antalya** • ❌ Burdur • ❌ Hatay • ✅ **Isparta** • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
+**☀️ Akdeniz Bölgesi (5/8)**
+✅ **Adana** • ✅ **Antalya** • ❌ Burdur • ✅ **Hatay** • ✅ **Isparta** • ❌ Kahramanmaraş • ✅ **Mersin** • ❌ Osmaniye
 
 **🌾 İç Anadolu Bölgesi (6/13)**
 ✅ **Aksaray** • ✅ **Ankara** • ✅ **Eskişehir** • ❌ Karaman • ❌ Kayseri • ✅ **Konya** • ❌ Kırıkkale • ❌ Kırşehir • ✅ **Nevşehir** • ❌ Niğde • ✅ **Sivas** • ❌ Yozgat • ❌ Çankırı

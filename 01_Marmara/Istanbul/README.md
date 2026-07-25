@@ -1,6 +1,6 @@
-# 📍 İstanbul - Seyahat ve Tefekkür Notları
+# 📍 Istanbul - Seyahat ve Tefekkür Notları
 
-![İstanbul Manzarası](banner.jpg)
+![Istanbul Manzarası](banner.jpg)
 
 ## 📜 Şehrin Ruhu
 > "İstanbul bir ayna gibidir; ona yüzünü dönen, zamanın ve tarihin kalbinde kendi yansımasını görür."

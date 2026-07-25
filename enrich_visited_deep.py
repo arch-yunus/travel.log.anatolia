@@ -104,13 +104,29 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Travertenleri adım adım, milim milim oluşturan o incecik damlalar bize sadece 'damlaya damlaya göl olur' demez; 'israr ederek, damlaya damlaya imkansız doğa mucizeleri yaratılır' der. Dünyadaki her büyük güzelliğin ardında asırlık sessiz bir sabır ve yavaş ama tükenmez bir gayret yatar.\n\nHierapolis'in o büyüleyici mezarlık alanı (Nekropol), ölümün bile bir sanat, bir saygı ve bir huzur sükuneti içinde ele alınabileceğini gösterir. Pamuk gibi bembeyaz kalkerlerin altında yatan o fokurdayan kırmızı termal sular, insanın en dingin dış görünüşünün ardında bile sönmeyen, tutkulu bir ateş barındırdığının nişanesidir.",
         "gastronomi": "- **Denizli Kebabı (Fırın Kebabı):** Elle yenmesi adet olan, sakız odunu ateşinde taş fırınlarda pişen kuzu şöleni.\n- **Zafer Gazozu:** Bölgenin retro ve popüler serinleticisi.\n- **Yanık Yoğurt:** Bakır kazanlarda bilerek dibi tutturularak elde edilen özel isli lezzet.",
         "landmarks": ["Pamukkale Travertenleri", "Hierapolis Antik Kenti ve Antik Havuz", "Laodikeia Antik Kenti", "Karahayıt Kırmızı Su Suları", "Teleferik ve Bağbaşı Yaylası", "Güney Şelalesi"]
+    },
+    "Adana": {
+        "hikmet": "Seyhan ve Ceyhan'ın bereketiyle yıkanan bu sıcak topraklar, sadece bedeni değil, cömertliğiyle ruhu da doyurur.",
+        "quote": "\"Güneşin en dik açıyla vurduğu, pamuk tarlalarının beyazlığında alın terinin ve samimiyetin harmanlandığı sıcak Akdeniz kapısı.\"",
+        "description": "Toroslar'ın eteklerinden Akdeniz'e süzülen nehirlerin suladığı bereketli Çukurova'nın kalbi. Adana, enerjisi yüksek, insanı sıcak ve yaşam ritmi son derece canlı bir şehirdir. Tarihi Taşköprü'nün üzerinden geçen rüzgar, antik çağlardan bu yana kim bilir kaç medeniyetin hikayesini Seyhan'ın sularına fısıldamıştır. Kentin sokaklarında yürürken burnunuza çalınan o nefis kebap kokuları, esnafın sıcak selamlamaları ve portakal çiçeği mevsiminde şehri saran o büyüleyici koku, Adana'yı sadece bir coğrafya değil, bir yaşam coşkusu haline getirir.",
+        "sufi_notes": "Adana'nın yakıcı sıcağı, sabrın ve tahammülün bir imtihanı gibidir. Seyhan Nehri'nin kenarında oturup suların akışını izlemek, hayatın da bu nehir gibi durmaksızın akıp gittiğini, insana düşenin ise bu akışa ayak uydururken etrafına bereket saçmak olduğunu hatırlatır. Taşköprü'nün asırlık kemerleri, zamanın geçiciliğine karşı dik duran sarsılmaz birer şahit gibidir; tıpkı bu toprakların insanının her türlü zorluğa karşı gösterdiği o dirençli ve dik duruş gibi.",
+        "gastronomi": "- **Adana Kebabı:** Zırhla çekilmiş erkek koyun eti, kuyruk yağı ve pul biberin köz ateşindeki kusursuz dansı.\n- **Şalgam Suyu:** Kebap sofralarının acılı, mor mayalı ve asil eşlikçisi.\n- **Bici Bici:** Yaz sıcağında nişasta, buz ve şerbetin buz gibi serinleten ferahlığı.",
+        "landmarks": ["Tarihi Taşköprü", "Sabancı Merkez Camii", "Ulu Cami ve Ramazanoğulları Külliyesi", "Büyük Saat Kulesi", "Seyhan Baraj Gölü", "Varda Köprüsü (Alman Köprüsü)"]
+    },
+    "Hatay": {
+        "hikmet": "Medeniyetlerin ve inançların ortak sofrasında buluşan Hatay, barışın ve kardeşliğin ebedi yurdudur.",
+        "quote": "\"Tarihin en eski caddelerinde farklı ezan, çan ve hazzan seslerinin birbirine karıştığı hoşgörü bahçesi.\"",
+        "description": "Tarih boyunca 'Doğu'nun Kraliçesi' olarak anılan, Asi Nehri'nin tersine akışıyla nam saldığı kadim Antakya toprakları. Hatay, Hristiyanlığın ilk kiliselerinden St. Pierre'e, Anadolu'nun ilk camilerinden Habib-i Neccar'a ev sahipliği yapan, inançların ve kültürlerin binlerce yıldır barış içinde yan yana yaşadığı eşsiz bir mozaiktir. Sokaklarında yürürken Roma döneminden kalma taş sütunların izlerine rastlayabilir, dünyanın en zengin mozaik müzelerinden birinde zaman yolculuğuna çıkabilirsiniz. Hatay, her kültürden, her dilden ve her inançtan insanın ortak bir çatı altında kardeşçe yaşayabileceğinin en somut ve asil kanıtıdır.",
+        "sufi_notes": "Habib-i Neccar Camii'nin sessizliğinde oturup, hakikati haykıran o ilk inananların hikayesini düşünmek, ruha derin bir teslimiyet ve huzur aşılar. Farklı dinlerin tapınaklarının neredeyse sırt sırta verdiği bu şehir, insana 'yaradılanı severim Yaradan'dan ötürü' felsefesinin en somut halini gösterir. Asi Nehri'nin tersine akması gibi, buradaki manevi iklim de insana dünyanın bencil ve maddeci akışına karşı durmayı, sevgi ve barış yolunda tersine kürek çekmeyi öğretir.",
+        "gastronomi": "- **Antakya Künefesi:** Tuzsuz özel künefe peyniri, tel kadayıf ve sıcacık şerbetin közde pişen efsanesi.\n- **Tepsi Kebabı:** Zırh kıymasının baharatlar ve sosla fırın tepsisinde ağır ağır pişmesiyle oluşan şaheser.\n- **Humus:** Bol tahin, kimyon ve zeytinyağıyla sunulan, ılık ve enfes bir Akdeniz klasiği.",
+        "landmarks": ["Habib-i Neccar Camii", "St. Pierre Kilisesi", "Hatay Arkeoloji Müzesi", "Titus Tüneli ve Beşikli Mağara", "Tarihi Antakya Sokakları", "Harbiye Şelaleleri"]
     }
 }
 
 REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli"],
-    "03_Akdeniz": ["Antalya"],
+    "03_Akdeniz": ["Antalya", "Adana", "Hatay"],
     "04_IcAnadolu": ["Ankara", "Konya"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu"]
 }
