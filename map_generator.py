@@ -454,7 +454,7 @@ class MapGenerator:
                     folium.Marker(
                         location=coords,
                         popup=popup,
-                        tooltip=folium.Tooltip(city_raw, class_name="custom-tooltip"),
+                        tooltip=folium.Tooltip(f'{city_raw} - "{quote_text}"', class_name="custom-tooltip"),
                         icon=folium.DivIcon(
                             html=marker_html,
                             class_name="custom-pulsing-icon",
