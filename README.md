@@ -53,6 +53,15 @@ Bu repo, Anadolu'nun kadim yollarını adımlayan bir **seyyahın dijital seyir 
 *   **Açık Miras:** Edindiğimiz edinimleri, rotaları ve notları yollara sevdalı diğer yolcularla "açık kaynak" olarak paylaşmak.
 
 ---
+
+<p align="center">
+    <img src="04_IcAnadolu/Nevsehir/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Kapadokya Nevşehir">
+    <br>
+    <em style="display: block; text-align: center; font-size: 11px; color: #888;">"Kapadokya'nın masalsı vadilerinde zamanı ve mekânı unutuş..."</em>
+</p>
+
+---
+
 ## 🎒 Seyahat Metodolojisi: "Yarı Göçebe, Tam Seyyah"
 
 Bu seyir defteri rastgele bir turistik gezinin değil, net bir **Seyahat Disiplini**'nin ürünüdür. Seyahatlerimiz, T.C. Gençlik ve Spor Bakanlığı'nın sunduğu **"Seyahatsever"** projesi ekseninde, sırt çantalı bir *dijital göçebe (digital nomad)* mantığıyla kurgulanmıştır:
@@ -111,6 +120,16 @@ Terminalinize sadece `python cli.py` yazın ve arkanıza yaslanın.
 2. **🗺️ Update Interactive Map:** Koordinatları analiz edip `travel_map.html` dosyasını sıfırdan çizer.
 3. **📊 Quantum Dashboard:** Toplam istatistikleri ve vizyon haritasını konsola yansıtır.
 
+---
+
+<p align="center">
+    <img src="01_Marmara/Istanbul/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;" alt="İstanbul Boğazı">
+    <br>
+    <em style="display: block; text-align: center; font-size: 11px; color: #888;">"Asırların iç içe geçtiği, iki kıtanın secdesi İstanbul..."</em>
+</p>
+
+---
+
 ## ⚡ Yeni Nesil Özellikler (vPRO Features)
 
 Web platformumuz, seyahat tecrübesini dijital dünya ile kusursuzca birleştirmek amacıyla aşağıdaki modern özelliklerle donatılmıştır:
@@ -134,6 +153,14 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 *   **🏜️ Mezopotamya'nın Ninnisi (Güneydoğu Anadolu):** Mardin'in sarı kalker taşından oyulmuş dar sokaklarında ve abbaralarında zamanın durduğu hissini yaşamak, Kasımiye Medresesi'nin avlusunda akan suyun hayat hikayesini dinlemek...
 
 > *"Bütün yolculukların gizli bir amacı vardır ve yolcunun bundan haberi bile yoktur."* — **Martin Buber (Yahudi Düşünür)**
+
+---
+
+<p align="center">
+    <img src="03_Akdeniz/Antalya/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Antalya Kaleiçi">
+    <br>
+    <em style="display: block; text-align: center; font-size: 11px; color: #888;">"Akdeniz'in antik kodlarını taşıyan sıcacık limanı Antalya..."</em>
+</p>
 
 ---
 
@@ -238,6 +265,16 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Siirt
 - ❌ Şanlıurfa
 - ❌ Şırnak
+
+---
+
+<p align="center">
+    <img src="07_GuneydoguAnadolu/Mardin/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Mardin Mezopotamya">
+    <br>
+    <em style="display: block; text-align: center; font-size: 11px; color: #888;">"Mezopotamya ovasına bakan sarı taşların masalsı şehri Mardin..."</em>
+</p>
+
+---
 
 ## 🧬 Kavramsal ve Teknik Mimari (System Architecture)
 Bu seyir defteri, hem felsefi hem de dijital bir temele oturtulmuştur. Teknik altyapı, seyyah vizyonuna hizmet edecek şekilde tasarlanmıştır:
