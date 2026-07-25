@@ -1,5 +1,7 @@
 # 📍 Mersin - Seyahat ve Tefekkür Notları
 
+![Mersin Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Denizin ortasındaki kaleler ve derin obruklar, insanın hem içindeki derin dehlizleri hem de dış dünyadaki sığınakları aramasıdır."
 > "Toroslar'ın gölgesinde, Akdeniz'in tuzuyla yıkanan, antik Likya'dan bugüne uzanan narenciye kokulu sahil diyarı."

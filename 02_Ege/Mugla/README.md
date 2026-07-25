@@ -1,5 +1,7 @@
 # 📍 Mugla - Seyahat ve Tefekkür Notları
 
+![Mugla Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Mavinin yeşille kavuştuğu bu kıyılar, ruhunu dinlendirmek isteyen her seyyah için bir sığınaktır."
 > "Antik Likya ve Karia medeniyetlerinin gölgesinde, turkuaz suların zümrüt ormanlarla seviştiği ebedi mavi yolculuk."

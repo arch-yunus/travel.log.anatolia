@@ -1,5 +1,7 @@
 # 📍 Trabzon - Seyahat ve Tefekkür Notları
 
+![Trabzon Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Sarp kayalıkların sinesine kurulan mabetler, inancın hiçbir engel tanımadığının en somut nişanesidir."
 > "Hırçın dalgaların vurduğu kıyılardan, sisler altındaki yemyeşil yaylalara uzanan, tarihin vakur limanı."

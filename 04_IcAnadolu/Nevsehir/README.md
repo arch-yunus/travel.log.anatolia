@@ -1,5 +1,7 @@
 # 📍 Nevsehir - Seyahat ve Tefekkür Notları
 
+![Nevsehir Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Yerin altındaki gizli sığınaklar ve göğe uzanan peri bacaları, insana hem yerin altını hem de gökleri tefekkür ettirir."
 > "Milyonlarca yıllık lavların ve rüzgarın taşa fısıldadığı, masalsı balonların gökyüzünü süslediği güzel atlar ülkesi."

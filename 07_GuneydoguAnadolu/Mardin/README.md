@@ -1,5 +1,7 @@
 # 📍 Mardin - Seyahat ve Tefekkür Notları
 
+![Mardin Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Gecesi gerdanlık, gündüzü mezarlık olan bu taş şehir, ölüm ile yaşamın en estetik buluşma noktasıdır."
 > "Mezopotamya ovasına tepeden bakan, sarı kalker taşından oyulmuş masalsı ve kadim bir medeniyet kalesi."
