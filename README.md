@@ -4,9 +4,10 @@
 
 <p align="center">
     <!-- Dynamic Badges -->
+    <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/System-Quantum_Active-green?style=for-the-badge&logo=rocket&logoColor=white" alt="System">
     <img src="https://img.shields.io/badge/Regions-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Coverage-39.5%25-orange?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Coverage-42.0%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Tech-Python_Rich_%7C_Folium-black?style=for-the-badge&logo=python" alt="Tech">
     <br><br>
     <strong>🦅 "Yeni ufuklara yelken açan gezginlerin izinde..."</strong>
@@ -110,10 +111,21 @@ Terminalinize sadece `python cli.py` yazın ve arkanıza yaslanın.
 2. **🗺️ Update Interactive Map:** Koordinatları analiz edip `travel_map.html` dosyasını sıfırdan çizer.
 3. **📊 Quantum Dashboard:** Toplam istatistikleri ve vizyon haritasını konsola yansıtır.
 
+## ⚡ Yeni Nesil Özellikler (vPRO Features)
+
+Web platformumuz, seyahat tecrübesini dijital dünya ile kusursuzca birleştirmek amacıyla aşağıdaki modern özelliklerle donatılmıştır:
+
+*   **📊 İnteraktif Gösterge Paneli (Dashboard):** 81 il üzerindeki ilerlemeniz, bölgesel keşif oranları, tahmini seyahat süresi, kütüphane çalışma saatleri ve GSB Seyahatsever/KYK konaklama tasarruflarını tek ekranda sunan premium landing page.
+*   **🗺️ Google Haritalar & Canlı Koordinat Entegrasyonu:** Şehirlerin tam enlem ve boylam koordinatları üzerinden tek tıkla Google Haritalar'a yönlendirme.
+*   **📜 Sekmeli Şehir Portreleri:** Şehir detaylarını kalabalıklaştırmadan sunan *Portre, Keşif Rotaları, Yöresel Lezzetler* ve *Manevi Seyir* sekmeleri.
+*   **🎯 İnteraktif Durak/Mekan Takibi:** Lokasyon bazlı durakların (landmarks) tarayıcı hafızalı (`localStorage`) checkbox sistemi ile anlık olarak tamamlanma durumunun takibi ve ilerleme çubuğu.
+*   **💎 Premium Tasarım Dili (Glassmorphic):** Outfit ve Inter modern yazı tipleri, neon radial ışıma efektleri, yumuşak geçişler ve tam duyarlı (responsive) mobil uyumlu arayüz.
+
 ---
+
 ## 🗺️ Derinlemesine Keşfedilen Menziller (Unveiled Destinations)
 
-Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **20 eşsiz şehir** ve keşif durakları:
+Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **34 eşsiz şehir** ve keşif durakları:
 
 *   **🏰 İmparatorluklar Beşiği (Marmara):** İstanbul'un (Ayasofya, Galata) o manevi ve tarihi atmosferinden; Bursa'nın yeşil sükûnetine ve Osmanlı'nın kurucu iradesine tanıklık...
 *   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının ardındaki hakikati aramaktan; Karadeniz sahilinin yeşille maviyi kucaklayan zikrine karışmaya... Trabzon'un sisli yamaçlarındaki kartal yuvası Sümela Manastırı'nda inancın gücünü görme...
