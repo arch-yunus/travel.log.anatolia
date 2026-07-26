@@ -315,16 +315,52 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Munzur Gözeleri'nde kayaların arasından fışkıran buz gibi suların sesini dinlemek, yaşam pınarının ve ilahi yaratılışın durmaksızın fışkıran enerjisini hissetmektir. Yöre halkının dağ keçilerini kutsal sayması, doğadaki tüm canlılarla barış içinde yaşama felsefesinin en asil tezahürüdür. Dağların doruklarına çöken sis, insanın içsel dünyasındaki sır perdelerini aralaması için tefekkür imkanı sunar.",
         "gastronomi": "- **Munzur Sarımsaklı Tunceli Kavurması:** Munzur dağlarından toplanan yabani sarımsaklarla tatlandırılan kuzu eti.\n- **Zerefet (Babuko):** Fırında pişen sert hamurun içinin oyulup, tereyağı ve sarımsaklı yoğurt dökülerek yendiği yemek.\n- **Dut Pekmezi ve Pülümür Balı:** Tamamen organik çiçeklerden elde edilen şifalı bal.",
         "landmarks": ["Munzur Gözeleri", "Munzur Vadisi Milli Parkı", "Pülümür Çayı ve Kanyonu", "Kutudere Mesire Alanı", "Halbori Gözeleri", "Pertek Kalesi"]
+    },
+    "Canakkale": {
+        "library": "Çanakkale Mehmet Akif Ersoy İl Halk Kütüphanesi - Boğaz manzaralı terası ve geniş çalışma alanlarıyla seyyah yazılımcılar için mükemmel bir durak.",
+        "hikmet": "Tarihin en büyük savaşlarının yaşandığı bu topraklar, barışın ve kardeşliğin en kalıcı anıtıdır.",
+        "quote": "\"Boğazın serin rüzgarında destanların yankılandığı, Truva'dan Çanakkale Geçilmez destanına uzanan köprü.\"",
+        "description": "Marmara ile Ege'nin birleştiği, tarihin seyrini değiştiren savaşların yaşandığı kahraman şehir Çanakkale. Truva'nın binlerce yıllık mitolojik surlarından, Çanakkale Savaşı'nın yaşandığı Gelibolu Yarımadası'ndaki şehitliklere kadar burası tam bir destanlar coğrafyasıdır. Şehir, boğazın iki yakasında uzanan tarihi kaleleri, Aynalı Çarşısı ve kordon boyundaki huzurlu yürüyüş yollarıyla ziyaretçilerini kendine hayran bırakır.",
+        "sufi_notes": "Gelibolu Şehitliği'nde yatan binlerce vatan evladının ve yabancı askerin mezarları arasında yürürken, hayatın ne kadar kıymetli olduğunu ve savaşın acımasızlığını derinden tefekkür edersiniz. Truva atının gölgesinde ise güç ve hilenin geçici olduğunu, sadece hakikatin ve adaletin yarına kaldığını anlarsınız. Boğazın sularına vuran gün batımı, ruhu sakinleştiren ve içsel bir dinginliğe sevk eden eşsiz bir manzaradır.",
+        "gastronomi": "- **Peynir Helvası:** Fırınlanmış veya sade, tuzsuz peynirden yapılan Çanakkale'nin en meşhur tatlısı.\n- **Sardalya:** Boğazdan taze tutulan, asma yaprağında veya ızgarada sunulan nefis balık.\n- **Ezine Peyniri:** Kaz Dağları'nın esintisiyle beslenen koyun/keçi sütünden yapılan dünyaca ünlü peynir.",
+        "landmarks": ["Aynalı Çarşı", "Çanakkale Şehitler Abidesi", "Truva Antik Kenti", "Kilitbahir Kalesi", "Çanakkale Deniz Müzesi", "Asos Antik Kenti (Behramkale)"]
+    },
+    "Izmir": {
+        "library": "İzmir Atatürk İl Halk Kütüphanesi - Konak'ta yer alan, İzmir'in en köklü kütüphanelerinden biri. Çalışma alanları ferah, internet bağlantısı hızlı.",
+        "hikmet": "Ege'nin özgür rüzgarı ve parıldayan güneşi, insana hayatın her anını coşkuyla ve sevgiyle yaşamayı fısıldar.",
+        "quote": "\"Mavi denizin kıyısında, antik kütüphanelerin ve kordon boyundaki cıvıl cıvıl hayatın harmanlandığı Ege'nin incisi.\"",
+        "description": "Ege'nin kalbi, Türkiye'nin batıya açılan en aydınlık penceresi İzmir. Kordon boyundaki palmiyeleri, Tarihi Saat Kulesi, cıvıl cıvıl Kemeraltı Çarşısı ve hemen yanı başındaki antik dünyanın en büyük kenti Efes ile İzmir, hem modern bir metropol hem de devasa bir tarih hazinesidir. Şehir, insanının sıcaklığı, özgür ruhu ve körfezin getirdiği huzurla seyyahların vazgeçilmez duraklarından biridir.",
+        "sufi_notes": "Efes Antik Kenti'nin mermer caddelerinde yürürken, bir zamanlar binlerce insanın yaşadığı bu devasa şehrin şimdi sessiz harabelerden ibaret olmasını tefekkür edersiniz. Celsus Kütüphanesi'nin önünde durup insan aklının ve bilgisinin kalıcılığını hissedersiniz. Şirince'nin yeşil tepeleri arasındaki eski Rum evlerinin sessizliği, geçmişteki ortak yaşamın ve kültürlerin manevi zenginliğini ruhunuza fısıldar.",
+        "gastronomi": "- **Boyoz:** İzmir'in simgesi olan, sabahları fırından sıcak çıkan, haşlanmış yumurta eşliğindeki çıtır hamur işi.\n- **İzmir Kumrusu:** Nohut mayalı özel ekmek arasına şarküteri ürünleri ve İzmir tulumu konarak yapılan sandviç.\n- **Şambali:** İrmikli, şerbetli, üzeri fıstıklı ve tarçınlı geleneksel sokak tatlısı.",
+        "landmarks": ["Tarihi Saat Kulesi", "Efes Antik Kenti (Selçuk)", "Kemeraltı Çarşısı", "Kordon Boyu", "Tarihi Asansör", "Şirince Köyü"]
+    },
+    "Agri": {
+        "library": "Ağrı İl Halk Kütüphanesi - Soğuk Doğu ikliminde sıcak bir çalışma ortamı sunan, modern donanımlı kütüphane.",
+        "hikmet": "Ağrı Dağı'nın bulutları aşan heybeti, insana kendi küçüklüğünü ve yaratıcının büyüklüğünü hatırlatan sessiz bir mabettir.",
+        "quote": "\"Doğunun sınır çizgisinde, İshak Paşa Sarayı'nın masalsı silüetinin Ağrı Dağı'nın karlarıyla buluştuğu yüksek diyar.\"",
+        "description": "Türkiye'nin ve Avrupa'nın en yüksek zirvesi olan Ağrı Dağı'nın adını taşıyan, sınırlerin ve karlı dağların şehri Ağrı. Doğubayazıt ilçesinde, sarp kayalıkların üzerine adeta bir kartal yuvası gibi kurulmuş olan 18. yüzyıl Osmanlı şaheseri İshak Paşa Sarayı, Türk mimarlık tarihinin en görkemli yapılarından biridir. Şehir, sert iklimine rağmen misafirperver insanları ve kadim tarihiyle dikkat çeker.",
+        "sufi_notes": "İshak Paşa Sarayı'nın avlusunda durup aşağıdaki ovayı izlemek, dünyadaki krallıkların ve sarayların geçiciliğini, asıl kalıcı olanın ise sadece yaradanın yüceliği olduğunu derinden hissettirir. Ağrı Dağı'nın dumanlı zirvesine bakmak, dervişlerin manevi basamakları aşarak ulaştıkları o yüksek mertebeleri ve içsel zirveleri sembolize eder. Soğuk bozkır havası, zihni berraklaştıran ve içsel bir tefekküre davet eden bir atmosfere sahiptir.",
+        "gastronomi": "- **Abdigör Köftesi:** Doğubayazıt yöresine ait, taş üzerinde tokmakla dövülerek yapılan çok lezzetli ve hafif köfte.\n- **Ağrı Halisesi:** Tandırda uzun süre pişen buğday ve kemiksiz etin dövülerek bulamaç haline getirilmesi.\n- **Kete:** Doğu Anadolu'nun geleneksel içli veya sade fırınlanmış hamur işi lezzeti.",
+        "landmarks": ["İshak Paşa Sarayı", "Ağrı Dağı Milli Parkı", "Doğubayazıt Kalesi", "Meteor Çukuru", "Nuh'un Gemisi İzleri", "Diyadin Kaplıcaları"]
+    },
+    "Van": {
+        "library": "Van İl Halk Kütüphanesi - Van Gölü'nün maviliği yakınlarında, ferah ve geniş çalışma salonlarıyla seyyah yazılımcılar için ideal.",
+        "hikmet": "Van Gölü'nün turkuaz sularındaki Akdamar Kilisesi, farklı inançların aynı coğrafyada bıraktığı barışçıl izlerin nişanesidir.",
+        "quote": "\"Urartuların kadim başkentinde, Van Denizi'nin turkuaz maviliğinde süzülen Akdamar Adası'nın efsunlu hikayesi.\"",
+        "description": "Doğu Anadolu'nun en büyük gölü olan Van Gölü'nün (halk arasındaki adıyla Van Denizi) kıyısında kurulu, Urartuların tarihi başkenti Van. Akdamar Adası'ndaki tarihi kilisesi, sarp kayalıklar üzerine kurulu görkemli Van Kalesi, dünyaca ünlü Van Kedisi ve eşsiz kahvaltı kültürüyle Van, bölgenin en canlı ve kültürel açıdan en zengin şehridir.",
+        "sufi_notes": "Akdamar Kilisesi'nin dış duvarlarındaki Tevrat ve İncil hikayelerini anlatan kabartmaları incelerken, insan elinin ve inancının taşa işlediği o asırlık estetiği tefekkür edersiniz. Van Gölü'nün sodalı, turkuaz sularında batan güneşi Van Kalesi'nden izlemek, Urartu krallarından bugüne geçen binlerce yıllık zamanın akıp gidişini ve insanoğlunun yeryüzündeki kısa yolculuğunu hissettirir.",
+        "gastronomi": "- **Van Kahvaltısı:** Otlu peynirden murtuğaya, kavuttan süzme bala kadar onlarca çeşidin sunulduğu dünyaca ünlü kahvaltı.\n- **Sengser:** Kurutulmuş süzme yoğurt (kurut), yeşil mercimek ve kuzu etiyle yapılan yöresel lezzet.\n- **Keledoş:** Baklagiller, buğday, et ve kurut sosunun karıştırılarak yapıldığı tescilli Van yemeği.",
+        "landmarks": ["Van Kalesi (Tuşpa)", "Akdamar Adası ve Kilisesi", "Van Kedisi Evi", "Muradiye Şelalesi", "Hoşap Kalesi", "Van Müzesi"]
     }
 }
 
 REGIONS_MAP = {
-    "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
-    "02_Ege": ["Denizli", "Mugla"],
+    "01_Marmara": ["Istanbul", "Kocaeli", "Bursa", "Canakkale"],
+    "02_Ege": ["Denizli", "Mugla", "Izmir"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
     "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
-    "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli"],
+    "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri", "Van"],
     "07_GuneydoguAnadolu": ["Mardin"]
 }
 

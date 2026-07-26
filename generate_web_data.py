@@ -62,6 +62,9 @@ def main():
         if city_name == "Eskişehir": lookup_key = "Eskisehir"
         if city_name == "Gümüşhane": lookup_key = "Gumushane"
         if city_name == "Elazığ": lookup_key = "Elazig"
+        if city_name == "Çanakkale": lookup_key = "Canakkale"
+        if city_name == "İzmir": lookup_key = "Izmir"
+        if city_name == "Ağrı": lookup_key = "Agri"
         
         region_dir, folder_name = _find_city_path(city_name)
         if not region_dir:

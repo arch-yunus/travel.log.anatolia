@@ -7,7 +7,7 @@
     <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/System-Quantum_Active-green?style=for-the-badge&logo=rocket&logoColor=white" alt="System">
     <img src="https://img.shields.io/badge/Regions-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Coverage-42.0%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Coverage-48.1%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Tech-Python_Rich_%7C_Folium-black?style=for-the-badge&logo=python" alt="Tech">
     <br><br>
     <strong>🦅 "Yeni ufuklara yelken açan gezginlerin izinde..."</strong>
@@ -166,12 +166,12 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %42.0 (34 / 81 İl)
-🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
-**🏰 Marmara Bölgesi (3/11)**
+**🏰 Marmara Bölgesi (4/11)**
 - ❌ Balıkesir
 - ❌ Bilecik
 - ✅ **Bursa**
@@ -181,10 +181,10 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Sakarya
 - ❌ Tekirdağ
 - ❌ Yalova
-- ❌ Çanakkale
+- ✅ **Çanakkale**
 - ✅ **İstanbul**
 
-**🌊 Ege Bölgesi (2/8)**
+**🌊 Ege Bölgesi (3/8)**
 - ❌ Afyonkarahisar
 - ❌ Aydın
 - ✅ **Denizli**
@@ -192,7 +192,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Manisa
 - ✅ **Muğla**
 - ❌ Uşak
-- ❌ İzmir
+- ✅ **İzmir**
 
 **☀️ Akdeniz Bölgesi (5/8)**
 - ✅ **Adana**
@@ -239,9 +239,9 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Zonguldak
 - ✅ **Çorum**
 
-**🏔️ Doğu Anadolu Bölgesi (7/14)**
+**🏔️ Doğu Anadolu Bölgesi (9/14)**
 - ✅ **Ardahan**
-- ❌ Ağrı
+- ✅ **Ağrı**
 - ❌ Bingöl
 - ❌ Bitlis
 - ✅ **Elazığ**
@@ -253,15 +253,15 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ✅ **Malatya**
 - ❌ Muş
 - ✅ **Tunceli**
-- ❌ Van
+- ✅ **Van**
 
-**🏜️ G.Doğu Anadolu Bölgesi (0/9)**
+**🏜️ G.Doğu Anadolu Bölgesi (1/9)**
 - ❌ Adıyaman
 - ❌ Batman
 - ❌ Diyarbakır
 - ❌ Gaziantep
 - ❌ Kilis
-- ❌ Mardin
+- ✅ **Mardin**
 - ❌ Siirt
 - ❌ Şanlıurfa
 - ❌ Şırnak
