@@ -129,6 +129,61 @@ document.addEventListener("DOMContentLoaded", () => {
         }
     }
 
+    // Interactive Calculator Logic
+    function initCalculator() {
+        const hotelInput = document.getElementById("hotel-rate");
+        const foodInput = document.getElementById("food-rate");
+        const travelInput = document.getElementById("travel-rate");
+        
+        if (!hotelInput || !foodInput || !travelInput) return;
+        
+        const hotelVal = document.getElementById("hotel-rate-val");
+        const foodVal = document.getElementById("food-rate-val");
+        const travelVal = document.getElementById("travel-rate-val");
+        
+        const savingsEl = document.getElementById("calc-savings");
+        const costEl = document.getElementById("calc-cost");
+        const profitEl = document.getElementById("calc-profit");
+        
+        const visitedCount = Object.keys(cities).length;
+        
+        function updateCalculations() {
+            const hotelRate = parseInt(hotelInput.value);
+            const foodRate = parseInt(foodInput.value);
+            const travelRate = parseInt(travelInput.value);
+            
+            // Update labels
+            hotelVal.innerText = hotelRate;
+            foodVal.innerText = foodRate;
+            travelVal.innerText = travelRate;
+            
+            // Calculate
+            const totalDays = visitedCount * 5;
+            const savings = totalDays * hotelRate;
+            const cost = (totalDays * foodRate) + (visitedCount * travelRate);
+            const profit = savings - cost;
+            
+            // Format currency helper
+            const formatCurrency = (val) => {
+                return new Intl.NumberFormat('tr-TR', { 
+                    style: 'currency', 
+                    currency: 'TRY', 
+                    maximumFractionDigits: 0 
+                }).format(val);
+            };
+            
+            savingsEl.innerText = formatCurrency(savings);
+            costEl.innerText = formatCurrency(cost);
+            profitEl.innerText = formatCurrency(profit);
+        }
+        
+        hotelInput.addEventListener("input", updateCalculations);
+        foodInput.addEventListener("input", updateCalculations);
+        travelInput.addEventListener("input", updateCalculations);
+        
+        updateCalculations();
+    }
+
     // Render dashboard overview (Landing page when no city is active)
     function renderDashboard() {
         activeCity = null;
@@ -219,8 +274,44 @@ document.addEventListener("DOMContentLoaded", () => {
                         <div class="stat-icon-wrapper" style="background: rgba(230, 126, 34, 0.15); color: #e67e22;">
                             <svg width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><path d="M4 19.5A2.5 2.5 0 0 1 6.5 17H20"/><path d="M6.5 2H20v20H6.5A2.5 2.5 0 0 1 4 19.5v-15A2.5 2.5 0 0 1 6.5 2z"/></svg>
                         </div>
-                        <div class="stat-val">${visitedCount * 4} Saat</div>
+                        <div class="stat-val">${visitedCount * 4 * 5} Saat</div>
                         <div class="stat-label">Kütüphane Çalışması</div>
+                    </div>
+                </div>
+
+                <!-- Interactive Budget Calculator -->
+                <div class="calculator-card glass">
+                    <h4>💰 GSB Seyahatsever & Bütçe Analizi</h4>
+                    <p class="calc-subtitle">KYK yurtlarında konaklayarak sağladığınız tasarrufu ve seyahat bütçenizi simüle edin.</p>
+                    
+                    <div class="calc-inputs">
+                        <div class="calc-input-group">
+                            <label for="hotel-rate">Otel Gecelik Ücreti (TL): <span id="hotel-rate-val">1500</span> TL</label>
+                            <input type="range" id="hotel-rate" min="500" max="5000" step="100" value="1500">
+                        </div>
+                        <div class="calc-input-group">
+                            <label for="food-rate">Günlük Yemek Bütçesi (TL): <span id="food-rate-val">300</span> TL</label>
+                            <input type="range" id="food-rate" min="100" max="1500" step="50" value="300">
+                        </div>
+                        <div class="calc-input-group">
+                            <label for="travel-rate">Şehirlerarası Ulaşım (TL): <span id="travel-rate-val">500</span> TL</label>
+                            <input type="range" id="travel-rate" min="100" max="2500" step="50" value="500">
+                        </div>
+                    </div>
+                    
+                    <div class="calc-results">
+                        <div class="calc-result-item">
+                            <span class="calc-result-label">🏠 KYK Konaklama Tasarrufu:</span>
+                            <span class="calc-result-val savings" id="calc-savings">0 TL</span>
+                        </div>
+                        <div class="calc-result-item">
+                            <span class="calc-result-label">🚌 Ulaşım & Yemek Maliyeti:</span>
+                            <span class="calc-result-val cost" id="calc-cost">0 TL</span>
+                        </div>
+                        <div class="calc-result-item highlight">
+                            <span class="calc-result-label">💡 Net Finansal Kazanç:</span>
+                            <span class="calc-result-val profit" id="calc-profit">0 TL</span>
+                        </div>
                     </div>
                 </div>
 
@@ -259,6 +350,8 @@ document.addEventListener("DOMContentLoaded", () => {
                 </div>
             </div>
         `;
+        
+        initCalculator();
     }
 
     // Exposed function for highlight clicks

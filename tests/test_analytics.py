@@ -39,6 +39,21 @@ class TestTravelLogAnalytics(unittest.TestCase):
         result = analytics.scan_region("99_Uzay")
         
         self.assertIsNone(result)
+        
+    def test_scan_region_with_readme(self):
+        # Create a mock README.md marking only Istanbul as visited
+        with open("README.md", "w", encoding="utf-8") as f:
+            f.write("# 🇹🇷 TRAVEL LOG\n\n- ✅ **Istanbul**\n- ❌ Bursa\n")
+            
+        os.makedirs(os.path.join(self.test_dir, self.region_name, "Bursa", "Ulu_Cami"))
+        
+        analytics = TravelLogAnalytics(root_dir=self.test_dir)
+        result = analytics.scan_region(self.region_name)
+        
+        # Istanbul is in README and has folder -> counted
+        # Bursa has folder but is NOT in README -> not counted
+        self.assertEqual(result["cities"], 1)
+        self.assertEqual(result["locations"], 1)
 
 if __name__ == '__main__':
     unittest.main()

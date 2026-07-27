@@ -1,4 +1,13 @@
 import sys
+import os
+
+# Reconfigure stdout to use UTF-8 to prevent Unicode crashes on Windows terminals
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 import argparse
 from rich.console import Console
 from rich.panel import Panel
@@ -69,8 +78,9 @@ class TravelCLI:
             "[bold cyan]2.[/bold cyan] 🗺️  Manevi Seyir Haritasını Çiz (Update Map)\n"
             "[bold cyan]3.[/bold cyan] 📊 Keşif Tablosu (Dashboard)\n"
             "[bold cyan]4.[/bold cyan] 🔍 Kayıtları ve Anıları Ara (Deep Search)\n"
-            "[bold cyan]5.[/bold cyan] 📦 Veriyi Dışarı Aktar (Export)\n"
-            "[bold cyan]6.[/bold cyan] ❌ Sistemi Kapat (Exit)\n"
+            "[bold cyan]5.[/bold cyan] 💰 Bütçe & Tasarruf Analizi (Budget Calculator)\n"
+            "[bold cyan]6.[/bold cyan] 📦 Veriyi Dışarı Aktar (Export)\n"
+            "[bold cyan]7.[/bold cyan] ❌ Sistemi Kapat (Exit)\n"
         )
         
         panel = Panel(
@@ -209,37 +219,110 @@ class TravelCLI:
                 Prompt.ask("\n[bold yellow][MENÜYE DÖNMEK İÇİN ENTER'A BAS][/bold yellow]")
 
             elif choice == "5":
-                export_file = f"export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
-                console.print(f"[bold cyan]>> Seyahat verileri {export_file} dosyasına derleniyor...[/bold cyan]")
-                
-                export_data = {"regions": {}}
-                
-                for region in self.analytics.REGIONS:
-                    if os.path.exists(region):
-                        export_data["regions"][region] = []
-                        for city in os.listdir(region):
-                            city_path = os.path.join(region, city)
-                            if os.path.isdir(city_path):
-                                city_details = {"city": city, "locations": []}
-                                for loc in os.listdir(city_path):
-                                    loc_path = os.path.join(city_path, loc)
-                                    if os.path.isdir(loc_path):
-                                        city_details["locations"].append(loc)
-                                export_data["regions"][region].append(city_details)
-                
-                try:
-                    with open(export_file, "w", encoding="utf-8") as f:
-                        json.dump(export_data, f, ensure_ascii=False, indent=4)
-                    console.print(f"[bold green]>> Veriler başarıyla aktarıldı: {export_file}[/bold green]")
-                except Exception as e:
-                    console.print(f"[bold red]>> Aktarım sırasında hata oluştu: {e}[/bold red]")
-                time.sleep(1)
+                self.run_budget_analysis()
             elif choice == "6":
+                export_file = f"export_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+                self.export_data_to_file(export_file)
+                self.export_data_to_file("travel_data.json")
+                time.sleep(1)
+            elif choice == "7":
                 console.print("[bold green]>> Sistem Kapatıldı. İyi yolculuklar.[/bold green]")
                 break
             else:
                 console.print("[bold red]>> GEÇERSİZ KOMUT.[/bold red]")
                 time.sleep(0.5)
+
+    def export_data_to_file(self, filename="travel_data.json"):
+        console.print(f"[bold cyan]>> Seyahat verileri {filename} dosyasına derleniyor...[/bold cyan]")
+        data = []
+        regions = [
+            "01_Marmara", "02_Ege", "03_Akdeniz", "04_IcAnadolu",
+            "05_Karadeniz", "06_DoguAnadolu", "07_GuneydoguAnadolu"
+        ]
+        for r in regions:
+            if not os.path.exists(r):
+                continue
+            for city in os.listdir(r):
+                city_path = os.path.join(r, city)
+                if not os.path.isdir(city_path):
+                    continue
+                
+                subdirs = [d for d in os.listdir(city_path) if os.path.isdir(os.path.join(city_path, d))]
+                
+                if not subdirs:
+                    readme_path = os.path.join(city_path, "README.md")
+                    if os.path.exists(readme_path):
+                        data.append({
+                            "region": city,
+                            "city": "Unknown",
+                            "location": "Unknown",
+                            "path": readme_path.replace("/", "\\"),
+                            "size_bytes": os.path.getsize(readme_path)
+                        })
+                else:
+                    for s in subdirs:
+                        readme_path = os.path.join(city_path, s, "README.md")
+                        if os.path.exists(readme_path):
+                            data.append({
+                                "region": city,
+                                "city": s,
+                                "location": "Unknown",
+                                "path": readme_path.replace("/", "\\"),
+                                "size_bytes": os.path.getsize(readme_path)
+                            })
+        try:
+            with open(filename, "w", encoding="utf-8") as f:
+                json.dump(data, f, ensure_ascii=False, indent=4)
+            console.print(f"[bold green]>> Veriler başarıyla aktarıldı: {filename}[/bold green]")
+        except Exception as e:
+            console.print(f"[bold red]>> Aktarım sırasında hata oluştu: {e}[/bold red]")
+
+    def run_budget_analysis(self):
+        console.print("\n[bold cyan]>>> BÜTÇE & TASARRUF HESAPLAYICI (vPRO) <<<[/bold cyan]")
+        console.print("GSB Seyahatsever kapsamında KYK yurtlarında kalarak elde ettiğiniz konaklama tasarrufunu hesaplayın.\n")
+        
+        visited_cities = self.analytics.get_visited_cities()
+        visited_count = len(visited_cities)
+        
+        if visited_count == 0:
+            console.print("[bold yellow]>> UYARI: Henüz ziyaret edilmiş bir şehir bulunmuyor![/bold yellow]")
+            Prompt.ask("\n[bold yellow][MENÜYE DÖNMEK İÇİN ENTER'A BAS][/bold yellow]")
+            return
+
+        hotel_input = Prompt.ask("[bold green]yolcu@seyahat:~[/bold green] Ortalama Otel Gecelik Ücreti (TL)", default="1500")
+        food_input = Prompt.ask("[bold green]yolcu@seyahat:~[/bold green] Günlük Yemek Bütçesi (TL)", default="300")
+        travel_input = Prompt.ask("[bold green]yolcu@seyahat:~[/bold green] Şehirlerarası Ortalama Ulaşım (TL)", default="500")
+        
+        try:
+            hotel_rate = int(hotel_input)
+            food_rate = int(food_input)
+            travel_rate = int(travel_input)
+        except ValueError:
+            console.print("[bold red]>> GEÇERSİZ DEĞER. Sayısal değerler girmelisiniz.[/bold red]")
+            time.sleep(1.5)
+            return
+            
+        total_days = visited_count * 5
+        savings = total_days * hotel_rate
+        cost = (total_days * food_rate) + (visited_count * travel_rate)
+        profit = savings - cost
+        study_hours = total_days * 4
+        
+        table = Table(title="[bold green]Bütçe ve Tasarruf Sonuç Raporu[/bold green]", show_header=True, header_style="bold magenta")
+        table.add_column("Parametre", style="cyan")
+        table.add_column("Değer / Sonuç", justify="right", style="bold white")
+        
+        table.add_row("Ziyaret Edilen İl Sayısı", f"{visited_count} İl")
+        table.add_row("Sahada Geçen Toplam Gün (5 Gün Kuralı)", f"{total_days} Gün")
+        table.add_row("Kütüphane Çalışma / Upskilling Süresi", f"{study_hours} Saat")
+        table.add_row("🏠 Toplam KYK Konaklama Tasarrufu", f"{savings:,} TL".replace(",", "."))
+        table.add_row("🚌 Toplam Seyahat Maliyeti (Yemek+Yol)", f"{cost:,} TL".replace(",", "."))
+        
+        profit_color = "green" if profit >= 0 else "red"
+        table.add_row("💡 Net Finansal Kazanç", f"[{profit_color}]{profit:,} TL[/{profit_color}]".replace(",", "."))
+        
+        console.print(table)
+        Prompt.ask("\n[bold yellow][MENÜYE DÖNMEK İÇİN ENTER'A BAS][/bold yellow]")
 
     def main(self):
         parser = argparse.ArgumentParser(description="Seyahatname vPRO")
@@ -248,6 +331,7 @@ class TravelCLI:
         subparsers.add_parser("add", help="New Entry")
         subparsers.add_parser("map", help="Update Map")
         subparsers.add_parser("stats", help="Show Dashboard")
+        subparsers.add_parser("export", help="Export travel data to JSON")
         
         args = parser.parse_args()
         
@@ -257,6 +341,8 @@ class TravelCLI:
             self.map_gen.generate_map()
         elif args.command == "stats":
             self.analytics.run_analysis()
+        elif args.command == "export":
+            self.export_data_to_file("travel_data.json")
         else:
             self.interactive_mode()
 

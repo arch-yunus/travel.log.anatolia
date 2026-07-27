@@ -10,6 +10,13 @@ from rich.align import Align
 from rich.live import Live
 from rich.progress import track
 
+# Reconfigure stdout to use UTF-8 to prevent Unicode crashes on Windows terminals
+if hasattr(sys.stdout, "reconfigure"):
+    try:
+        sys.stdout.reconfigure(encoding="utf-8")
+    except Exception:
+        pass
+
 console = Console()
 
 class TravelLogAnalytics:
@@ -26,23 +33,60 @@ class TravelLogAnalytics:
             "total_locations": 0,
         }
 
-    def scan_region(self, region_name):
+    def _normalize(self, name):
+        tr_to_en = {
+            'ı': 'i', 'I': 'I', 'İ': 'I', 'i': 'i',
+            'ğ': 'g', 'Ğ': 'G',
+            'ü': 'u', 'Ü': 'U',
+            'ş': 's', 'Ş': 'S',
+            'ö': 'o', 'Ö': 'O',
+            'ç': 'c', 'Ç': 'C'
+        }
+        name = name.translate(str.maketrans(tr_to_en))
+        return name.lower().strip()
+
+    def get_visited_cities(self):
+        visited = set()
+        readme_path = os.path.join(self.root_dir, "README.md")
+        if os.path.exists(readme_path):
+            import re
+            try:
+                with open(readme_path, "r", encoding="utf-8") as f:
+                    content = f.read()
+                matches = re.findall(r"✅ \*\*([^\*]+)\*\*", content)
+                for m in matches:
+                    visited.add(self._normalize(m.strip()))
+            except Exception:
+                pass
+        return visited
+
+    def scan_region(self, region_name, visited_set=None):
         """Scans a single region directory."""
         if not os.path.exists(region_name):
             return None
+
+        # Compatibility for tests: if no README exists, count all
+        readme_path = os.path.join(self.root_dir, "README.md")
+        if not os.path.exists(readme_path):
+            is_visited = lambda c: True
+        else:
+            if visited_set is None:
+                visited_set = self.get_visited_cities()
+            is_visited = lambda c: self._normalize(c) in visited_set
 
         data = {"cities": 0, "locations": 0}
         try:
             for city in os.listdir(region_name):
                 city_path = os.path.join(region_name, city)
                 if os.path.isdir(city_path):
-                    data["cities"] += 1
-                    location_count = 0
-                    for loc in os.listdir(city_path):
-                        loc_path = os.path.join(city_path, loc)
-                        if os.path.isdir(loc_path):
-                            location_count += 1
-                    data["locations"] += location_count
+                    if is_visited(city):
+                        data["cities"] += 1
+                        location_count = 0
+                        for loc in os.listdir(city_path):
+                            loc_path = os.path.join(city_path, loc)
+                            if os.path.isdir(loc_path):
+                                location_count += 1
+                        data["locations"] += location_count
         except Exception as e:
             # Silently handle unreadable or empty subdirectories
             pass
@@ -56,11 +100,11 @@ class TravelLogAnalytics:
         l_count = str(self.stats['total_locations'])
         
         dashboard_content = (
-            "[bold cyan]           _    ____  ____   ___  [/bold cyan]\n"
-            "[bold cyan]     __  _| |_ |  _ \|  _ \ / _ \ [/bold cyan]\n"
-            "[bold cyan]     \ \/ /   \| |_) | |_) | | | |[/bold cyan]\n"
-            "[bold cyan]      \  /| |_) |  __/|  _ <| |_| |[/bold cyan]\n"
-            "[bold cyan]       \/ |____/|_|   |_| \_\\\\___/ [/bold cyan]\n\n"
+            r"[bold cyan]           _    ____  ____   ___  [/bold cyan]" + "\n"
+            r"[bold cyan]     __  _| |_ |  _ \|  _ \ / _ \ [/bold cyan]" + "\n"
+            r"[bold cyan]     \ \/ /   \| |_) | |_) | | | |[/bold cyan]" + "\n"
+            r"[bold cyan]      \  /| |_) |  __/|  _ <| |_| |[/bold cyan]" + "\n"
+            r"[bold cyan]       \/ |____/|_|   |_| \_\\___/ [/bold cyan]" + "\n\n"
             f"[cyan]REGIONS:[/cyan] [bold white]{r_count}[/bold white] │ "
             f"[cyan]CITIES:[/cyan] [bold white]{c_count}[/bold white] │ "
             f"[green]LOCATIONS:[/green] [bold white]{l_count}[/bold white]\n"
@@ -99,8 +143,15 @@ class TravelLogAnalytics:
         
         region_data = []
 
+        visited_set = self.get_visited_cities()
+        self.stats = {
+            "total_regions": 0,
+            "total_cities": 0,
+            "total_locations": 0,
+        }
+
         for region in self.REGIONS:
-            result = self.scan_region(region)
+            result = self.scan_region(region, visited_set=visited_set)
             
             region_cities = 0
             region_locations = 0
