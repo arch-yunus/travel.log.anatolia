@@ -7,7 +7,7 @@
     <a href="https://resilient-semifreddo-6651ec.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Live_Demo-resilient_semifreddo-00f2fe?style=for-the-badge&logo=netlify&logoColor=white" alt="Live Demo"></a>
     <img src="https://img.shields.io/badge/System-Quantum_Active-green?style=for-the-badge&logo=rocket&logoColor=white" alt="System">
     <img src="https://img.shields.io/badge/Regions-7%2F7-blue?style=for-the-badge&logo=map&logoColor=white" alt="Regions">
-    <img src="https://img.shields.io/badge/Coverage-48.1%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
+    <img src="https://img.shields.io/badge/Coverage-45.7%25-brightgreen?style=for-the-badge&logo=target" alt="Coverage">
     <img src="https://img.shields.io/badge/Tech-Python_Rich_%7C_Folium-black?style=for-the-badge&logo=python" alt="Tech">
     <br><br>
     <strong>🦅 "Yeni ufuklara yelken açan gezginlerin izinde..."</strong>
@@ -144,13 +144,12 @@ Web platformumuz, seyahat tecrübesini dijital dünya ile kusursuzca birleştirm
 
 ## 🗺️ Derinlemesine Keşfedilen Menziller (Unveiled Destinations)
 
-Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **34 eşsiz şehir** ve keşif durakları:
+Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri takip ettiğimiz **37 eşsiz şehir** ve keşif durakları:
 
 *   **🏰 İmparatorluklar Beşiği (Marmara):** İstanbul'un (Ayasofya, Galata) o manevi ve tarihi atmosferinden; Bursa'nın yeşil sükûnetine ve Osmanlı'nın kurucu iradesine tanıklık...
 *   **🌲 Doğanın ve Kararlılığın Sesi (Karadeniz):** Amasya'da Ferhat'ın dağı delen aşkının ardındaki hakikati aramaktan; Karadeniz sahilinin yeşille maviyi kucaklayan zikrine karışmaya... Trabzon'un sisli yamaçlarındaki kartal yuvası Sümela Manastırı'nda inancın gücünü görme...
-*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye... Nevşehir/Kapadokya'da peri bacalarının rüzgarla fısıldaşmasını ve yerin altındaki sığınakların dar geçitlerini tefekkür etme...
+*   **🌾 Bozkırın Dingin Ruhu (İç Anadolu):** Konya'da Celaleddin Rumi'nin felsefe ve hoşgörü ocağından geçerek; Ankara'nın Cumhuriyet'in temellerini atan vakur duruşunu hissetmeye... Nevşehir/Kapadokya'da peri bacalarının rüzgarla fısıldaşmasını tefekkür etme... Kayseri'de Erciyes'in gölgesindeki Selçuklu mirasını adımlamak ve Kırşehir'de ulu ozanların sazıyla yankılanan bozkırın manevi sesine kulak vermek...
 *   **🌊 Antik Kodların Fısıltısı (Akdeniz & Ege):** Antalya'nın kadim taşlarında asırların geçiciliğini okumaktan; Denizli'nin şifalı doğası ve tarihi dokusuyla iç içe geçmeye... Muğla'da turkuaz suların zümrüt ormanlarla seviştiği koylardan Kayaköy'ün hüzünlü hayalet sokaklarına uzanan yolculuk... Mersin'de denizin ortasındaki Kızkalesi'nden Cennet-Cehennem obruklarının serin derinliklerine inme...
-*   **🏜️ Mezopotamya'nın Ninnisi (Güneydoğu Anadolu):** Mardin'in sarı kalker taşından oyulmuş dar sokaklarında ve abbaralarında zamanın durduğu hissini yaşamak, Kasımiye Medresesi'nin avlusunda akan suyun hayat hikayesini dinlemek...
 
 > *"Bütün yolculukların gizli bir amacı vardır ve yolcunun bundan haberi bile yoktur."* — **Martin Buber (Yahudi Düşünür)**
 
@@ -166,12 +165,12 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %48.1 (39 / 81 İl)
-🟩🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %45.7 (37 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
-**🏰 Marmara Bölgesi (4/11)**
+**🏰 Marmara Bölgesi (3/11)**
 - ❌ Balıkesir
 - ❌ Bilecik
 - ✅ **Bursa**
@@ -181,10 +180,10 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Sakarya
 - ❌ Tekirdağ
 - ❌ Yalova
-- ✅ **Çanakkale**
+- ❌ Çanakkale
 - ✅ **İstanbul**
 
-**🌊 Ege Bölgesi (3/8)**
+**🌊 Ege Bölgesi (2/8)**
 - ❌ Afyonkarahisar
 - ❌ Aydın
 - ✅ **Denizli**
@@ -192,7 +191,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Manisa
 - ✅ **Muğla**
 - ❌ Uşak
-- ✅ **İzmir**
+- ❌ İzmir
 
 **☀️ Akdeniz Bölgesi (5/8)**
 - ✅ **Adana**
@@ -204,15 +203,15 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ✅ **Mersin**
 - ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (6/13)**
+**🌾 İç Anadolu Bölgesi (8/13)**
 - ✅ **Aksaray**
 - ✅ **Ankara**
 - ✅ **Eskişehir**
 - ❌ Karaman
-- ❌ Kayseri
+- ✅ **Kayseri**
 - ✅ **Konya**
 - ❌ Kırıkkale
-- ❌ Kırşehir
+- ✅ **Kırşehir**
 - ✅ **Nevşehir**
 - ❌ Niğde
 - ✅ **Sivas**
@@ -239,7 +238,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ❌ Zonguldak
 - ✅ **Çorum**
 
-**🏔️ Doğu Anadolu Bölgesi (9/14)**
+**🏔️ Doğu Anadolu Bölgesi (8/14)**
 - ✅ **Ardahan**
 - ✅ **Ağrı**
 - ❌ Bingöl
@@ -253,28 +252,18 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ✅ **Malatya**
 - ❌ Muş
 - ✅ **Tunceli**
-- ✅ **Van**
+- ❌ Van
 
-**🏜️ G.Doğu Anadolu Bölgesi (1/9)**
+**🏜️ G.Doğu Anadolu Bölgesi (0/9)**
 - ❌ Adıyaman
 - ❌ Batman
 - ❌ Diyarbakır
 - ❌ Gaziantep
 - ❌ Kilis
-- ✅ **Mardin**
+- ❌ Mardin
 - ❌ Siirt
 - ❌ Şanlıurfa
 - ❌ Şırnak
-
----
-
-<p align="center">
-    <img src="07_GuneydoguAnadolu/Mardin/banner.jpg" style="max-width: 100%; height: auto; border-radius: 10px;" alt="Mardin Mezopotamya">
-    <br>
-    <em style="display: block; text-align: center; font-size: 11px; color: #888;">"Mezopotamya ovasına bakan sarı taşların masalsı şehri Mardin..."</em>
-</p>
-
----
 
 ## 🧬 Kavramsal ve Teknik Mimari (System Architecture)
 Bu seyir defteri, hem felsefi hem de dijital bir temele oturtulmuştur. Teknik altyapı, seyyah vizyonuna hizmet edecek şekilde tasarlanmıştır:

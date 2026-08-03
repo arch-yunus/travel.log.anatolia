@@ -29,10 +29,10 @@
     },
     {
         "region": "Canakkale",
-        "city": "Truva",
+        "city": "Unknown",
         "location": "Unknown",
-        "path": "01_Marmara\\Canakkale\\Truva\\README.md",
-        "size_bytes": 1228
+        "path": "01_Marmara\\Canakkale\\README.md",
+        "size_bytes": 551
     },
     {
         "region": "Balikesir",
@@ -92,24 +92,10 @@
     },
     {
         "region": "Izmir",
-        "city": "Saat_Kulesi",
+        "city": "Unknown",
         "location": "Unknown",
-        "path": "02_Ege\\Izmir\\Saat_Kulesi\\README.md",
-        "size_bytes": 1145
-    },
-    {
-        "region": "Izmir",
-        "city": "Efes",
-        "location": "Unknown",
-        "path": "02_Ege\\Izmir\\Efes\\README.md",
-        "size_bytes": 1244
-    },
-    {
-        "region": "Izmir",
-        "city": "Sirince",
-        "location": "Unknown",
-        "path": "02_Ege\\Izmir\\Sirince\\README.md",
-        "size_bytes": 1155
+        "path": "02_Ege\\Izmir\\README.md",
+        "size_bytes": 543
     },
     {
         "region": "Afyonkarahisar",
@@ -291,7 +277,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Kayseri\\README.md",
-        "size_bytes": 547
+        "size_bytes": 3090
     },
     {
         "region": "Kirikkale",
@@ -305,7 +291,7 @@
         "city": "Unknown",
         "location": "Unknown",
         "path": "04_IcAnadolu\\Kirsehir\\README.md",
-        "size_bytes": 549
+        "size_bytes": 3023
     },
     {
         "region": "Nigde",
@@ -435,10 +421,10 @@
     },
     {
         "region": "Van",
-        "city": "Akdamar_Adasi",
+        "city": "Unknown",
         "location": "Unknown",
-        "path": "06_DoguAnadolu\\Van\\Akdamar_Adasi\\README.md",
-        "size_bytes": 1157
+        "path": "06_DoguAnadolu\\Van\\README.md",
+        "size_bytes": 539
     },
     {
         "region": "Agri",
@@ -533,10 +519,10 @@
     },
     {
         "region": "Mardin",
-        "city": "Ulu_Camii",
+        "city": "Unknown",
         "location": "Unknown",
-        "path": "07_GuneydoguAnadolu\\Mardin\\Ulu_Camii\\README.md",
-        "size_bytes": 1191
+        "path": "07_GuneydoguAnadolu\\Mardin\\README.md",
+        "size_bytes": 545
     },
     {
         "region": "Adiyaman",

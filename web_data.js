@@ -462,6 +462,29 @@ const TRAVEL_DATA = {
         ],
         "library": "Kars İl Halk Kütüphanesi - Rus döneminden kalma taş binaların mistik havasında, karlar altında kodlama mesaisi yapabileceğiniz sıcak sığınak."
     },
+    "Kayseri": {
+        "name": "Kayseri",
+        "region": "İç Anadolu Bölgesi",
+        "banner": "04_IcAnadolu/Kayseri/banner.jpg",
+        "coords": [
+            38.7312,
+            35.4787
+        ],
+        "hikmet": "Erciyes'in beyaz zirvesi, toprağın bağrındaki ticaret yollarını gözetleyen mağrur bir gözcü gibidir.",
+        "quote": "\"Erciyes'in gölgesinde yükselen, Selçuklu mirası taş binalarla bezenmiş ticaretin ve zanaatin kadim merkezi.\"",
+        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları ve Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
+        "sufi_notes": "Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.",
+        "gastronomi": "- **Kayseri Mantısı:** Bir kaşığa kırk adet sığdırılan, el emeği göz nuru sarımsaklı yoğurtlu ve sumaklı başyapıt.\n- **Kayseri Pastırması:** Çemen kokulu, Erciyes rüzgarıyla kurutulmuş, incecik dilimlenen geleneksel et sanatı.\n- **Kayseri Yağlaması (Şebit):** İncecik açılmış hamurların arasına kıymalı harç dökülerek üst üste dizilen lezzet şöleni.",
+        "landmarks": [
+            "Erciyes Dağı",
+            "Hunat Hatun Külliyesi",
+            "Gevher Nesibe Şifahiye ve Gıyasiye Medresesi (Selçuklu Uygarlığı Müzesi)",
+            "Talas Tarihi Mahallesi",
+            "Kayseri Kalesi",
+            "Kapuzbaşı Şelaleleri"
+        ],
+        "library": "Kayseri Milli Mücadele Müzesi Kütüphanesi veya Kayseri Merkez Kütüphanesi - Tarihi taş atmosferi ve modern sessiz çalışma alanlarıyla seyyah yazılımcılar için muhteşem odaklanma imkanı sunar."
+    },
     "Kocaeli": {
         "name": "Kocaeli",
         "region": "Marmara Bölgesi",
@@ -508,6 +531,22 @@ const TRAVEL_DATA = {
         ],
         "library": "Konya İl Halk Kütüphanesi - Geniş ve ferah salonları var, Selçuklu mimarisinin esintilerini taşıyor, çalışma disiplini yüksek."
     },
+    "Kırşehir": {
+        "name": "Kirsehir",
+        "region": "İç Anadolu Bölgesi",
+        "banner": "04_IcAnadolu/Kirsehir/banner.jpg",
+        "coords": [
+            39.1425,
+            34.1709
+        ],
+        "hikmet": "Henüz bir bilge sözü eklenmedi.",
+        "quote": "Seyahat, yeni gözlerle bakmaktır.",
+        "description": "Açıklama mevcut değil.",
+        "sufi_notes": "İçsel not mevcut değil.",
+        "gastronomi": "",
+        "landmarks": [],
+        "library": ""
+    },
     "Malatya": {
         "name": "Malatya",
         "region": "Doğu Anadolu Bölgesi",
@@ -530,29 +569,6 @@ const TRAVEL_DATA = {
             "Şire Pazarı"
         ],
         "library": "Malatya İl Halk Kütüphanesi - Şehir merkezinde yer alan, geniş araştırma kaynakları ve rahat çalışma alanları sunan yerleşke."
-    },
-    "Mardin": {
-        "name": "Mardin",
-        "region": "Güneydoğu Anadolu Bölgesi",
-        "banner": "07_GuneydoguAnadolu/Mardin/banner.jpg",
-        "coords": [
-            37.3122,
-            40.7339
-        ],
-        "hikmet": "Gecesi gerdanlık, gündüzü mezarlık olan bu taş şehir, ölüm ile yaşamın en estetik buluşma noktasıdır.",
-        "quote": "\"Mezopotamya ovasına tepeden bakan, sarı kalker taşından oyulmuş masalsı ve kadim bir medeniyet kalesi.\"",
-        "description": "Tarihin ve dinlerin harmanlandığı, taşın dile geldiği kadim Mezopotamya şehri. Mardin, daracık abbaraları (tünelli geçitler), göğe yükselen minareleri ve manastır kuleleri ile zamana meydan okuyan sarı taş bir masaldır. Kasımiye Medresesi'nin avlusundaki havuzda akan suyun hikayesi, insan ömrünün aşamalarını (doğum, gençlik, yaşlılık ve ölüm sonrası) sembolize eder. Akşamları ovaya çöken karanlıkla birlikte ışıldayan şehir, Mezopotamya ovasının üzerinde parıldayan asil bir gerdanlık gibi görünür.",
-        "sufi_notes": "Kasımiye Medresesi'ndeki su akan çeşmenin başında oturup suyun akışını izlemek, hayatın geçiciliğini ve en sonunda dingin bir havuzda (ahirette) toplanacağını tefekkür etmek için muazzam bir fırsattır. Süryani manastırı Deyrulzafaran'ın bin yıllık taşlarında yankılanan dualar, inancın dilleri ve zamanı aşan ortak tınısını hatırlatır. Mardin'in dar sokaklarında kaybolmak, aslında insan yapımı sınırların anlamsızlığını ve insanlığın kadim ortak kökenini kavramaktır.",
-        "gastronomi": "- **Mardin İçli Köftesi (İrok):** Baharatlı kıyma ve ceviz dolgulu, dışı çıtır bulgurlu kızartma başyapıtı.\n- **Kaburga Dolması:** Kuzu kaburgasının iç pilavla doldurularak saatlerce buharda pişirilen bayram yemeği.\n- **Süryani Çöreği:** Mahlep, zencefil ve tarçın kokulu, hurma dolgulu nefis çörek.",
-        "landmarks": [
-            "Eski Mardin Sokakları ve Abbaralar",
-            "Deyrulzafaran Manastırı",
-            "Kasımiye Medresesi",
-            "Dara Antik Kenti",
-            "Mardin Ulu Camii",
-            "Zinciriye Medresesi"
-        ],
-        "library": "Mardin İl Halk Kütüphanesi - Taş mimarisi ve Mezopotamya ovasına bakan avlusuyla seyyah yazılımcıya ilham kaynağı."
     },
     "Mersin": {
         "name": "Mersin",
@@ -769,52 +785,6 @@ const TRAVEL_DATA = {
         ],
         "library": "Tunceli İl Halk Kütüphanesi - Munzur nehrinin esintisiyle serinleyen, sessiz çalışma ortamı ve güler yüzlü çalışanlarıyla butik kütüphane."
     },
-    "Van": {
-        "name": "Van",
-        "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
-        "coords": [
-            38.4891,
-            43.3853
-        ],
-        "hikmet": "Van Gölü'nün turkuaz sularındaki Akdamar Kilisesi, farklı inançların aynı coğrafyada bıraktığı barışçıl izlerin nişanesidir.",
-        "quote": "\"Urartuların kadim başkentinde, Van Denizi'nin turkuaz maviliğinde süzülen Akdamar Adası'nın efsunlu hikayesi.\"",
-        "description": "Doğu Anadolu'nun en büyük gölü olan Van Gölü'nün (halk arasındaki adıyla Van Denizi) kıyısında kurulu, Urartuların tarihi başkenti Van. Akdamar Adası'ndaki tarihi kilisesi, sarp kayalıklar üzerine kurulu görkemli Van Kalesi, dünyaca ünlü Van Kedisi ve eşsiz kahvaltı kültürüyle Van, bölgenin en canlı ve kültürel açıdan en zengin şehridir.",
-        "sufi_notes": "Akdamar Kilisesi'nin dış duvarlarındaki Tevrat ve İncil hikayelerini anlatan kabartmaları incelerken, insan elinin ve inancının taşa işlediği o asırlık estetiği tefekkür edersiniz. Van Gölü'nün sodalı, turkuaz sularında batan güneşi Van Kalesi'nden izlemek, Urartu krallarından bugüne geçen binlerce yıllık zamanın akıp gidişini ve insanoğlunun yeryüzündeki kısa yolculuğunu hissettirir.",
-        "gastronomi": "- **Van Kahvaltısı:** Otlu peynirden murtuğaya, kavuttan süzme bala kadar onlarca çeşidin sunulduğu dünyaca ünlü kahvaltı.\n- **Sengser:** Kurutulmuş süzme yoğurt (kurut), yeşil mercimek ve kuzu etiyle yapılan yöresel lezzet.\n- **Keledoş:** Baklagiller, buğday, et ve kurut sosunun karıştırılarak yapıldığı tescilli Van yemeği.",
-        "landmarks": [
-            "Van Kalesi (Tuşpa)",
-            "Akdamar Adası ve Kilisesi",
-            "Van Kedisi Evi",
-            "Muradiye Şelalesi",
-            "Hoşap Kalesi",
-            "Van Müzesi"
-        ],
-        "library": "Van İl Halk Kütüphanesi - Van Gölü'nün maviliği yakınlarında, ferah ve geniş çalışma salonlarıyla seyyah yazılımcılar için ideal."
-    },
-    "Çanakkale": {
-        "name": "Canakkale",
-        "region": "Marmara Bölgesi",
-        "banner": "assets/banner.png",
-        "coords": [
-            40.1553,
-            26.4142
-        ],
-        "hikmet": "Tarihin en büyük savaşlarının yaşandığı bu topraklar, barışın ve kardeşliğin en kalıcı anıtıdır.",
-        "quote": "\"Boğazın serin rüzgarında destanların yankılandığı, Truva'dan Çanakkale Geçilmez destanına uzanan köprü.\"",
-        "description": "Marmara ile Ege'nin birleştiği, tarihin seyrini değiştiren savaşların yaşandığı kahraman şehir Çanakkale. Truva'nın binlerce yıllık mitolojik surlarından, Çanakkale Savaşı'nın yaşandığı Gelibolu Yarımadası'ndaki şehitliklere kadar burası tam bir destanlar coğrafyasıdır. Şehir, boğazın iki yakasında uzanan tarihi kaleleri, Aynalı Çarşısı ve kordon boyundaki huzurlu yürüyüş yollarıyla ziyaretçilerini kendine hayran bırakır.",
-        "sufi_notes": "Gelibolu Şehitliği'nde yatan binlerce vatan evladının ve yabancı askerin mezarları arasında yürürken, hayatın ne kadar kıymetli olduğunu ve savaşın acımasızlığını derinden tefekkür edersiniz. Truva atının gölgesinde ise güç ve hilenin geçici olduğunu, sadece hakikatin ve adaletin yarına kaldığını anlarsınız. Boğazın sularına vuran gün batımı, ruhu sakinleştiren ve içsel bir dinginliğe sevk eden eşsiz bir manzaradır.",
-        "gastronomi": "- **Peynir Helvası:** Fırınlanmış veya sade, tuzsuz peynirden yapılan Çanakkale'nin en meşhur tatlısı.\n- **Sardalya:** Boğazdan taze tutulan, asma yaprağında veya ızgarada sunulan nefis balık.\n- **Ezine Peyniri:** Kaz Dağları'nın esintisiyle beslenen koyun/keçi sütünden yapılan dünyaca ünlü peynir.",
-        "landmarks": [
-            "Aynalı Çarşı",
-            "Çanakkale Şehitler Abidesi",
-            "Truva Antik Kenti",
-            "Kilitbahir Kalesi",
-            "Çanakkale Deniz Müzesi",
-            "Asos Antik Kenti (Behramkale)"
-        ],
-        "library": "Çanakkale Mehmet Akif Ersoy İl Halk Kütüphanesi - Boğaz manzaralı terası ve geniş çalışma alanlarıyla seyyah yazılımcılar için mükemmel bir durak."
-    },
     "Çorum": {
         "name": "Corum",
         "region": "Karadeniz Bölgesi",
@@ -862,28 +832,5 @@ const TRAVEL_DATA = {
             "Eyüp Sultan Türbesi"
         ],
         "library": "Şemsipaşa İlçe Halk Kütüphanesi (Üsküdar) - Denize sıfır konumuyla tefekküre değer, internet hızı yüksek, priz imkanı sınırlı ama atmosferi büyüleyici."
-    },
-    "İzmir": {
-        "name": "Izmir",
-        "region": "Ege Bölgesi",
-        "banner": "assets/banner.png",
-        "coords": [
-            38.4192,
-            27.1287
-        ],
-        "hikmet": "Ege'nin özgür rüzgarı ve parıldayan güneşi, insana hayatın her anını coşkuyla ve sevgiyle yaşamayı fısıldar.",
-        "quote": "\"Mavi denizin kıyısında, antik kütüphanelerin ve kordon boyundaki cıvıl cıvıl hayatın harmanlandığı Ege'nin incisi.\"",
-        "description": "Ege'nin kalbi, Türkiye'nin batıya açılan en aydınlık penceresi İzmir. Kordon boyundaki palmiyeleri, Tarihi Saat Kulesi, cıvıl cıvıl Kemeraltı Çarşısı ve hemen yanı başındaki antik dünyanın en büyük kenti Efes ile İzmir, hem modern bir metropol hem de devasa bir tarih hazinesidir. Şehir, insanının sıcaklığı, özgür ruhu ve körfezin getirdiği huzurla seyyahların vazgeçilmez duraklarından biridir.",
-        "sufi_notes": "Efes Antik Kenti'nin mermer caddelerinde yürürken, bir zamanlar binlerce insanın yaşadığı bu devasa şehrin şimdi sessiz harabelerden ibaret olmasını tefekkür edersiniz. Celsus Kütüphanesi'nin önünde durup insan aklının ve bilgisinin kalıcılığını hissedersiniz. Şirince'nin yeşil tepeleri arasındaki eski Rum evlerinin sessizliği, geçmişteki ortak yaşamın ve kültürlerin manevi zenginliğini ruhunuza fısıldar.",
-        "gastronomi": "- **Boyoz:** İzmir'in simgesi olan, sabahları fırından sıcak çıkan, haşlanmış yumurta eşliğindeki çıtır hamur işi.\n- **İzmir Kumrusu:** Nohut mayalı özel ekmek arasına şarküteri ürünleri ve İzmir tulumu konarak yapılan sandviç.\n- **Şambali:** İrmikli, şerbetli, üzeri fıstıklı ve tarçınlı geleneksel sokak tatlısı.",
-        "landmarks": [
-            "Tarihi Saat Kulesi",
-            "Efes Antik Kenti (Selçuk)",
-            "Kemeraltı Çarşısı",
-            "Kordon Boyu",
-            "Tarihi Asansör",
-            "Şirince Köyü"
-        ],
-        "library": "İzmir Atatürk İl Halk Kütüphanesi - Konak'ta yer alan, İzmir'in en köklü kütüphanelerinden biri. Çalışma alanları ferah, internet bağlantısı hızlı."
     }
 };

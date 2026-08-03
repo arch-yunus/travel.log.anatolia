@@ -348,20 +348,38 @@ VISITED_DEEP_DETAILS = {
         "hikmet": "Van Gölü'nün turkuaz sularındaki Akdamar Kilisesi, farklı inançların aynı coğrafyada bıraktığı barışçıl izlerin nişanesidir.",
         "quote": "\"Urartuların kadim başkentinde, Van Denizi'nin turkuaz maviliğinde süzülen Akdamar Adası'nın efsunlu hikayesi.\"",
         "description": "Doğu Anadolu'nun en büyük gölü olan Van Gölü'nün (halk arasındaki adıyla Van Denizi) kıyısında kurulu, Urartuların tarihi başkenti Van. Akdamar Adası'ndaki tarihi kilisesi, sarp kayalıklar üzerine kurulu görkemli Van Kalesi, dünyaca ünlü Van Kedisi ve eşsiz kahvaltı kültürüyle Van, bölgenin en canlı ve kültürel açıdan en zengin şehridir.",
-        "sufi_notes": "Akdamar Kilisesi'nin dış duvarlarındaki Tevrat ve İncil hikayelerini anlatan kabartmaları incelerken, insan elinin ve inancının taşa işlediği o asırlık estetiği tefekkür edersiniz. Van Gölü'nün sodalı, turkuaz sularında batan güneşi Van Kalesi'nden izlemek, Urartu krallarından bugüne geçen binlerce yıllık zamanın akıp gidişini ve insanoğlunun yeryüzündeki kısa yolculuğunu hissettirir.",
-        "gastronomi": "- **Van Kahvaltısı:** Otlu peynirden murtuğaya, kavuttan süzme bala kadar onlarca çeşidin sunulduğu dünyaca ünlü kahvaltı.\n- **Sengser:** Kurutulmuş süzme yoğurt (kurut), yeşil mercimek ve kuzu etiyle yapılan yöresel lezzet.\n- **Keledoş:** Baklagiller, buğday, et ve kurut sosunun karıştırılarak yapıldığı tescilli Van yemeği.",
+        "sufi_notes": "Akdamar Kilisesi'nin dış duvarlarındaki Tevrat ve İncil hikayelerini anlatan kabartmaları incelerken, insan elinin and inancının taşa işlediği o asırlık estetiği tefekkür edersiniz. Van Gölü'nün sodalı, turkuaz sularında batan güneşi Van Kalesi'nden izlemek, Urartu krallarından bugüne geçen binlerce yıllık zamanın akıp gidişini and insanoğlunun yeryüzündeki kısa yolculuğunu hissettirir.",
+        "gastronomi": "- **Van Kahvaltısı:** Otlu peynirden murtuğaya, kavuttan süzme bala kadar onlarca çeşidin sunulduğu dünyaca ünlü kahvaltı.\n- **Sengser:** Kurutulmuş süzme yoğurt (kurut), yeşil mercimek and kuzu etiyle yapılan yöresel lezzet.\n- **Keledoş:** Baklagiller, buğday, et and kurut sosunun karıştırılarak yapıldığı tescilli Van yemeği.",
         "landmarks": ["Van Kalesi (Tuşpa)", "Akdamar Adası ve Kilisesi", "Van Kedisi Evi", "Muradiye Şelalesi", "Hoşap Kalesi", "Van Müzesi"]
+    },
+    "Kayseri": {
+        "library": "Kayseri Milli Mücadele Müzesi Kütüphanesi veya Kayseri Merkez Kütüphanesi - Tarihi taş atmosferi ve modern sessiz çalışma alanlarıyla seyyah yazılımcılar için muhteşem odaklanma imkanı sunar.",
+        "hikmet": "Erciyes'in beyaz zirvesi, toprağın bağrındaki ticaret yollarını gözetleyen mağrur bir gözcü gibidir.",
+        "quote": "\"Erciyes'in gölgesinde yükselen, Selçuklu mirası taş binalarla bezenmiş ticaretin ve zanaatin kadim merkezi.\"",
+        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları ve Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
+        "sufi_notes": "Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.",
+        "gastronomi": "- **Kayseri Mantısı:** Bir kaşığa kırk adet sığdırılan, el emeği göz nuru sarımsaklı yoğurtlu ve sumaklı başyapıt.\n- **Kayseri Pastırması:** Çemen kokulu, Erciyes rüzgarıyla kurutulmuş, incecik dilimlenen geleneksel et sanatı.\n- **Kayseri Yağlaması (Şebit):** İncecik açılmış hamurların arasına kıymalı harç dökülerek üst üste dizilen lezzet şöleni.",
+        "landmarks": ["Erciyes Dağı", "Hunat Hatun Külliyesi", "Gevher Nesibe Şifahiye ve Gıyasiye Medresesi (Selçuklu Uygarlığı Müzesi)", "Talas Tarihi Mahallesi", "Kayseri Kalesi", "Kapuzbaşı Şelaleleri"]
+    },
+    "Kirsehir": {
+        "library": "Kırşehir İl Halk Kütüphanesi - Sakin ortamı ve geniş kaynak yelpazesi ile bozkırda sessizce kod yazıp üretmek için ideal bir liman.",
+        "hikmet": "Gönülden gönüle giden o gizli yolu bulamayanlar, bozkırın ortasında yönünü şaşırmış yolcular gibidir.",
+        "quote": "\"Ahilik teşkilatının kurulduğu, gönül tellerine dokunan ozanların sazıyla yankılanan bilgeliğin ve hoşgörünün beşiği.\"",
+        "description": "Anadolu bozkırının en samimi köşelerinden biri olan Kırşehir, esnaf ahlakının temeli olan Ahilik teşkilatının kurucusu Ahi Evran'ın ve gönül dünyamızı zenginleştiren Neşet Ertaş ile Muharrem Ertaş gibi ulu ozanların yurdudur. Cacabey Medresesi'nin gökbilim rasathanesi olarak tasarlanan minaresiyle bilimin, Ahi Evran Veli Camii ile ahlakın ve dürüstlüğün harmanlandığı bu şehir, gösterişten uzak manevi zenginliğiyle insanı sarıp sarmalar.",
+        "sufi_notes": "Cacabey Medresesi'nin göğe uzanan taş sütunlarında Selçuklu'nun evreni anlama, yıldızları okuma arzusunu hissedersiniz. Ahiliğin cömertlik, dürüstlük ve paylaşım kuralları, günümüz dijital dünyasındaki açık kaynak (open source) felsefesinin asırlar önceki manevi atası gibidir. Neşet Ertaş'ın mezarında yankılanan 'Aşk bezirganı' felsefesiyle ruhunuz arınır.",
+        "gastronomi": "- **Kırşehir Çullaması:** Tavuk eti ve unun tereyağıyla buluştuğu, üzerine gezdirilen pul biberli yağla sunulan geleneksel lezzet.\n- **Cacabey Çorbası:** Süzme yoğurt, buğday ve nohutla yapılan, naneyle tatlandırılan serinletici çorba.\n- **Kırşehir Köftesi:** Yöresel baharatlarla hazırlanan, içi sulu dışı çıtır esnaf köftesi.",
+        "landmarks": ["Cacabey Medresesi (Gökbilim Medresesi)", "Ahi Evran Veli Camii ve Türbesi", "Neşet Ertaş Müzesi ve Kabri", "Seyfe Gölü Kuş Cenneti", "Kent Park", "Aşıkpaşa Türbesi"]
     }
 }
 
 REGIONS_MAP = {
-    "01_Marmara": ["Istanbul", "Kocaeli", "Bursa", "Canakkale"],
-    "02_Ege": ["Denizli", "Mugla", "Izmir"],
+    "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
+    "02_Ege": ["Denizli", "Mugla"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirsehir"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
-    "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri", "Van"],
-    "07_GuneydoguAnadolu": ["Mardin"]
+    "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri"],
+    "07_GuneydoguAnadolu": []
 }
 
 def enrich_visited():
@@ -382,7 +400,7 @@ def enrich_visited():
             if clean_city == "Gümüşhane": lookup_key = "Gumushane"
             if clean_city == "Elazığ": lookup_key = "Elazig"
             
-            if lookup_key in VISITED_DEEP_DETAILS:
+            if lookup_key in VISITED_DEEP_DETAILS and lookup_key in cities:
                 
                 details = VISITED_DEEP_DETAILS[lookup_key]
                 file_path = os.path.join(region, folder, "README.md")
