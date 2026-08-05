@@ -360,15 +360,6 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.",
         "gastronomi": "- **Kayseri Mantısı:** Bir kaşığa kırk adet sığdırılan, el emeği göz nuru sarımsaklı yoğurtlu ve sumaklı başyapıt.\n- **Kayseri Pastırması:** Çemen kokulu, Erciyes rüzgarıyla kurutulmuş, incecik dilimlenen geleneksel et sanatı.\n- **Kayseri Yağlaması (Şebit):** İncecik açılmış hamurların arasına kıymalı harç dökülerek üst üste dizilen lezzet şöleni.",
         "landmarks": ["Erciyes Dağı", "Hunat Hatun Külliyesi", "Gevher Nesibe Şifahiye ve Gıyasiye Medresesi (Selçuklu Uygarlığı Müzesi)", "Talas Tarihi Mahallesi", "Kayseri Kalesi", "Kapuzbaşı Şelaleleri"]
-    },
-    "Kirsehir": {
-        "library": "Kırşehir İl Halk Kütüphanesi - Sakin ortamı ve geniş kaynak yelpazesi ile bozkırda sessizce kod yazıp üretmek için ideal bir liman.",
-        "hikmet": "Gönülden gönüle giden o gizli yolu bulamayanlar, bozkırın ortasında yönünü şaşırmış yolcular gibidir.",
-        "quote": "\"Ahilik teşkilatının kurulduğu, gönül tellerine dokunan ozanların sazıyla yankılanan bilgeliğin ve hoşgörünün beşiği.\"",
-        "description": "Anadolu bozkırının en samimi köşelerinden biri olan Kırşehir, esnaf ahlakının temeli olan Ahilik teşkilatının kurucusu Ahi Evran'ın ve gönül dünyamızı zenginleştiren Neşet Ertaş ile Muharrem Ertaş gibi ulu ozanların yurdudur. Cacabey Medresesi'nin gökbilim rasathanesi olarak tasarlanan minaresiyle bilimin, Ahi Evran Veli Camii ile ahlakın ve dürüstlüğün harmanlandığı bu şehir, gösterişten uzak manevi zenginliğiyle insanı sarıp sarmalar.",
-        "sufi_notes": "Cacabey Medresesi'nin göğe uzanan taş sütunlarında Selçuklu'nun evreni anlama, yıldızları okuma arzusunu hissedersiniz. Ahiliğin cömertlik, dürüstlük ve paylaşım kuralları, günümüz dijital dünyasındaki açık kaynak (open source) felsefesinin asırlar önceki manevi atası gibidir. Neşet Ertaş'ın mezarında yankılanan 'Aşk bezirganı' felsefesiyle ruhunuz arınır.",
-        "gastronomi": "- **Kırşehir Çullaması:** Tavuk eti ve unun tereyağıyla buluştuğu, üzerine gezdirilen pul biberli yağla sunulan geleneksel lezzet.\n- **Cacabey Çorbası:** Süzme yoğurt, buğday ve nohutla yapılan, naneyle tatlandırılan serinletici çorba.\n- **Kırşehir Köftesi:** Yöresel baharatlarla hazırlanan, içi sulu dışı çıtır esnaf köftesi.",
-        "landmarks": ["Cacabey Medresesi (Gökbilim Medresesi)", "Ahi Evran Veli Camii ve Türbesi", "Neşet Ertaş Müzesi ve Kabri", "Seyfe Gölü Kuş Cenneti", "Kent Park", "Aşıkpaşa Türbesi"]
     }
 }
 
@@ -376,7 +367,7 @@ REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli", "Mugla"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirsehir"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
     "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri"],
     "07_GuneydoguAnadolu": []

@@ -165,8 +165,8 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 
 ## ✅ 81 İl Keşif Haritası
 
-**🏆 Genel İlerleme:** %45.7 (37 / 81 İl)
-🟩🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
+**🏆 Genel İlerleme:** %44.4 (36 / 81 İl)
+🟩🟩🟩🟩🟩🟩🟩🟩⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜⬜
 
 > *Sürücü koltuğunda bizzat geçilen ve anı biriktirilen eşsiz rotalar...*
 
@@ -203,7 +203,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ✅ **Mersin**
 - ❌ Osmaniye
 
-**🌾 İç Anadolu Bölgesi (8/13)**
+**🌾 İç Anadolu Bölgesi (7/13)**
 - ✅ **Aksaray**
 - ✅ **Ankara**
 - ✅ **Eskişehir**
@@ -211,7 +211,7 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve kültürel izleri t
 - ✅ **Kayseri**
 - ✅ **Konya**
 - ❌ Kırıkkale
-- ✅ **Kırşehir**
+- ❌ Kırşehir
 - ✅ **Nevşehir**
 - ❌ Niğde
 - ✅ **Sivas**

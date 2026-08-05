@@ -25,7 +25,7 @@ const TRAVEL_DATA = {
     "Aksaray": {
         "name": "Aksaray",
         "region": "İç Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "04_IcAnadolu/Aksaray/banner.jpg",
         "coords": [
             38.3687,
             34.037
@@ -119,7 +119,7 @@ const TRAVEL_DATA = {
     "Ardahan": {
         "name": "Ardahan",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Ardahan/banner.jpg",
         "coords": [
             41.1105,
             42.7022
@@ -142,7 +142,7 @@ const TRAVEL_DATA = {
     "Artvin": {
         "name": "Artvin",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Artvin/banner.jpg",
         "coords": [
             41.1828,
             41.8183
@@ -165,7 +165,7 @@ const TRAVEL_DATA = {
     "Ağrı": {
         "name": "Agri",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Agri/banner.jpg",
         "coords": [
             39.7191,
             43.0503
@@ -188,7 +188,7 @@ const TRAVEL_DATA = {
     "Bayburt": {
         "name": "Bayburt",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Bayburt/banner.jpg",
         "coords": [
             40.2552,
             40.2249
@@ -258,7 +258,7 @@ const TRAVEL_DATA = {
     "Elazığ": {
         "name": "Elazig",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Elazig/banner.jpg",
         "coords": [
             38.681,
             39.2264
@@ -281,7 +281,7 @@ const TRAVEL_DATA = {
     "Erzincan": {
         "name": "Erzincan",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Erzincan/banner.jpg",
         "coords": [
             39.75,
             39.5
@@ -304,7 +304,7 @@ const TRAVEL_DATA = {
     "Erzurum": {
         "name": "Erzurum",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Erzurum/banner.jpg",
         "coords": [
             39.9043,
             41.2679
@@ -327,7 +327,7 @@ const TRAVEL_DATA = {
     "Eskişehir": {
         "name": "Eskisehir",
         "region": "İç Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "04_IcAnadolu/Eskisehir/banner.jpg",
         "coords": [
             39.7767,
             30.5206
@@ -350,7 +350,7 @@ const TRAVEL_DATA = {
     "Giresun": {
         "name": "Giresun",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Giresun/banner.jpg",
         "coords": [
             40.9128,
             38.3895
@@ -373,7 +373,7 @@ const TRAVEL_DATA = {
     "Gümüşhane": {
         "name": "Gumushane",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Gumushane/banner.jpg",
         "coords": [
             40.4597,
             39.4745
@@ -419,7 +419,7 @@ const TRAVEL_DATA = {
     "Isparta": {
         "name": "Isparta",
         "region": "Akdeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "03_Akdeniz/Isparta/banner.jpg",
         "coords": [
             37.7648,
             30.5566
@@ -442,7 +442,7 @@ const TRAVEL_DATA = {
     "Kars": {
         "name": "Kars",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Kars/banner.jpg",
         "coords": [
             40.6013,
             43.0975
@@ -531,26 +531,10 @@ const TRAVEL_DATA = {
         ],
         "library": "Konya İl Halk Kütüphanesi - Geniş ve ferah salonları var, Selçuklu mimarisinin esintilerini taşıyor, çalışma disiplini yüksek."
     },
-    "Kırşehir": {
-        "name": "Kirsehir",
-        "region": "İç Anadolu Bölgesi",
-        "banner": "04_IcAnadolu/Kirsehir/banner.jpg",
-        "coords": [
-            39.1425,
-            34.1709
-        ],
-        "hikmet": "Henüz bir bilge sözü eklenmedi.",
-        "quote": "Seyahat, yeni gözlerle bakmaktır.",
-        "description": "Açıklama mevcut değil.",
-        "sufi_notes": "İçsel not mevcut değil.",
-        "gastronomi": "",
-        "landmarks": [],
-        "library": ""
-    },
     "Malatya": {
         "name": "Malatya",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Malatya/banner.jpg",
         "coords": [
             38.3552,
             38.3095
@@ -650,7 +634,7 @@ const TRAVEL_DATA = {
     "Rize": {
         "name": "Rize",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Rize/banner.jpg",
         "coords": [
             41.0201,
             40.5234
@@ -719,7 +703,7 @@ const TRAVEL_DATA = {
     "Sivas": {
         "name": "Sivas",
         "region": "İç Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "04_IcAnadolu/Sivas/banner.jpg",
         "coords": [
             39.7477,
             37.0179
@@ -765,7 +749,7 @@ const TRAVEL_DATA = {
     "Tunceli": {
         "name": "Tunceli",
         "region": "Doğu Anadolu Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "06_DoguAnadolu/Tunceli/banner.jpg",
         "coords": [
             39.1079,
             39.5401
@@ -788,7 +772,7 @@ const TRAVEL_DATA = {
     "Çorum": {
         "name": "Corum",
         "region": "Karadeniz Bölgesi",
-        "banner": "assets/banner.png",
+        "banner": "05_Karadeniz/Corum/banner.jpg",
         "coords": [
             40.5506,
             34.9556
