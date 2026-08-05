@@ -472,7 +472,7 @@ const TRAVEL_DATA = {
         ],
         "hikmet": "Erciyes'in beyaz zirvesi, toprağın bağrındaki ticaret yollarını gözetleyen mağrur bir gözcü gibidir.",
         "quote": "\"Erciyes'in gölgesinde yükselen, Selçuklu mirası taş binalarla bezenmiş ticaretin ve zanaatin kadim merkezi.\"",
-        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları ve Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
+        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları and Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
         "sufi_notes": "Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.",
         "gastronomi": "- **Kayseri Mantısı:** Bir kaşığa kırk adet sığdırılan, el emeği göz nuru sarımsaklı yoğurtlu ve sumaklı başyapıt.\n- **Kayseri Pastırması:** Çemen kokulu, Erciyes rüzgarıyla kurutulmuş, incecik dilimlenen geleneksel et sanatı.\n- **Kayseri Yağlaması (Şebit):** İncecik açılmış hamurların arasına kıymalı harç dökülerek üst üste dizilen lezzet şöleni.",
         "landmarks": [
@@ -530,6 +530,22 @@ const TRAVEL_DATA = {
             "İnce Minareli Medrese"
         ],
         "library": "Konya İl Halk Kütüphanesi - Geniş ve ferah salonları var, Selçuklu mimarisinin esintilerini taşıyor, çalışma disiplini yüksek."
+    },
+    "Kırıkkale": {
+        "name": "Kirikkale",
+        "region": "İç Anadolu Bölgesi",
+        "banner": "04_IcAnadolu/Kirikkale/banner.jpg",
+        "coords": [
+            39.8468,
+            33.5153
+        ],
+        "hikmet": "Henüz bir bilge sözü eklenmedi.",
+        "quote": "Seyahat, yeni gözlerle bakmaktır.",
+        "description": "Açıklama mevcut değil.",
+        "sufi_notes": "İçsel not mevcut değil.",
+        "gastronomi": "",
+        "landmarks": [],
+        "library": ""
     },
     "Malatya": {
         "name": "Malatya",

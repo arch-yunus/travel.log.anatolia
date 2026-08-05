@@ -9,7 +9,7 @@ REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli", "Mugla"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirikkale"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
     "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri"],
     "07_GuneydoguAnadolu": []

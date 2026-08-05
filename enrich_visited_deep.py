@@ -356,10 +356,19 @@ VISITED_DEEP_DETAILS = {
         "library": "Kayseri Milli Mücadele Müzesi Kütüphanesi veya Kayseri Merkez Kütüphanesi - Tarihi taş atmosferi ve modern sessiz çalışma alanlarıyla seyyah yazılımcılar için muhteşem odaklanma imkanı sunar.",
         "hikmet": "Erciyes'in beyaz zirvesi, toprağın bağrındaki ticaret yollarını gözetleyen mağrur bir gözcü gibidir.",
         "quote": "\"Erciyes'in gölgesinde yükselen, Selçuklu mirası taş binalarla bezenmiş ticaretin ve zanaatin kadim merkezi.\"",
-        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları ve Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
+        "description": "Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları and Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.",
         "sufi_notes": "Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.",
         "gastronomi": "- **Kayseri Mantısı:** Bir kaşığa kırk adet sığdırılan, el emeği göz nuru sarımsaklı yoğurtlu ve sumaklı başyapıt.\n- **Kayseri Pastırması:** Çemen kokulu, Erciyes rüzgarıyla kurutulmuş, incecik dilimlenen geleneksel et sanatı.\n- **Kayseri Yağlaması (Şebit):** İncecik açılmış hamurların arasına kıymalı harç dökülerek üst üste dizilen lezzet şöleni.",
         "landmarks": ["Erciyes Dağı", "Hunat Hatun Külliyesi", "Gevher Nesibe Şifahiye ve Gıyasiye Medresesi (Selçuklu Uygarlığı Müzesi)", "Talas Tarihi Mahallesi", "Kayseri Kalesi", "Kapuzbaşı Şelaleleri"]
+    },
+    "Kirikkale": {
+        "library": "Kırıkkale İl Halk Kütüphanesi - Sakin çalışma ortamı ve modern kaynaklarıyla bozkırın ortasında seyyah yazılımcılar için huzurlu ve verimli bir çalışma durağıdır.",
+        "hikmet": "Kızılırmak'ın kıvrılan kolları, bozkıra hayat taşımaya çalışan sabırlı damarlar gibidir.",
+        "quote": "\"Cumhuriyet'in sanayi hamlesiyle şekillenen, Kızılırmak'ın serin esintisi altında bozkırın dinç duruşlu kenti.\"",
+        "description": "Kırıkkale, Cumhuriyet döneminde kurulan sanayi tesisleri ve özellikle savunma sanayii yatırımlarıyla gelişim gösteren dinamik bir Anadolu şehridir. Kızılırmak nehri üzerinde yer alan tarihi Çeşnigir Köprüsü ve çevresindeki kanyon, şehrin doğayla kucaklaştığı en özel köşelerden biridir. Aynı zamanda Hasandede Camii ve Türbesi gibi manevi duraklarıyla bozkırın dingin ve vakur ruhunu barındırır.",
+        "sufi_notes": "Çeşnigir Köprüsü'nün asırlık taş kemerlerinden akan Kızılırmak'a bakmak, suyun akışı gibi zamanın ve ömrün de durmaksızın akıp gittiğini, önemli olanın ardında yıkılmayan köprüler gibi sağlam eserler bırakabilmek olduğunu hatırlatır. Hasandede'nin sevgi ve hoşgörü dolu öğretisi bozkırın sıcağında ruhu ferahlatır.",
+        "gastronomi": "- **Kırıkkale Tava (Kara Tava):** Közlenmiş biber ve domates eşliğinde fırınlanan, yöreye özgü kuzu eti lezzeti.\n- **Kömbe:** Sac üzerinde pişen, içi bol tereyağlı ve çıtır katmerli geleneksel börek.\n- **Hasandede Üzümü:** Yörenin verimli topraklarında yetişen, ince kabuklu ve tatlı meşhur üzüm.",
+        "landmarks": ["Çeşnigir Köprüsü ve Kanyonu", "Hasandede Camii ve Türbesi", "MKE Silah Sanayi Müzesi", "Celal Bayar Parkı", "Karaahmetli Tabiat Parkı"]
     }
 }
 
@@ -367,7 +376,7 @@ REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli", "Mugla"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirikkale"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
     "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri"],
     "07_GuneydoguAnadolu": []
