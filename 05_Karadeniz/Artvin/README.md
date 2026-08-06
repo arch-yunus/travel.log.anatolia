@@ -1,5 +1,7 @@
 # 📍 Artvin - Seyahat ve Tefekkür Notları
 
+![Artvin Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Bulutların üzerine kurulan bu dik yamaçlar, insanın doğa karşısındaki sınırlarını ve sabrını sınayan muazzam bir okuldur."
 > "Karadeniz'in göğe komşu topraklarında, geçit geçmez vadilerin ve zümrüt yeşili milli parkların gizemli cenneti."

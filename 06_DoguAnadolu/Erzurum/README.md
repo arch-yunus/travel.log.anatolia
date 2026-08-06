@@ -1,5 +1,7 @@
 # 📍 Erzurum - Seyahat ve Tefekkür Notları
 
+![Erzurum Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Çifte Minareli Medrese'nin taş kemerleri, tarihin vakur soğuğuna inançla meydan okuyan sarsılmaz birer kaledir."
 > "Palandöken'in karlı zirvelerinden, ulu medreselerin taş oymalarına uzanan, bozkırın vakur ve yiğit dadaşlar diyarı."

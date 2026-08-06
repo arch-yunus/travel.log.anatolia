@@ -1,5 +1,7 @@
 # 📍 Giresun - Seyahat ve Tefekkür Notları
 
+![Giresun Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Karadeniz'in dalgalarının dövdüğü kayalar ne kadar sarp ise, zorluklarla bezenmiş o dalların verdiği fındıklar o kadar tatlıdır."
 > "Yeşilin en koyusunun, denizin en mavisinin ve zorlu yamaçlardaki emeğin sonsuz bir memleket hasretiyle kucaklaştığı yer."

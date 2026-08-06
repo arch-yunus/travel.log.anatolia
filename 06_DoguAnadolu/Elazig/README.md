@@ -1,5 +1,7 @@
 # 📍 Elazig - Seyahat ve Tefekkür Notları
 
+![Elazig Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Harput'un bin yıllık taş surları, medeniyetlerin yükselip alçaldığı ama maneviyatın hep ayakta kaldığı bir kaledir."
 > "Tarihi Harput Kalesi'nin gölgesinde, Hazar Gölü'nün batık şehrine bakan köklü medeniyetlerin ve gakgoşların yurdu."

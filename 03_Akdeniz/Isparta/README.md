@@ -1,5 +1,7 @@
 # 📍 Isparta - Seyahat ve Tefekkür Notları
 
+![Isparta Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Gülün kokusu geçicidir ama onun ruhumuza üflediği zarafet ve saflık baki kalır."
 > "Göller yöresinin serin esintisinde, lavanta ve gül kokulu sokakların asırlık tarihle buluştuğu sakin şehir."

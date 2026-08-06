@@ -1,5 +1,7 @@
 # 📍 Malatya - Seyahat ve Tefekkür Notları
 
+![Malatya Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Toprağın sinesinden fışkıran kayısılar, sabırla açan çiçeklerin en tatlı meyveye dönüşen ilahi mükafatıdır."
 > "Fırat Vadisi'nin bereketli topraklarında, kayısı bahçelerinin turuncusunda parıldayan antik Arslantepe'nin kadim yurdu."

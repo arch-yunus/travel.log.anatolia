@@ -369,6 +369,15 @@ VISITED_DEEP_DETAILS = {
         "sufi_notes": "Çeşnigir Köprüsü'nün asırlık taş kemerlerinden akan Kızılırmak'a bakmak, suyun akışı gibi zamanın ve ömrün de durmaksızın akıp gittiğini, önemli olanın ardında yıkılmayan köprüler gibi sağlam eserler bırakabilmek olduğunu hatırlatır. Hasandede'nin sevgi ve hoşgörü dolu öğretisi bozkırın sıcağında ruhu ferahlatır.",
         "gastronomi": "- **Kırıkkale Tava (Kara Tava):** Közlenmiş biber ve domates eşliğinde fırınlanan, yöreye özgü kuzu eti lezzeti.\n- **Kömbe:** Sac üzerinde pişen, içi bol tereyağlı ve çıtır katmerli geleneksel börek.\n- **Hasandede Üzümü:** Yörenin verimli topraklarında yetişen, ince kabuklu ve tatlı meşhur üzüm.",
         "landmarks": ["Çeşnigir Köprüsü ve Kanyonu", "Hasandede Camii ve Türbesi", "MKE Silah Sanayi Müzesi", "Celal Bayar Parkı", "Karaahmetli Tabiat Parkı"]
+    },
+    "Yozgat": {
+        "library": "Yozgat İl Halk Kütüphanesi - Sessiz, ferah ve araştırmaya uygun çalışma ortamı.",
+        "hikmet": "Çamlık'taki asırlık çamların fısıltısı, bozkırın ortasında yükselen kadim bir sessizlik ve sığınaktır.",
+        "quote": "\"Asırlık çamların kokusunda ve Roma hamamının sıcak sularında demlenen kadim Anadolu durağı.\"",
+        "description": "Anadolu'nun zengin mozaiğinde yer alan ve Hititlerden Romalılara uzanan zengin bir geçmişe sahip olan Yozgat. Türkiye'nin ilk milli parkı olan Yozgat Çamlık Milli Parkı'nın asırlık çam ağaçları, Sarıkaya ilçesindeki tarihi Roma Hamamı (Basilica Therma) ve tarihi Saat Kulesi ile Yozgat, keşfedilmeyi bekleyen sessiz bir Anadolu hazinesidir.",
+        "sufi_notes": "Çamlık'ın zirvesinde rüzgarın sesini dinlemek, bozkırın ortasındaki bu yeşil sığınağın huzurunda içsel bir dinginliğe ulaşmanızı sağlar. Basilica Therma'nın yüzyıllardır kaynayan sıcak termal sularında, doğanın sunduğu şifayı ve zamanın geçici ama akıcı doğasını tefekkür edersiniz.",
+        "gastronomi": "- **Yozgat Testi Kebabı:** Özel çömlek içinde közde ağır ağır pişen, servis edilirken kırılan lezzet şöleni.\n- **Arabaşı Çorbası ve Hamuru:** Kış gecelerinin vazgeçilmezi olan, özel hamuru çiğnenmeden yutulan yöresel klasik.\n- **Yozgat Parmak Çöreği:** Taş fırında odun ateşinde pişirilen çıtır ve parmak şeklinde geleneksel ekmek.",
+        "landmarks": ["Yozgat Çamlık Milli Parkı", "Sarıkaya Roma Hamamı (Basilica Therma)", "Yozgat Saat Kulesi", "Çapanoğlu Camii", "Yozgat Müzesi (Nizamoğlu Konağı)"]
     }
 }
 
@@ -376,7 +385,7 @@ REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
     "02_Ege": ["Denizli", "Mugla"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
-    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirikkale"],
+    "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirikkale", "Yozgat"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
     "06_DoguAnadolu": ["Ardahan", "Elazig", "Erzincan", "Erzurum", "Kars", "Malatya", "Tunceli", "Agri"],
     "07_GuneydoguAnadolu": []

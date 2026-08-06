@@ -1,6 +1,6 @@
-# 📍 Kırıkkale - Seyahat ve Tefekkür Notları
+# 📍 Kirikkale - Seyahat ve Tefekkür Notları
 
-![Kırıkkale Manzarası](banner.jpg)
+![Kirikkale Manzarası](banner.jpg)
 
 ## 📜 Şehrin Ruhu
 > "Kızılırmak'ın kıvrılan kolları, bozkıra hayat taşımaya çalışan sabırlı damarlar gibidir."
@@ -19,12 +19,12 @@ Kırıkkale, Cumhuriyet döneminde kurulan sanayi tesisleri ve özellikle savunm
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
 - **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Ankara-Kırıkkale yakınlığından faydalanılarak ulaşım bütçesi minimumda tutulmuştur.
+- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
 
 ### 💻 Yarı Göçebe Mesaisi (Upskilling)
 - **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
   * *Seyyahın Kütüphane Notu:* Kırıkkale İl Halk Kütüphanesi - Sakin çalışma ortamı ve modern kaynaklarıyla bozkırın ortasında seyyah yazılımcılar için huzurlu ve verimli bir çalışma durağıdır.
-- **Şehri Sindirme:** Kalan vakitlerde Kızılırmak kenarında yürüyüşler yapılmış ve bozkırın sessizliği tefekkür edilmiştir.
+- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
 
 ### ✨ Keşfedilesi Duraklar
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:

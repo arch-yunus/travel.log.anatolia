@@ -1,5 +1,7 @@
 # 📍 Bayburt - Seyahat ve Tefekkür Notları
 
+![Bayburt Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Yalnızlık ve sessizlik, bozkırın ortasında kurulan bu kalede insanın kendi iç dünyasıyla yüzleşmesini sağlar."
 > "Çoruh Nehri'nin kıvrılarak geçtiği, bozkırın sessizliğinde yükselen kadim kale ve modern sanatın buluştuğu sıradışı diyar."

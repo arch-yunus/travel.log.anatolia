@@ -1,5 +1,7 @@
 # 📍 Sivas - Seyahat ve Tefekkür Notları
 
+![Sivas Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Selçuklu çinilerindeki geometrik nizam, evrendeki kusursuz matematiksel ve manevi düzenin taştaki yansımasıdır."
 > "Ulu medreselerin göğe yükselen çifte minarelerinde, Cumhuriyet'in ilk kongre kararlarının yankılandığı vakur bozkır kalesi."

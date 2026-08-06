@@ -785,6 +785,28 @@ const TRAVEL_DATA = {
         ],
         "library": "Tunceli İl Halk Kütüphanesi - Munzur nehrinin esintisiyle serinleyen, sessiz çalışma ortamı ve güler yüzlü çalışanlarıyla butik kütüphane."
     },
+    "Yozgat": {
+        "name": "Yozgat",
+        "region": "İç Anadolu Bölgesi",
+        "banner": "assets/banner.png",
+        "coords": [
+            39.8181,
+            34.8147
+        ],
+        "hikmet": "Çamlık'taki asırlık çamların fısıltısı, bozkırın ortasında yükselen kadim bir sessizlik ve sığınaktır.",
+        "quote": "\"Asırlık çamların kokusunda ve Roma hamamının sıcak sularında demlenen kadim Anadolu durağı.\"",
+        "description": "Anadolu'nun zengin mozaiğinde yer alan ve Hititlerden Romalılara uzanan zengin bir geçmişe sahip olan Yozgat. Türkiye'nin ilk milli parkı olan Yozgat Çamlık Milli Parkı'nın asırlık çam ağaçları, Sarıkaya ilçesindeki tarihi Roma Hamamı (Basilica Therma) ve tarihi Saat Kulesi ile Yozgat, keşfedilmeyi bekleyen sessiz bir Anadolu hazinesidir.",
+        "sufi_notes": "Çamlık'ın zirvesinde rüzgarın sesini dinlemek, bozkırın ortasındaki bu yeşil sığınağın huzurunda içsel bir dinginliğe ulaşmanızı sağlar. Basilica Therma'nın yüzyıllardır kaynayan sıcak termal sularında, doğanın sunduğu şifayı ve zamanın geçici ama akıcı doğasını tefekkür edersiniz.",
+        "gastronomi": "- **Yozgat Testi Kebabı:** Özel çömlek içinde közde ağır ağır pişen, servis edilirken kırılan lezzet şöleni.\n- **Arabaşı Çorbası ve Hamuru:** Kış gecelerinin vazgeçilmezi olan, özel hamuru çiğnenmeden yutulan yöresel klasik.\n- **Yozgat Parmak Çöreği:** Taş fırında odun ateşinde pişirilen çıtır ve parmak şeklinde geleneksel ekmek.",
+        "landmarks": [
+            "Yozgat Çamlık Milli Parkı",
+            "Sarıkaya Roma Hamamı (Basilica Therma)",
+            "Yozgat Saat Kulesi",
+            "Çapanoğlu Camii",
+            "Yozgat Müzesi (Nizamoğlu Konağı)"
+        ],
+        "library": "Yozgat İl Halk Kütüphanesi - Sessiz, ferah ve araştırmaya uygun çalışma ortamı."
+    },
     "Çorum": {
         "name": "Corum",
         "region": "Karadeniz Bölgesi",

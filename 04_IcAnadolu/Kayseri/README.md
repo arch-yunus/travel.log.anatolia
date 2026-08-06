@@ -7,7 +7,7 @@
 > "Erciyes'in gölgesinde yükselen, Selçuklu mirası taş binalarla bezenmiş ticaretin ve zanaatin kadim merkezi."
 
 ### 🌍 Şehrin Dokusu ve Hatırası
-Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları ve Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.
+Erciyes Dağı'nın heybetli eteklerinde kurulu, Hititlerden Selçuklulara uzanan zengin bir ticaret ve kültür kavşağı Kayseri. Gevher Nesibe Şifahanesi gibi tıp tarihindeki eşsiz Selçuklu eserleri, Talas'ın tarihi taş sokakları and Hunat Hatun Külliyesi ile şehir, geçmişin zarafetini taşımaktadır. Aynı zamanda bozkırın ortasında sanayi ve girişimcilik ruhunu en üst düzeyde yaşatan, çalışmanın ve üretmenin ibadete dönüştüğü vakur bir menzildir.
 
 ### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
 Erciyes'in dumanlı zirvesine Hunat Hatun Külliyesi'nin avlusundan bakmak, insana dünya telaşının gelip geçici olduğunu, kalıcı olanın ise arkada bırakılan hayırlı eserler ve samimiyet olduğunu hatırlatır. Gevher Nesibe'nin taşa kazınmış şifa formüllerinde, hem bedeni hem ruhu tedavi eden o derin Selçuklu felsefesini tefekkür edersiniz.

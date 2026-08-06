@@ -1,5 +1,7 @@
 # 📍 Ardahan - Seyahat ve Tefekkür Notları
 
+![Ardahan Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "En kuzey sınırda esen dondurucu rüzgar, insanın içindeki yaşama azmini ve kardeşlik sıcaklığını daha da kurutmaz, tam aksine artırır."
 > "Yalnızçam Dağları'nın beyaz örtüsü altında, Çıldır Gölü'nün buz tutmuş yüzeyinde atlı kızakların kaydığı sınır boyu."

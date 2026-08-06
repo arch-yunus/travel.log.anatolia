@@ -1,5 +1,7 @@
 # 📍 Tunceli - Seyahat ve Tefekkür Notları
 
+![Tunceli Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Munzur'un hırçın köpüklü suları, dağların derinliklerinden gelen en saf ve temiz yaşam energisidir."
 > "Munzur Dağları'nın geçit vermez zirvelerinde, hırçın nehirlerin ve kutsal gözelerin sarmaladığı gizemli coğrafya."

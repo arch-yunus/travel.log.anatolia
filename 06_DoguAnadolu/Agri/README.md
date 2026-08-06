@@ -1,5 +1,7 @@
 # 📍 Agri - Seyahat ve Tefekkür Notları
 
+![Agri Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Ağrı Dağı'nın bulutları aşan heybeti, insana kendi küçüklüğünü ve yaratıcının büyüklüğünü hatırlatan sessiz bir mabettir."
 > "Doğunun sınır çizgisinde, İshak Paşa Sarayı'nın masalsı silüetinin Ağrı Dağı'nın karlarıyla buluştuğu yüksek diyar."

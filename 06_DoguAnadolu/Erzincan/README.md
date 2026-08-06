@@ -1,5 +1,7 @@
 # 📍 Erzincan - Seyahat ve Tefekkür Notları
 
+![Erzincan Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Depremlerle defalarca yıkılan bu şehrin küllerinden yeniden doğması, sabrın ve yeniden inşa iradesinin en büyük zaferidir."
 > "Munzur Dağları'nın gölgesinde, Fırat Nehri'nin coşkulu kollarında rafting yapılan, küllerinden doğmuş dirençli şehir."

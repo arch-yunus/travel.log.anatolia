@@ -1,5 +1,7 @@
 # 📍 Kars - Seyahat ve Tefekkür Notları
 
+![Kars Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Ani Harabeleri'nin sessizliği, yan yana yıkılmış cami ve kiliselerin asırlar boyu süren ortak insanlık tefekkürüdür."
 > "Rus mimarisinin taş sokaklarından, Ani Harabeleri'nin sınır çizen yalnızlığına uzanan, karlar altındaki sınır masalı."

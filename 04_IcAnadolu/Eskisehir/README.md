@@ -1,5 +1,7 @@
 # 📍 Eskisehir - Seyahat ve Tefekkür Notları
 
+![Eskisehir Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Porsuk Çayı'nın şehri ikiye bölen dingin akışı, modern yaşamın ritmiyle tarihin zarafetinin uyumudur."
 > "Odunpazarı'nın renkli cumbalı evlerinde geçmişin fısıldadığı, gençliğin ve sanatın coşkuyla yaşandığı modern vaha."

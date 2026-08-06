@@ -1,5 +1,7 @@
 # 📍 Gumushane - Seyahat ve Tefekkür Notları
 
+![Gumushane Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Kayaların arasındaki altın ve gümüş madenleri gibi, insanın içindeki cevher de ancak zorlu sınavlardan geçtikten sonra parıldar."
 > "Harşit Vadisi'nin sarp kayalıkları arasına gizlenmiş antik kentlerin, elma bahçelerinin ve gizemli mağaraların yurdu."

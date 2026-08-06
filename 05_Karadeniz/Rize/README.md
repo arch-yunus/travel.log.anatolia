@@ -1,5 +1,7 @@
 # 📍 Rize - Seyahat ve Tefekkür Notları
 
+![Rize Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Bulutların yamaçları kucakladığı bu coğrafya, her an değişen havasıyla hayatın beklenmedik iniş çıkışlarını öğretir."
 > "Yemyeşil çay tarlalarının dik yamaçları süslediği, coşkulu derelerin gürültüsüyle yankılanan yaylalar diyarı."

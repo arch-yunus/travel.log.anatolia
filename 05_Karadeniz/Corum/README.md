@@ -1,5 +1,7 @@
 # 📍 Corum - Seyahat ve Tefekkür Notları
 
+![Corum Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Medeniyetler kılıçla veya kanla kurulsa da, yalnızca masaya barışın mührü basıldığında yarına kalır."
 > "Çivi yazılı taş tabletlerin arasında yankılanan ilk barışın, bereketli topraklardaki unutulmaz izi."

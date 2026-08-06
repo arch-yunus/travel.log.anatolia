@@ -1,5 +1,7 @@
 # 📍 Aksaray - Seyahat ve Tefekkür Notları
 
+![Aksaray Manzarası](banner.jpg)
+
 ## 📜 Şehrin Ruhu
 > "Bozkırın ortasındaki derin vadiler, hayatın en kurak anlarında bile sığınabileceğimiz gizli vahaların olduğunu fısıldar."
 > "Ihlara Vadisi'nin yeşil sükûnetinde akan suların, Hasan Dağı'nın heybetli gölgesiyle buluştuğu kadim geçit."
