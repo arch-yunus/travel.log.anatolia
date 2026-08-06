@@ -69,6 +69,14 @@ Bu defter, Anadolu'nun kadim topraklarında adım adım yürüyen bir **dijital 
 *   ✍️ **Seyyahlık Geleneği:** Evliya Çelebi ve İbn Battuta gibi öncülerimizin izinden giderek, coğrafyanın ruhunu ve halkın irfanını kelimelerle kayıt altına almak.
 *   🤝 **İrfani Paylaşım:** Yollardan devşirdiğimiz tüm hikmetleri, rotaları ve gözlemleri seyahat severlerle hesapsızca paylaşmak.
 
+### 🕌 İrfani Seyahat Merhaleleri (Tasavvuf Felsefesi)
+
+Tasavvuf geleneğinde yolculuk, sadece coğrafi mesafeleri katetmek değil; ruhun olgunlaşma aşamalarını simgeleyen içsel bir eğitim metodudur:
+
+1.  **Sefer-i Sûrî (Zahiri Seyahat):** Bedenen yollara düşmek, yeryüzünü adımlamak, farklı kültürleri ve insanları tanımaktır. Seyyahın dış dünyadaki bu yolculuğu, zihnindeki önyargıları yıkar ve dünyayı daha geniş bir açıyla görmesini sağlar.
+2.  **Sefer-i Manevî (Batıni Seyahat):** Seyyahın kendi içine yaptığı yolculuktur. Kötü huylardan arınma, nefsin terbiyesi ve kalbin saflaşması hedeflenir. Gurbetteki yalnızlık, bu manevi sefere zemin hazırlar.
+3.  **Sefer der Vatan (Halk İçinde Hak ile Olmak):** Seyyahın en büyük mertebesidir. Yolların kalabalığında, şehirlerin gürültüsünde ve insanların arasında yürürken bile kalben yaratıcıyla olan bağı korumak, kesret (kalabalık) içinde vahdeti (birliği) bulmaktır.
+
 ---
 
 <p align="center">
@@ -79,13 +87,25 @@ Bu defter, Anadolu'nun kadim topraklarında adım adım yürüyen bir **dijital 
 
 ---
 
+## 📜 Ecdadın İzinde: Evliya Çelebi ve İbn Battûta Ekolü
+
+Bu dijital seyahatname, tarihin en ulu iki seyyahının mirasçısı olma gayesini taşır:
+
+> **"Seyahat Ya Resulallah!"** <br>
+> *Evliya Çelebi'nin rüyasında Peygamber Efendimiz'den "şefaat" yerine heyecanla "seyahat" dilemesiyle başlayan asırlık Anadolu ve dünya gezisi, yollara sevdalanmanın en samimi ifadesidir. Biz de her şehre girerken Evliya'nın o saf niyetini kalbimizde taşıyoruz.*
+
+*   🐫 **İbn Battûta Titizliği:** Gidilen her bölgenin yönetim yapısını, alimlerini, sufilerini, yemeklerini ve kültürel detaylarını büyük bir sadakat ve detayla kaydetme düsturu.
+*   🖋️ **Evliya Çelebi Coşkusu:** Şehirlerin sadece taş binalarını değil, halkın dilindeki efsaneleri, nehirlerin coşkusunu, ulu ağaçların gölgesini ve manevi havasını büyük bir şevkle seyahatnameye işleme gayreti.
+
+---
+
 ## 🎒 Seyahat Usulü: "Sefer Der Vatan" ve Menzil Disiplini
 
 Bu seyir defteri rastgele bir turistik gezinin değil, seyyahlık kültürünün **Manevi ve Lojistik Disiplini** üzerine kurulmuştur. Seyahatlerimiz, sırt çantalı bir irfan arayışı mantığıyla kurgulanmıştır:
 
 *   ⛺ **Modern Kervansaraylar (GSB Seyahatsever):** Gidilen her ilde, seyyahların barınması için sunulan KYK yurtları adeta modern birer *kervansaray* gibi kullanılır. Konaklama maliyetinin sıfırlanması, gurbette sürdürülebilir bir keşif imkanı sunar.
 *   🐎 **Menzil Stratejisi (5 Gün Kuralı):** Her şehirde tam olarak **5 gün** kalınır. Bu süre, şehri alelacele tüketmek için değil, bir seyyah gibi durağanlaşarak o menzili sindirmek ve tefekkür etmek için belirlenmiş bir duraktır.
-*   📚 **Yolda İlim Tahsili:** Seyahat etmek ilim öğrenmeye engel değildir; bilakis vesiledir. Günün **ilk yarısı**, o şehrin kütüphanesinde (İl Halk Kütüphaneleri) geçirilerek okuma, yazma ve dijital üretim (kodlama) yapılır. Günün **icinci yarısı** ise coğrafyanın sırlarını keşfetmeye ayrılır.
+*   📚 **Yolda İlim Tahsili:** Seyahat etmek ilim öğrenmeye engel değildir; bilakis vesiledir. Günün **ilk yarısı**, o şehrin kütüphanesinde (İl Halk Kütüphaneleri) geçirilerek okuma, yazma ve dijital üretim (kodlama) yapılır. Günün **ikinci yarısı** ise coğrafyanın sırlarını keşfetmeye ayrılır.
 
 ---
 
@@ -96,7 +116,7 @@ Bu seyir defteri rastgele bir turistik gezinin değil, seyyahlık kültürünün
 | **08:30 - 09:00** | 🚀 Menzile Varış | Şehrin kütüphanesine intikal ve zihinsel olarak güne hazırlanma. |
 | **09:00 - 13:00** | 📖 İlim & Üretim | 4 saatlik kesintisiz çalışma. Yazılım geliştirme, okuma ve araştırma mesaisi. |
 | **13:00 - 14:00** | 🍽️ Helal Rızık & Plan | Esnaf lokantalarında öğle yemeği ve o gün adımlanacak yerlerin planlanması. |
-| **14:00 - 20:00** | 🚶 Coğrafi Keşif | Şehrin sokaklarına, camilerine, kalelerine karışma; insanlarla sohbet ve ibret seyri. |
+| **14:00 - 20:00** | 🚶 Coğrafi Keşif | Şehrin sokaklerine, camilerine, kalelerine karışma; insanlarla sohbet ve ibret seyri. |
 | **20:00 - 22:00** | 📝 Seyahatname Notları | Günlük notların temize çekilmesi, tefekkür günlüğünün yazılması ve yedekleme. |
 
 ---
@@ -114,6 +134,14 @@ Gurbette sadelik esastır. Tek bir sırt çantasıyla yola çıkan seyyahın hey
     *   *Mikrofiber Havlu:* Minimum hacim kaplayan ve hızlı kuruyan seyyah dostu havlu.
     *   *Termos / Matara:* Yollarda su ihtiyacını karşılamak ve kütüphanelerde çay bulundurmak için.
     *   *Sırt Çantası Yağmurluğu:* Ani yağan bozkır ve Karadeniz yağmurlarından ilim araçlarını korumak için.
+
+### 🧭 Seyyahın Kütüphane Adabı (Odaklanma ve Hizmet)
+
+İl Halk Kütüphaneleri, seyyah için sadece bir çalışma ofisi değil; bilginin sessizce korunduğu, tefekkürün derinleştiği kutsal mabetlerdir. Çalışmalarımızda şu adaba riayet edilir:
+
+*   🤫 **Manevi Sükunet:** Kütüphanenin sessizliğini ve huzurlu havasını bozacak en ufak hareketten kaçınmak, diğer ilim taliplerinin hakkına saygı duymak.
+*   💻 **Zanaatkâr Titizliği:** Bilgisayar başında kod yazmayı veya ders çalışmayı, ahilik geleneğindeki gibi bir modern zanaat (*modern esnaflık*) olarak görüp işini hakkıyla yapmak.
+*   🌱 **Şükür Hali:** Anadolu'nun en ücra köşesinde dahi bize bu imkanları sunan kütüphanecilere ve devlete minnettarlık duymak, masayı her zaman temiz bırakmak.
 
 ---
 
@@ -256,6 +284,8 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 - ❌ Siirt
 - ❌ Şanlıurfa
 - ❌ Şırnak
+
+
 
 
 
