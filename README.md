@@ -25,22 +25,38 @@
 # 🇹🇷 TRAVEL LOG: ANADOLU SEYAHATNAMESİ
 
 <div align="center">
-  
+
+### 🌍 Dünya Düşünürlerinden Seyahat Aforizmaları
+
 > *"Dünya bir kitaptır ve seyahat etmeyenler onun sadece bir sayfasını okur."* <br> — **Aurelius Augustinus**
 >
 > *"İyi bir gezginin sabit planları ve varmak gibi bir amacı yoktur."* <br> — **Lao Tzu**
 >
-> *"Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* <br> — **İbn Battuta**
->
 > *"Gerçek keşif yolculuğu yeni manzaralar bulmak değil, yeni gözlerle bakmaktır."* <br> — **Marcel Proust**
->
-> *"Her şeyden önce gezgin olunmalı; dünya ancak o zaman gerçekten hissedilir."* <br> — **Mevlana Celaleddin-i Rumi**
 >
 > *"Kıyıyı gözden kaybetmeye cesaret edemeyenler, yeni okyanuslar keşfedemezler."* <br> — **Andre Gide**
 >
 > *"Yollar, sadece ayakların değil, zihnin de özgürleştiği patikalardır."* <br> — **Friedrich Nietzsche**
 >
 > *"Gezgin, vardığı yerdeki her taşı bir anı, her insanı bir öğretmen gibi selamlar."* <br> — **Hint Özdeyişi**
+
+### 🕌 İslam Kültüründe Seyyahlık, Tefekkür ve Sefer
+
+> *"De ki: Yeryüzünde gezip dolaşın da Allah’ın yaratmaya nasıl başladığını görün..."* <br> — **Kur'an-ı Kerim (Ankebût Suresi, 20. Ayet)**
+>
+> *"Yolculuğa çıkın ki sıhhat bulasınız ve ganimet elde edesiniz."* <br> — **Hz. Muhammed (s.a.v.)**
+>
+> *"Dünyada tıpkı bir garip veya bir yolcu (garîbün ev âbiru sebîl) gibi ol."* <br> — **Hz. Muhammed (s.a.v.)**
+>
+> *"Gurbet ara, seyahat et; çünkü seyahatte beş fayda vardır: Kederden arınmak, geçim kapısı bulmak, ilim tahsil etmek, edep öğrenmek ve ulu zatlarla dostluk kurmak."* <br> — **İmam Şâfiî**
+>
+> *"Su akar ve hareket ederse tatlanır ve temiz kalır; durursa bozulur ve kokar. İnsan da seyahat ettikçe kemale erer."* <br> — **İmam Şâfiî**
+>
+> *"Yolculuk; varlığın hakikatini, insanın acziyetini ve nefsin gizli köşelerini ortaya çıkaran en berrak aynadır."* <br> — **Muhyiddin İbnü'l-Arabî**
+>
+> *"Yola çık ki yol sana görünsün; kendini yola bırak ki menzile eresin."* <br> — **Ferîdüddin Attar (Mantıku't-Tayr)**
+>
+> *"Her şeyden önce gezgin olunmalı; dünya ancak o zaman gerçekten hissedilir. Yolculuk, önce seni sessizleştirir, sonra da iyi bir hikâye anlatıcısına dönüştürür."* <br> — **Mevlânâ Celâleddîn-i Rûmî & İbn Battûta**
 
 </div>
 
