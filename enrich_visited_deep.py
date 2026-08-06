@@ -383,7 +383,7 @@ VISITED_DEEP_DETAILS = {
 
 REGIONS_MAP = {
     "01_Marmara": ["Istanbul", "Kocaeli", "Bursa"],
-    "02_Ege": ["Denizli", "Mugla"],
+    "02_Ege": ["Denizli", "Mugla", "Izmir"],
     "03_Akdeniz": ["Antalya", "Adana", "Hatay", "Mersin", "Isparta"],
     "04_IcAnadolu": ["Ankara", "Konya", "Nevsehir", "Aksaray", "Eskisehir", "Sivas", "Kayseri", "Kirikkale", "Yozgat"],
     "05_Karadeniz": ["Amasya", "Corum", "Samsun", "Sinop", "Giresun", "Ordu", "Trabzon", "Artvin", "Bayburt", "Gumushane", "Rize"],
@@ -408,6 +408,7 @@ def enrich_visited():
             if clean_city == "Eskişehir": lookup_key = "Eskisehir"
             if clean_city == "Gümüşhane": lookup_key = "Gumushane"
             if clean_city == "Elazığ": lookup_key = "Elazig"
+            if clean_city == "İzmir": lookup_key = "Izmir"
             
             if lookup_key in VISITED_DEEP_DETAILS and lookup_key in cities:
                 

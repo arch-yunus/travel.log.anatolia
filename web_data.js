@@ -854,5 +854,28 @@ const TRAVEL_DATA = {
             "Eyüp Sultan Türbesi"
         ],
         "library": "Şemsipaşa İlçe Halk Kütüphanesi (Üsküdar) - Denize sıfır konumuyla tefekküre değer, internet hızı yüksek, priz imkanı sınırlı ama atmosferi büyüleyici."
+    },
+    "İzmir": {
+        "name": "Izmir",
+        "region": "Ege Bölgesi",
+        "banner": "assets/banner.png",
+        "coords": [
+            38.4192,
+            27.1287
+        ],
+        "hikmet": "Ege'nin özgür rüzgarı ve parıldayan güneşi, insana hayatın her anını coşkuyla ve sevgiyle yaşamayı fısıldar.",
+        "quote": "\"Mavi denizin kıyısında, antik kütüphanelerin ve kordon boyundaki cıvıl cıvıl hayatın harmanlandığı Ege'nin incisi.\"",
+        "description": "Ege'nin kalbi, Türkiye'nin batıya açılan en aydınlık penceresi İzmir. Kordon boyundaki palmiyeleri, Tarihi Saat Kulesi, cıvıl cıvıl Kemeraltı Çarşısı ve hemen yanı başındaki antik dünyanın en büyük kenti Efes ile İzmir, hem modern bir metropol hem de devasa bir tarih hazinesidir. Şehir, insanının sıcaklığı, özgür ruhu ve körfezin getirdiği huzurla seyyahların vazgeçilmez duraklarından biridir.",
+        "sufi_notes": "Efes Antik Kenti'nin mermer caddelerinde yürürken, bir zamanlar binlerce insanın yaşadığı bu devasa şehrin şimdi sessiz harabelerden ibaret olmasını tefekkür edersiniz. Celsus Kütüphanesi'nin önünde durup insan aklının ve bilgisinin kalıcılığını hissedersiniz. Şirince'nin yeşil tepeleri arasındaki eski Rum evlerinin sessizliği, geçmişteki ortak yaşamın ve kültürlerin manevi zenginliğini ruhunuza fısıldar.",
+        "gastronomi": "- **Boyoz:** İzmir'in simgesi olan, sabahları fırından sıcak çıkan, haşlanmış yumurta eşliğindeki çıtır hamur işi.\n- **İzmir Kumrusu:** Nohut mayalı özel ekmek arasına şarküteri ürünleri ve İzmir tulumu konarak yapılan sandviç.\n- **Şambali:** İrmikli, şerbetli, üzeri fıstıklı ve tarçınlı geleneksel sokak tatlısı.",
+        "landmarks": [
+            "Tarihi Saat Kulesi",
+            "Efes Antik Kenti (Selçuk)",
+            "Kemeraltı Çarşısı",
+            "Kordon Boyu",
+            "Tarihi Asansör",
+            "Şirince Köyü"
+        ],
+        "library": "İzmir Atatürk İl Halk Kütüphanesi - Konak'ta yer alan, İzmir'in en köklü kütüphanelerinden biri. Çalışma alanları ferah, internet bağlantısı hızlı."
     }
 };
