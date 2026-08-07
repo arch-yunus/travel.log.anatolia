@@ -193,85 +193,85 @@ Anadolu'nun dört bir yanında adımladığımız, tarihi ve manevi izleri takip
 **🏰 Marmara Bölgesi (3/11)**
 - ❌ Balıkesir
 - ❌ Bilecik
-- ✅ **Bursa**
+- ✅ [**Bursa**](01_Marmara/Bursa/README.md)
 - ❌ Edirne
-- ✅ **Kocaeli**
+- ✅ [**Kocaeli**](01_Marmara/Kocaeli/README.md)
 - ❌ Kırklareli
 - ❌ Sakarya
 - ❌ Tekirdağ
 - ❌ Yalova
 - ❌ Çanakkale
-- ✅ **İstanbul**
+- ✅ [**İstanbul**](01_Marmara/Istanbul/README.md)
 
 **🌊 Ege Bölgesi (3/8)**
 - ❌ Afyonkarahisar
 - ❌ Aydın
-- ✅ **Denizli**
+- ✅ [**Denizli**](02_Ege/Denizli/README.md)
 - ❌ Kütahya
 - ❌ Manisa
-- ✅ **Muğla**
+- ✅ [**Muğla**](02_Ege/Mugla/README.md)
 - ❌ Uşak
-- ✅ **İzmir**
+- ✅ [**İzmir**](02_Ege/Izmir/README.md)
 
 **☀️ Akdeniz Bölgesi (5/8)**
-- ✅ **Adana**
-- ✅ **Antalya**
+- ✅ [**Adana**](03_Akdeniz/Adana/README.md)
+- ✅ [**Antalya**](03_Akdeniz/Antalya/README.md)
 - ❌ Burdur
-- ✅ **Hatay**
-- ✅ **Isparta**
+- ✅ [**Hatay**](03_Akdeniz/Hatay/README.md)
+- ✅ [**Isparta**](03_Akdeniz/Isparta/README.md)
 - ❌ Kahramanmaraş
-- ✅ **Mersin**
+- ✅ [**Mersin**](03_Akdeniz/Mersin/README.md)
 - ❌ Osmaniye
 
 **🌾 İç Anadolu Bölgesi (9/13)**
-- ✅ **Aksaray**
-- ✅ **Ankara**
-- ✅ **Eskişehir**
+- ✅ [**Aksaray**](04_IcAnadolu/Aksaray/README.md)
+- ✅ [**Ankara**](04_IcAnadolu/Ankara/README.md)
+- ✅ [**Eskişehir**](04_IcAnadolu/Eskisehir/README.md)
 - ❌ Karaman
-- ✅ **Kayseri**
-- ✅ **Konya**
-- ✅ **Kırıkkale**
+- ✅ [**Kayseri**](04_IcAnadolu/Kayseri/README.md)
+- ✅ [**Konya**](04_IcAnadolu/Konya/README.md)
+- ✅ [**Kırıkkale**](04_IcAnadolu/Kirikkale/README.md)
 - ❌ Kırşehir
-- ✅ **Nevşehir**
+- ✅ [**Nevşehir**](04_IcAnadolu/Nevsehir/README.md)
 - ❌ Niğde
-- ✅ **Sivas**
-- ✅ **Yozgat**
+- ✅ [**Sivas**](04_IcAnadolu/Sivas/README.md)
+- ✅ [**Yozgat**](04_IcAnadolu/Yozgat/README.md)
 - ❌ Çankırı
 
 **🌲 Karadeniz Bölgesi (11/18)**
-- ✅ **Amasya**
-- ✅ **Artvin**
+- ✅ [**Amasya**](05_Karadeniz/Amasya/README.md)
+- ✅ [**Artvin**](05_Karadeniz/Artvin/README.md)
 - ❌ Bartın
-- ✅ **Bayburt**
+- ✅ [**Bayburt**](05_Karadeniz/Bayburt/README.md)
 - ❌ Bolu
 - ❌ Düzce
-- ✅ **Giresun**
-- ✅ **Gümüşhane**
+- ✅ [**Giresun**](05_Karadeniz/Giresun/README.md)
+- ✅ [**Gümüşhane**](05_Karadeniz/Gumushane/README.md)
 - ❌ Karabük
 - ❌ Kastamonu
-- ✅ **Ordu**
-- ✅ **Rize**
-- ✅ **Samsun**
-- ✅ **Sinop**
+- ✅ [**Ordu**](05_Karadeniz/Ordu/README.md)
+- ✅ [**Rize**](05_Karadeniz/Rize/README.md)
+- ✅ [**Samsun**](05_Karadeniz/Samsun/README.md)
+- ✅ [**Sinop**](05_Karadeniz/Sinop/README.md)
 - ❌ Tokat
-- ✅ **Trabzon**
+- ✅ [**Trabzon**](05_Karadeniz/Trabzon/README.md)
 - ❌ Zonguldak
-- ✅ **Çorum**
+- ✅ [**Çorum**](05_Karadeniz/Corum/README.md)
 
 **🏔️ Doğu Anadolu Bölgesi (8/14)**
-- ✅ **Ardahan**
-- ✅ **Ağrı**
+- ✅ [**Ardahan**](06_DoguAnadolu/Ardahan/README.md)
+- ✅ [**Ağrı**](06_DoguAnadolu/Agri/README.md)
 - ❌ Bingöl
 - ❌ Bitlis
-- ✅ **Elazığ**
-- ✅ **Erzincan**
-- ✅ **Erzurum**
+- ✅ [**Elazığ**](06_DoguAnadolu/Elazig/README.md)
+- ✅ [**Erzincan**](06_DoguAnadolu/Erzincan/README.md)
+- ✅ [**Erzurum**](06_DoguAnadolu/Erzurum/README.md)
 - ❌ Hakkari
 - ❌ Iğdır
-- ✅ **Kars**
-- ✅ **Malatya**
+- ✅ [**Kars**](06_DoguAnadolu/Kars/README.md)
+- ✅ [**Malatya**](06_DoguAnadolu/Malatya/README.md)
 - ❌ Muş
-- ✅ **Tunceli**
+- ✅ [**Tunceli**](06_DoguAnadolu/Tunceli/README.md)
 - ❌ Van
 
 **🏜️ G.Doğu Anadolu Bölgesi (0/9)**
