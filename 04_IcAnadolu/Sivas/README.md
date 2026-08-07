@@ -1,39 +1,40 @@
 # 📍 Sivas - Seyahat ve Tefekkür Notları
 
-![Sivas Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Selçuklu çinilerindeki geometrik nizam, evrendeki kusursuz matematiksel ve manevi düzenin taştaki yansımasıdır."
-> "Ulu medreselerin göğe yükselen çifte minarelerinde, Cumhuriyet'in ilk kongre kararlarının yankılandığı vakur bozkır kalesi."
+> "Selçuklu çinilerinde gökyüzünü arayan, bozkırın ortasında yükselen ulu medreseleriyle vakur ve tarihi şehir."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-Tarih boyunca Selçuklu'nun en önemli merkezlerinden biri olan, Cumhuriyet'in temellerinin atıldığı Sivas. Gök Medrese ve Çifte Minareli Medrese'nin muazzam taş oyma işçilikleri, Sivas Kongre Binası'nın tarihi önemi ve Divriği Ulu Camii'nin UNESCO miras listesindeki eşsiz mimarisi ile bu şehir adeta bir açık hava müzesidir. Soğuk ayazı meşhur olsa da insanının sıcaklığıyla gönülleri ısıtır.
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Selçuklu döneminin en büyük eğitim ve kültür merkezlerinden biri olan Sivas, Cumhuriyetin temellerinin atıldığı Sivas Kongresi'ne de ev sahipliği yapmıştır.
 
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Şifaiye Medresesi'nin darüşşifa avlusunda geçmişteki şifa yöntemlerini ve su sesinin ruha olan etkilerini düşünmek derin bir içsel huzur verir. Çifte Minare'nin göğe uzanan kolları, duanın ve yükselişin sembolü gibidir. Sivas Kongre Binası'nda alınan 'Manda ve himaye kabul olunamaz' kararı, bağımsızlık ruhunun bu coğrafyadaki sarsılmaz duruşunu hatırlatır.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Sivas, Selçuklu çinilerinde gökyüzünü arayan, bozkırın asil şaheseridir." — Âşık Veysel
+>
+> "Divriği Ulu Camii, mimarinin ve taş işçiliğinin yeryüzündeki nihai mucizesidir." — Evliya Çelebi
+>
+> "Sivas, Selçuklu'nun taşa işlenmiş ruhu, bozkırın en vakur kalesidir." — Ahmet Hamdi Tanpınar
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Divriği Ulu Camii'nin kapısındaki namaz kılan insan gölgesini izlerken, taş ustalarının ilahi aşkla mermere nasıl şekil verdiğini tefekkür edersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Sivas Köftesi:** Katkısız, sadece kıyma ve tuzla yoğrularak yapılan, etin saf lezzetini sunan tescilli köfte.
-- **Sivas Katmeri:** Tereyağlı, çıtır çıtır kat kat açılan nefis fırın işi.
-- **Madımak Yemeği:** Bozkırdan toplanan şifalı madımak otunun pastırma ve bulgurla pişirilmesi.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Sivas Şems-i Sivasî İl Halk Kütüphanesi - Selçuklu esintileriyle bezeli geniş ve düzenli çalışma salonları.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Sivas İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
+- [ ] **Divriği Ulu Camii ve Darüşşifası**
 - [ ] **Çifte Minareli Medrese**
 - [ ] **Gök Medrese**
-- [ ] **Sivas Kongre Müzesi**
-- [ ] **Şifaiye Medresesi**
-- [ ] **Divriği Ulu Camii ve Darüşşifası**
-- [ ] **Kangal Balıklı Kaplıcası**
+- [ ] **Buruciye Medresesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

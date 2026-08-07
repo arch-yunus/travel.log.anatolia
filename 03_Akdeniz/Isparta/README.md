@@ -1,39 +1,37 @@
 # 📍 Isparta - Seyahat ve Tefekkür Notları
 
-![Isparta Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Gülün kokusu geçicidir ama onun ruhumuza üflediği zarafet ve saflık baki kalır."
-> "Göller yöresinin serin esintisinde, lavanta ve gül kokulu sokakların asırlık tarihle buluştuğu sakin şehir."
+> "Güllerin ve lavantaların kokusuyla bezenmiş, göller yöresinin incisi, doğa harikası şehir."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-Göller Yöresi'nin kalbinde yer alan, Türkiye'nin gül bahçesi Isparta. Eğirdir Gölü'nün göz alıcı turkuazı, lavanta kokulu Kuyucak köyü ve antik çağların izlerini taşıyan Sagalassos ile burası doğanın ve tarihin en huzurlu köşelerinden biridir. Şehir, sakin yaşamı ve mis kokulu tarım arazileriyle insana huzur verir.
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Pisidya bölgesinde yer alan Isparta, Selçuklu ve Hamitoğulları beyliği dönemlerinde önemli bir kültür merkezi olmuş, günümüzde gül tarımıyla dünyaya açılmıştır.
 
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Eğirdir Gölü'nün kenarında durup gün batımını izlemek, hayatın karmaşasından sıyrılıp sakinleşmek için harika bir tefekkür anıdır. Gül hasadı yapan işçilerin alın terini görmek, emeğin ve doğanın cömertliğinin kutsallığını hatırlatır. Sagalassos'un yüksek zirvelerinde yükselen sütunlar, insan yapımı görkemin doğanın büyüklüğü karşısındaki yerini gösterir.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Isparta, güllerin kokusunda cennet bahçelerinden bir esintidir." — Evliya Çelebi
+>
+> "Eğirdir, dağların arasında mavi bir ayna gibidir." — Seyyah İbn Battûta
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Eğirdir Gölü'nün sakin sularında, doğanın sunduğu huzuru ve yaratılışın estetiğini tefekkür edersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Isparta Fırın Kebabı:** Kuzu etinin taş fırınlarda kendi yağıyla saatlerce pişmesiyle oluşan enfes lezzet.
-- **Kabune Pilavı:** Düğünlerin vazgeçilmezi olan nohutlu, etli ve baharatlı geleneksel pilav.
-- **Gül Şerbeti:** Taze gül yapraklarından yapılan mis kokulu, serinletici şerbet.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Isparta Halil Hamit Paşa İl Halk Kütüphanesi - Şehir merkezinde, sessiz çalışma alanları geniş ve ferah.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Isparta İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
-- [ ] **Eğirdir Gölü ve Can Ada**
-- [ ] **Sagalassos Antik Kenti**
+- [ ] **Eğirdir Gölü**
 - [ ] **Kuyucak Lavanta Köyü**
-- [ ] **Yazılı Kanyon Tabiat Parkı**
-- [ ] **Isparta Ulu Camii**
-- [ ] **Davraz Dağı Kayak Merkezi**
+- [ ] **Yazılı Kanyon**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

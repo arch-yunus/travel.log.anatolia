@@ -1,45 +1,37 @@
 # 📍 Corum - Seyahat ve Tefekkür Notları
 
-![Corum Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Medeniyetler kılıçla veya kanla kurulsa da, yalnızca masaya barışın mührü basıldığında yarına kalır."
-> "Çivi yazılı taş tabletlerin arasında yankılanan ilk barışın, bereketli topraklardaki unutulmaz izi."
+> "Hattuşaş antik kentinin binlerce yıllık mabet kalıntılarıyla Hitit uygarlığının gücünü fısıldayan kadim topraklar."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-Hititlerin kadim güneşi altında yıkanan, bereketin, tarihin ve Anadolu uygarlıklarının beşiği. Çorum, gösterişten uzak tepelerinde binlerce yıllık bir imparatorluk mirasını saklar.
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Hitit İmparatorluğu'nun başkenti olan Hattuşaş ve Alacahöyük gibi dünyanın en eski arkeolojik alanlarına sahip olan Çorum, insanlık tarihinin en önemli kapılarından biridir.
 
-Hattuşaş'ın yıkıntıları arasında, Aslanlı Kapı'dan içeri doğru yürürken duyulan tek ses, toprağın ve rüzgarın binlerce yıllık şahitliğinin ninnisine benzer. Şehir, leblebicilerinin burna dolan o güzel kavrulmuş kokusu ile samimi, mütevazı ama derin bir karakter sergiler.
-
-Alacahöyük'te bulunan Sfenksli Kapı ve kral mezarlarından çıkarılan güneş kursları, insanoğlunun tunç çağındaki o olağanüstü sanat yeteneğine hayran bırakır. Çorum, gösterişsiz bozkır örtüsünün altında, antik dünyanın en büyük askeri ve diplomatik dehalarından birinin izlerini gururla taşır.
-
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Krallar unutulup gider, aşılamaz denen devasa surlar yıkılır. Ancak insanlık tarihine düşülen 'Kadeş Barış Antlaşması' notu sonsuza kadar toprağın hafızasında kalır. Gücün ardındaki asıl zarafet ve barışın kıymeti, bu bozkır harabelerinde yatar.
-
-Zamanın acımasız dişlileri arasında kaybolmamak için taşa kazınan o hiyeroglifler bile yavaş yavaş silinir. Çorum'un sessiz harabeleri bize, dünyada bıraktığımız en kalıcı izin taş binalar değil, kalplere ektiğimiz sevgi, dürüstlük ve erdem tohumları olduğunu hatırlatır.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Hattuşaş, taşın ve demirin Hitit ustaları eliyle şekillendiği, tarihin ilk büyük başkentidir." — Ekrem Akurgal
+>
+> "Çorum, Hitit mirasının üzerinde yükselen bereketli bir Anadolu vahasıdır." — Evliya Çelebi
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Hattuşaş Yazılıkaya'daki kaya kabartmalarını incelerken, binlerce yıl önce yaşamış insanların inanç dünyasını ve zamanın acımasız akışını tefekkür edersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Taze Kavrulmuş Çorum Leblebisi:** Sokakları saran sıcacık, odun ateşi tadında nohutun sanata dönüşmüş hali.
-- **İskilip Dolması:** Ağzı mühürlenmiş kazanlarda saatlerce pişen destansı ziyafet yemeği.
-- **Kuru Mantı:** Genellikle fırınlanıp kurutularak saklanan ve kışın yoğurtla şölene dönüşen lezzet.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Çorum İl Halk Kütüphanesi - Sessiz ve düzenli çalışma odalarıyla odaklanmayı kolaylaştıran sakin bir Anadolu kütüphanesi.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Corum İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Hattuşaş Antik Kenti (Boğazkale)**
-- [ ] **Alacahöyük**
+- [ ] **Alacahöyük Arkeolojik Alanı**
 - [ ] **Çorum Müzesi**
-- [ ] **Yazılıkaya Açık Hava Tapınağı**
-- [ ] **Şapinuva**
-- [ ] **Saat Kulesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

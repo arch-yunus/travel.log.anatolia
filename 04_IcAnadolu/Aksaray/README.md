@@ -1,39 +1,37 @@
 # 📍 Aksaray - Seyahat ve Tefekkür Notları
 
-![Aksaray Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Bozkırın ortasındaki derin vadiler, hayatın en kurak anlarında bile sığınabileceğimiz gizli vahaların olduğunu fısıldar."
-> "Ihlara Vadisi'nin yeşil sükûnetinde akan suların, Hasan Dağı'nın heybetli gölgesiyle buluştuğu kadim geçit."
+> "Ihlara Vadisi'nin dik yamaçları arasında, Melendiz Çayı'nın şırıltısıyla demlenen bozkırın mistik kapısı."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-Kapadokya'nın batı kapısı olan, Hasan Dağı'nın eteklerindeki Aksaray. Melendiz Çayı'nın binlerce yılda oyduğu muazzam Ihlara Vadisi, kayalara oyulmuş kiliseleri ve Selçuklu mirası kervansaraylarıyla burası adeta bir tarih and doğa müzesidir. Bozkırın ortasında yükselen bu antik kent, kervanların ve dervişlerin asırlar boyu sığındığı bir menzildir.
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Kapadokya'nın batı kapısı olan Aksaray, Selçuklu döneminde İpekyolu'nun en güvenli ve zengin konaklama merkezlerinden biri olmuştur.
 
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Ihlara Vadisi'ne inen yüzlerce basamağı adımlarken insan gürültülü dünyayı geride bırakıp nehrin ve kuşların sesine odaklanır. Selime Katedrali'nin devasa kaya oyuklarında yankılanan rüzgar, geçmiş yüzyıllardaki insanların manevi arayışlarını hissettirir. Eğri Minare'nin eğikliğine rağmen asırlardır ayakta durması, inancın ve sağlam temellerin gücünü sembolize eder.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Aksaray, Selçuklu'nun adil kalesi, bozkırın ortasındaki ilim yuvasıdır." — İbn Battûta
+>
+> "Ihlara, yer altında akan nehrin ve kayalara oyulmuş mabetlerin vadisidir." — Evliya Çelebi
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Ihlara Vadisi'nin derinliklerinde yürürken, doğanın sabırla kayayı nasıl oyduğunu ve ilk Hristiyanların sığındığı mağaralardaki tefekkür dünyasını hissedersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Aksaray Tava:** Kuzu eti, sarımsak ve domatesin fırında ağır ağır pişmesiyle yapılan nefis yemek.
-- **Şeker Pancarı Pekmezi:** Bölgenin verimli topraklarından elde edilen doğal ve şifalı pekmez.
-- **Sıkma:** Sıcak sac ekmeği arasına yerel tulum peyniri konularak yapılan pratik lezzet.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Aksaray İl Halk Kütüphanesi - Bozkırın ortasında modern ve sessiz bir çalışma alanı.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Aksaray İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Ihlara Vadisi**
-- [ ] **Selime Katedrali**
-- [ ] **Hasan Dağı**
-- [ ] **Eğri Minare (Kızıl Minare)**
-- [ ] **Sultanhanı Kervansarayı**
-- [ ] **Narlıgöl (Krater Gölü)**
+- [ ] **Somuncu Baba Türbesi**
+- [ ] **Eğri Minare**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

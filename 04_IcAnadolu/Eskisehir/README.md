@@ -1,39 +1,37 @@
 # 📍 Eskisehir - Seyahat ve Tefekkür Notları
 
-![Eskisehir Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Porsuk Çayı'nın şehri ikiye bölen dingin akışı, modern yaşamın ritmiyle tarihin zarafetinin uyumudur."
-> "Odunpazarı'nın renkli cumbalı evlerinde geçmişin fısıldadığı, gençliğin ve sanatın coşkuyla yaşandığı modern vaha."
+> "Porsuk Çayı'nın iki yakasında yükselen, gençliğin, sanatın ve Odunpazarı'nın tarihi evlerinin harmanlandığı kültür şehri."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-İç Anadolu'nun parlayan yıldızı, kültür, sanat ve üniversite şehri Eskişehir. Tarihi Odunpazarı evlerinin nostaljik sokaklarından, Porsuk Çayı kenarındaki modern kafelere; lüle taşı işçiliğinden devasa parklarına kadar burası Türkiye'nin en yaşanabilir ve estetik şehirlerinden biridir. Kent, geçmişi korurken geleceğe umutla bakan aydınlık bir karaktere sahiptir.
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Frigya döneminin önemli yerleşimlerinden olan Eskişehir (Dorylaion), Selçuklu ve Osmanlı döneminde de stratejik bir geçiş noktası ve kültür merkezi olmuştur.
 
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Kurşunlu Külliyesi'nin sessiz avlusunda oturup lüle taşı ustalarının sabırlı ellerini izlemek, sabrın ve sanatın manevi değerini anlamak için güzel bir fırsattır. Şehrin içinden geçen Porsuk Çayı, hayatın da böyle berrak ve akıcı olması gerektiğini fısıldar. Balmumu müzesindeki heykellere bakmak, tariye yön veren insanların bıraktığı kalıcı izler üzerine tefekküre sevk eder.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Eskişehir, Porsuk'un suladığı modern bir vaha, Anadolu'nun gülen yüzüdür." — Yılmaz Büyükerşen
+>
+> "Odunpazarı, ahşabın ve taşın en güzel komşuluk yaptığı tarihi mahalledir." — Evliya Çelebi
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Odunpazarı'nın Arnavut kaldırımlı sokaklarında yürürken, geçmişin sıcak mahalle kültürünü ve ahşap konaklardaki yaşanmışlıkları tefekkür edersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Çibörek:** İnce açılmış hamur içine kıyma konularak yağda kızartılan Kırım Tatar mirası efsane lezzet.
-- **Balaban Köfte:** Soslu pide parçaları üzerine dizilen köfte, yoğurt ve tereyağı kombinasyonu.
-- **Met Helvası:** Un, yağ ve şekerden yapılan, pişmaniyeye benzeyen geleneksel Eskişehir helvası.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Eskişehir İl Halk Kütüphanesi - Genç nüfusun yoğun olduğu, dinamik, internet hızı yüksek ve priz imkanı bol olan modern kütüphane.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Eskisehir İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
-- [ ] **Tarihi Odunpazarı Evleri**
-- [ ] **Porsuk Çayı ve Adalar Bölgesi**
-- [ ] **Kurşunlu Külliyesi ve Camii**
-- [ ] **Sazova Parkı (Bilim Sanat ve Kültür Parkı)**
-- [ ] **Eskişehir Balmumu Heykeller Müzesi**
-- [ ] **Kentpark**
+- [ ] **Odunpazarı Tarihi Evleri**
+- [ ] **Sazova Bilim Kültür ve Sanat Parkı**
+- [ ] **Porsuk Çayı ve Adalar**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅

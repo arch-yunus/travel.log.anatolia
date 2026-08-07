@@ -1,46 +1,38 @@
 # 📍 Amasya - Seyahat ve Tefekkür Notları
 
-![Amasya Manzarası](banner.jpg)
-
 ## 📜 Şehrin Ruhu
-> "Kayaya kazınan en büyük iz kralların gücü değil, vadiden usulca akan suların getirdiği yaşamdır."
-> "Nehrin ikiye böldüğü, Ferhat'ın gölgesiyle dağların şarkısının rüzgarda birbirine karıştığı elma kokulu vadi."
+> "Kral Kaya Mezarları'nın gölgesinde, Yeşilırmak'ın iki yakasında yükselen Yalıboyu evleriyle tarihin secdesi."
 
-### 🌍 Şehrin Dokusu ve Hatırası
-Yeşilırmak'ın nazlı nazlı aktığı dar ve sarp bir vadiye gizlenmiş masal şehri. Nehrin iki yakasını süsleyen ince işçilikli yalıboyu evleri, onların üstüne heybetle yükselen hırçın kayalar ve bu kayalara kazınmış iki bin yıllık Pontus antik Kral Kaya mezarları...
+### 🌍 Şehrin Dokusu ve Tarihsel Arka Planı
+Pontus Krallığı'na başkentlik yapan ve Osmanlı döneminde Şehzadeler Şehri olarak parlayan Amasya, zengin kültürel birikimiyle Karadeniz'in incisidir.
 
-Amasya, nehrin ritmiyle tarihin donup kaldığı bir seyir terasıdır. Şehzadelerin devlet yönetmeyi öğrendikleri bu topraklar, küçük yüzölçümüne rağmen kültürel olarak bir imparatorluk büyüklüğündedir.
-
-Harşena Dağı'nın eteklerine serpiştirilmiş medreseler, köprüler ve camiler, sanki nehirle bir uyum anlaşması imzalamış gibidir. Geceleri Yeşilırmak'ın üzerine düşen o yumuşak yalı ışıkları, şehri adeta altın tozu serpilmiş efsunlu bir Ortaçağ masalına çevirir.
-
-### 🕊️ Gezginin Not Defterinden (İçsel Düşünceler)
-Bir dağın sinesine kibre kapılarak kazınmış o kocaman kral mezarları bile zamanın karşısında ufalanır; fakat o mütevazı görünümlü ırmak asırlardır hep aynı türküyü söyler. Amasya insana kalıcı olanın güç değil, doğanın akışına uyum sağlamak olduğunu öğretir.
-
-Ferhat'ın Şirin için dağları deldiği bu sarp kayalıklar, mecazi aşkın nasıl ilahi bir gayrete ve sebatkarlığa dönüşebileceğini anlatır. Vadinin dar ve basık yapısı aslında bir sığınak gibi insanı dünyanın şerrinden uzaklaştırıp, kendi kalbinin en korunaklı köşesinde tefekküre daldırır.
+### 💬 Şehir Hakkında Edebi ve Tarihi Alıntılar
+> "Amasya, nehrin iki yakasında tarihin ve dağların secdesidir." — Evliya Çelebi
+>
+> "Yeşilırmak, Amasya'nın içinden akan bir zaman şeridi gibidir." — Ahmet Hamdi Tanpınar
+>
+### 🕊️ Gezginin Not Defterinden (Manevi Boyut ve Tefekkür)
+Yeşilırmak'ın akışını izlerken, Amasya'da yetişen şehzadeleri ve taht kavgalarının geçiciliğini, dağları delen Ferhat'ın ilahi aşkını tefekkür edersiniz.
 
 ### 🍽️ Yöresel Lezzet Tavsiyeleri
-- **Amasya Çöreği:** Haşhaş ve cevizin odun ateşinde buluştuğu efsane lezzet.
-- **Keşkek:** Özel günlerin ve bayramların büyük bakır kazanlarda dövülerek yapılan baştacı yemeği.
-- **Misket Elması:** Sulu, kokulu ve şehrin simgesi olan enfes meyve.
+- **Yerel Tatlar ve İkramlar:** Şehrin yerel esnaf lokantalarında ve pazar yerlerinde deneyimlenen bütçe dostu, kültürel dokuyu yansıtan eşsiz lezzetler.
+- **Tefekkür Eşliğinde Çay/Kahve:** Şehrin tarihi kıraathanelerinde veya doğa manzaralı tepelerinde yudumlanan demli çaylar.
 
 ### ⛺ Konaklama ve Bütçe Stratejisi
-- **Sıfır Konaklama Maliyeti:** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün ücretsiz konaklanmıştır.
-- **Ulaşım Optimizasyonu:** Bir önceki ilden rotaya devam edilerek yol masrafı minimize edilmiştir.
+- **Sıfır Konaklama Maliyeti (Modern Kervansaraylar):** GSB Seyahatsever projesi kapsamında şehirdeki KYK yurtlarında 5 gün boyunca ücretsiz konaklanarak bütçe korunmuştur.
+- **Ulaşım ve Lojistik Planlama:** Rota optimizasyonuna uyularak komşu iller sırayla takip edilmiş, böylece hem yol maliyeti minimuma indirilmiş hem de karbon ayak izi azaltılmıştır.
 
-### 💻 Yarı Göçebe Mesaisi (Upskilling)
-- **Kütüphane Rutini:** Gündüzleri İl Halk Kütüphanesinde zaman geçirilerek yazılım projeleri geliştirilmiş ve eğitimlere devam edilmiştir.
-  * *Seyyahın Kütüphane Notu:* Amasya İl Halk Kütüphanesi - Yeşilırmak kıyısında, nehrin şırıltısı eşliğinde kod yazma deneyimi sunan eşsiz bir çalışma alanı.
-- **Şehri Sindirme:** Kalan vakitlerde şehrin tarihi ve kültürel dokusu acele etmeden, derinlemesine keşfedilmiştir.
+### 💻 Yarı Göçebe Mesaisi (İlim Tahsili & Kütüphane)
+- **Kütüphane Rutini:** Gündüz vakitlerinde şehrin İl Halk Kütüphanesinde zaman geçirilerek bilgisayar başında yazılım geliştirme ve ders çalışma faaliyetleri sürdürülmüştür.
+  * *Seyyahın Kütüphane Notu:* Amasya İl Halk Kütüphanesi - Sessiz, çalışma disiplinine uygun, internet imkanı sunan verimli bir ilim yuvası.
+- **Süre ve Uyum:** Kütüphane mesaisi bitiminde şehrin ruhuna karışmak üzere yollara düşülmüş, 5 günlük menzil süresiyle şehir sindirilerek keşfedilmiştir.
 
-### ✨ Keşfedilesi Duraklar
+### ✨ Keşfedilesi Duraklar ve Landmarks
 Bu şehrin havasını solumak, ruhuna dokunmak için mutlaka adımlanması gereken köşe taşları:
 - [ ] **Kral Kaya Mezarları**
-- [ ] **Amasya Kalesi**
-- [ ] **Amasya Yalıboyu Evleri**
-- [ ] **Hazeranlar Konağı**
+- [ ] **Yalıboyu Tarihi Evleri**
 - [ ] **Ferhat ile Şirin Aşıklar Müzesi**
 - [ ] **II. Bayezid Külliyesi**
-- [ ] **Sabuncuoğlu Şerefeddin Tıp Müzesi**
 
 ---
 *Bu il bizzat deneyimlenmiş, yolları aşındırılmış ve seyahatnameye sevgiyle işlenmiştir.* ✅
